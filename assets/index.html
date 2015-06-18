@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="./css/jquery.mobile-1.4.5.min.css" />
+	<link rel="stylesheet" href="./css/ube.css" />
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script type="text/javascript" src="./js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="./js/jquery.mobile-1.4.5.min.js"></script>
+	<script type="text/javascript" src="./js/jquery.ui.map.js"></script>
+	<script type="text/javascript" src="./js/jquery.ui.map.extensions.js"></script>
+	<script type="text/javascript" src="./js/jquery.ui.map.services.js"></script>
+	<script type="text/javascript" src="./js/jquery.ddslick.js"></script>
+	<script type="text/javascript">
+		/**
+
+		Copyright (c) 2015 AIM All rights reserved.
+
+		This software is released under the MIT License.
+		 http://opensource.org/licenses/mit-license.php
+		 */
+
+		 var first = true;
+		var fileAddressList = [];
+		var clientPosition;
+		var url;
+		var itemkey;
+		var local = false;
+		// -------------------------------------------------
+		// 処理化
+		// -------------------------------------------------
+		$(function() {
+			$.mobile.ajaxEnabled = true;
+			$.support.cors = true;
+
+			//データリスト一覧クリック時
+			$("li[id*='data']").click(function(e) {
+				first = true;
+				var i = $(this).attr("id").replace("data", "");
+				var name = fileAddressList[i].name;
+				url = fileAddressList[i].url;
+				itemkey = fileAddressList[i].itemkey;
+
+				//ヘッダ、マーカーを初期化
+				$("#mapheader").text(name);
+				$("#displaynavi").addClass("ui-state-disabled");
+
+				//XML情報をロード
+				dataXmlLoad(url, itemkey);
+
+				//MAPを再描画する
+				mapInit();
+
+				//MAPページを開く
+				$("body").pagecontainer("change", "#mappage");
+			});
+
+			//現在地再取得ボタンクリック時
+			$("#current").click(function(e) {
+				var ddData = $("#mapitemlist").data("ddslick");
+				createRoot(ddData);
+			});
+
+			//ナビ表示ボタンクリック時
+			$("#displaynavi").click(function(e) {
+				// ページを移動
+				$("body").pagecontainer("change", "#routedialog", { transition: "pop" });
+			});
+		});
+
+		// -------------------------------------------------
+		// トップページ初期化
+		// -------------------------------------------------
+		$(document).on("pageinit", "#toppage", function() {
+			//データリストをロード
+			dataListXmlLoad();
+			//Mapオブジェクト初回作成 33.968097, 131.295004
+			$("#map_canvas").gmap({"center": new google.maps.LatLng(35.681382, 139.766084), "zoom" : 15, navigationControl:true });
+		});
+
+		// -------------------------------------------------
+		// MAPページ表示
+		// -------------------------------------------------
+		$(document).on("pageshow", "#mappage", function() {
+			if (first) {
+				first = false;
+				//MAPを再描画する
+				mapInit();
+
+				var height = $(window).height() -
+				   $("#mappage").find("[data-role='header']").outerHeight() -
+				   $("#mappage").find("[data-role='footer']").outerHeight() - 45;
+				var width = $(window).width();
+				$("#map_canvas").height(height);
+				$("#map_canvas").width(width);
+
+				$("#map_canvas").gmap("refresh");
+				$("#route").height($(window).height() - 150);
+			}
+		});
+
+		// -------------------------------------------------
+		// MAPの初期化
+		// -------------------------------------------------
+		function getCurrentPosition() {
+			try {
+				//現在位置を取得
+				$("#map_canvas").gmap("getCurrentPosition", function(position, status) {
+					if ( status === "OK" ) {
+						try {
+							clientPosition = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+							$("#map_canvas").gmap("addMarker", {
+								"position": clientPosition,
+								"bounds": false,
+								"icon": new google.maps.MarkerImage(
+									"css/images/cyoukokun.gif",
+									new google.maps.Size(395, 330),
+									new google.maps.Point(0, 0),
+									new google.maps.Point(0, 30),
+									new google.maps.Size(40, 30)
+								)
+							});
+
+							$("#map_canvas").gmap("get", "map").setCenter(clientPosition);
+							$("#map_canvas").gmap("get", "map").setZoom(15);
+						} catch (e) {
+							setTimeout(function() { alertDialog("itemlistchange:" + e) }, 500);
+						}
+					}
+				}, {enableHighAccuracy: true, timeout: 60000, maximumAge: 0});
+			} catch (e) {
+				setTimeout(function() { alertDialog("getCurrentPosition:" + e) }, 500);
+			}
+		}
+
+		// -------------------------------------------------
+		// MAPの初期化
+		// -------------------------------------------------
+		function mapInit() {
+			$("#map_canvas").gmap("clear", "markers");
+			$("#map_canvas").gmap("clearDirections");
+			$("#map_canvas").gmap("closeInfoWindow");
+
+			//現在位置を取得
+			getCurrentPosition();
+		}
+
+		// -------------------------------------------------
+		// データリストのXML読み込み
+		// -------------------------------------------------
+		function dataListXmlLoad() {
+			try {
+				//リストをクリア
+				$("#dataList").empty();
+				//ローカルファイルからデータを取得
+				var xml = GetXml.getDataListXml();
+				var idx = 0;
+				//XML項目
+				$(xml).find("ube_opendata_list").each(function() {
+					var label = $(this).find("label").text();
+					var itemkey = $(this).find("itemkey").text();
+					var fileAddress = $(this).find("fileAddress").text();
+
+					//ラベルをリストにセット、ファイルURLを配列に格納
+					$("#dataList").append("<li id='data" + idx + "'><a>" + label + "</a></li>");
+					fileAddressList[idx] = {"name" : label, "url" : fileAddress, "itemkey" : itemkey};
+					idx++;
+				});
+				//再描画
+				$("#dataList").listview("refresh");
+			} catch (e) {
+				setTimeout(function() { alertDialog("dataListXmlLoad:" + e) }, 500);
+			}
+		}
+
+		// -------------------------------------------------
+		// データXML読み込み
+		// -------------------------------------------------
+		function dataXmlLoad(url, itemkey) {
+
+			var xml;
+
+			try {
+
+				if (local) {
+					xml = GetXml.getDataXml(itemkey);
+				} else {
+					xml = GetXml.getXml(url);
+				}
+
+			} catch (e) {
+				xml = GetXml.getDataXml(itemkey);
+				local = true;
+
+				setTimeout(function() { alertDialog("最新データの取得に失敗しました。<br>一時的にローカルデータで起動します。") }, 500);
+			}
+
+			try {
+				var ddData = [];
+				var idx = 0;
+				$("#mapitemlist").ddslick("destroy");
+				//XML項目
+				$(xml).find(itemkey).each(function() {
+					var id = $(this).attr("id");
+					var label = $(this).find("label").text();
+					ddData[idx] = {
+							text: label,
+							value: id,
+							selected: false,
+							imageSrc: "css/images/cyoukokun.gif"
+					};
+					idx++;
+				});
+
+				$("#mapitemlist").ddslick({
+					data: ddData,
+					width: "100%",
+					height: 300,
+					imagePosition: "left",
+					selectText: "選択してください",
+					onSelected: function (data) {
+						var id = data.selectedData.value;
+						if (id == "") {
+							$("#displaynavi").addClass("ui-state-disabled");
+						} else {
+							createRoot(data);
+						}
+					}
+				});
+
+			} catch (e) {
+				setTimeout(function() { alertDialog("dataXmlLoad:" + e) }, 500);
+			}
+		}
+
+		// -------------------------------------------------
+		// ルート生成
+		// -------------------------------------------------
+		function createRoot(data) {
+
+			//MAPを再描画する
+			mapInit();
+
+			//ID指定でXmlのアイテムを取得
+			var id = data.selectedData.value;
+			if (id == "") {
+				return;
+			}
+
+			if (local) {
+				xml = GetXml.getDataXml(itemkey);
+			} else {
+				xml = GetXml.getXml(url);
+			}
+
+			var item = $(xml).find(itemkey + "[id='" + id + "']");
+
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var latitude = $(item).find("latitude").text();
+			var longlatitude = $(item).find("longlatitude").text();
+			var latlng = new google.maps.LatLng(latitude, longlatitude);
+
+			switch (itemkey){
+				case "ube_civic_facility":
+					//公共施設
+					infoWindowHtml = createCivicFacilityInfoWindow(item);
+					break;
+				case "ube_educational_facility":
+					//教育施設
+					infoWindowHtml = createEducationalFacilityInfoWindow(item);
+					break;
+				case "ube_aed":
+					//AED設置施設
+					infoWindowHtml = createAedInfoWindow(item);
+					break;
+				case "ube_poling_space":
+					//投票所
+					infoWindowHtml = createPolingSpaceInfoWindow(item);
+					break;
+				case "ube_sculpture":
+					//彫刻
+					infoWindowHtml = createSculptureInfoWindow(item);
+					break;
+				case "ube_cultural_property":
+					//文化財
+					infoWindowHtml = createCulturalPropertyInfoWindow(item);
+					break;
+			}
+
+			//マーカーを設置
+			var maker = $("#map_canvas").gmap("addMarker", {"position": latlng, "bounds": false});
+
+			//情報ウィンドウを表示
+			$("#map_canvas").gmap("openInfoWindow",
+				{"content": infoWindowHtml},
+				maker
+			);
+
+			//遅延させないと現在地取得前に実行されるため、0.5秒後に実行する
+			setTimeout(function() {
+				//現在地から指定箇所までのルート表示
+				$("#map_canvas").gmap("displayDirections",
+					{
+					"origin": clientPosition,
+					"destination": latlng,
+					"travelMode": google.maps.DirectionsTravelMode.DRIVING },
+					{
+					"panel": document.getElementById("route")
+					},
+					function(success, result) {
+						if (success) {
+							$("#displaynavi").removeClass("ui-state-disabled");
+						}
+					}
+				);
+			 }, 500);
+		}
+
+		//公共施設の情報ウィンドウを生成
+		function createCivicFacilityInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		//教育施設の情報ウィンドウを生成
+		function createEducationalFacilityInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		//AED設置施設の情報ウィンドウを生成
+		function createAedInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		//投票所の情報ウィンドウを生成
+		function createPolingSpaceInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		//彫刻の情報ウィンドウを生成
+		function createSculptureInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+			var author = $(obj).find("author").text();
+			var place = $(obj).find("place").text();
+			var material = $(obj).find("material").text();
+			var size = $(obj).find("size").text();
+			var exhibit = $(obj).find("exhibit").text();
+			var homepage = $(obj).find("homepage").text();
+			var depiction = $(obj).find("depiction").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "画像" + "</th>";
+			infoWindowHtml += "        <td>";
+			infoWindowHtml += "            <img src='" + depiction + "' width='100' height='70' alt='" + label + "' border='0'>";
+			infoWindowHtml += "        </td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "URL" + "</th>";
+			infoWindowHtml += "        <td>";
+			infoWindowHtml += "            <a href='javascript:void(0)' onclick='openBrowse(\"" + homepage + "\"); return false;'>ホームページ</a>";
+			infoWindowHtml += "        </td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		//文化財の情報ウィンドウを生成
+		function createCulturalPropertyInfoWindow(obj) {
+			var infoWindowHtml = "";
+
+			//各要素を変数に格納
+			var label = $(obj).find("label").text();
+			var depiction = $(obj).find("depiction").text();
+
+			//情報ウィンドウのHtmlを生成
+			infoWindowHtml  = "";
+			infoWindowHtml += "<table class='infoWindow' style='width:100%;'>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "名称" + "</th>";
+			infoWindowHtml += "        <td>" + label + "</td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "    <tr>";
+			infoWindowHtml += "        <th>" + "画像" + "</th>";
+			infoWindowHtml += "        <td>";
+			infoWindowHtml += "            <img src='" + depiction + "' width='100' height='70' alt='" + label + "' border='0'>";
+			infoWindowHtml += "        </td>";
+			infoWindowHtml += "    </tr>";
+			infoWindowHtml += "</table>";
+
+			return infoWindowHtml;
+		}
+
+		function openBrowse(url) {
+			GetXml.openBrowse(url);
+		}
+
+		// -------------------------------------------------
+		// メッセージをダイアログに表示する
+		// -------------------------------------------------
+		function alertDialog(message) {
+			$("#alertcontent").html(message);
+			// ページを移動
+			$("body").pagecontainer("change", "#alertdialog", { transition: "pop" });
+		}
+	</script>
+</head>
+<body>
+<div data-role="page" id="toppage">
+	<div data-role="header" id="header">
+		<h1>宇部市オープンデータ</h1>
+	</div>
+	<div data-role="content" style="width:100%;height:380px;">
+		<ul data-role="listview" id="dataList">
+			<li data-role="list-divider">オープンデータ</li>
+		</ul>
+	</div>
+</div>
+<div data-role="page" id="mappage">
+	<div data-role="header" id="header">
+		<h1 id="mapheader"></h1>
+	</div>
+	<div data-role="content" style="padding:0px;mergin:0px;">
+		<table style="padding:0px;width:100%;">
+			<tr style="height:40px;">
+				<td class="CenterStyle">
+					<div id="mapitemlist" align="center" style="height:40px;width:100%;">
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td class="CenterStyle">
+					<div id="map_canvas" align="center">
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div data-role="footer" class="CenterStyle">
+		<a class="ui-btn ui-corner-all" href="" data-rel="back">戻る</a>
+		<a id="current" class="ui-btn ui-corner-all">現在地再取得</a>
+		<a id="displaynavi" class="ui-btn ui-corner-all">ナビ表示</a>
+	</div>
+</div>
+<div id="routedialog" data-role="dialog" data-close-btn="right">
+	<div data-role="header" style="width:100%;height:20%;">
+		<h1>ルート</h1>
+	</div>
+	<div data-role="content">
+		<div id="route"></div>
+	</div>
+</div>
+<div id="alertdialog" data-role="dialog" data-close-btn="right">
+	<div data-role="header" id="alertheader">
+		<h1>メッセージ</h1>
+	</div>
+	<div data-role="content" id="alertcontent">
+	</div>
+</div>
+</body>
+</html>

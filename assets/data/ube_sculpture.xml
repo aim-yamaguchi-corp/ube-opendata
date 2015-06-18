@@ -1,0 +1,3722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://opendata.city.ube.yamaguchi.jp/data/ube_sculpture.xsd">
+    <ube_sculpture id="450">
+        <label>AFFINITY-K</label><!--彫刻名-->
+        <ruby>あふぃにてぃー-けい</ruby><!--彫刻名よみがな-->
+        <latitude>33.9476556498727</latitude><!--緯度-->
+        <longlatitude>131.287376682209</longlatitude><!--経度-->
+        <author>清水　九兵衛</author><!--作家名-->
+        <authorRuby>きよみず　きゅうべえ</authorRuby><!--作家名よみがな-->
+        <year>1975</year><!--制作年-->
+        <place>ときわ公園東・梅林付近</place><!--設置場所-->
+        <material>アルミ合金</material><!--素材-->
+        <size>80cm×750cm×750cm</size><!--サイズ-->
+        <exhibit>第6回現代日本彫刻展、毎日新聞社賞・東京国立近代美術館賞</exhibit><!--出展-->
+        <owner>宇部市</owner><!--所蔵者-->
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=450</homepage><!--ホームページ-->
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000450_1_t2.jpg</depiction><!--写真-->
+    </ube_sculpture>
+    <ube_sculpture id="451">
+        <label>UNTITLED 01-A</label>
+        <ruby>あんたいとる ぜろいち-えー</ruby>
+        <latitude>33.9540332011647</latitude>
+        <longlatitude>131.246553550926</longlatitude>
+        <author>前田　哲明</author>
+        <authorRuby>まえだ　のりあき</authorRuby>
+        <year>2001</year>
+        <place>真締川公園西・寿橋付近</place>
+        <material>SUS304（ステンレススティール）、アクリル樹脂、ステンレスワイヤー、FRP、鉄</material>
+        <size>180cm×180cm×900cm</size>
+        <weight>3000kg</weight><!--重量-->
+        <exhibit>第19回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=451</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000451_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="452">
+        <label>あなたと…（わすれてしまったこと）</label>
+        <ruby>あなたと…（わすれてしまったこと）</ruby>
+        <latitude>33.9530279999999</latitude>
+        <longlatitude>131.281259635581</longlatitude>
+        <author>武荒　信顕</author>
+        <authorRuby>たけあら　のぶあき</authorRuby>
+        <year>1989</year>
+        <place>ときわ公園・周遊園路・白鳥大橋北詰</place>
+        <material>鋼板、ステンレススティール、塗料、ベアリング</material>
+        <size>420cm×405cm×405cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第13回現代日本彫刻展、テレビ山口賞</exhibit>
+        <owner>テレビ山口株式会社</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=452</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000452_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="453">
+        <label>アルウィン・ニコライの陽-〈眩驚〉</label>
+        <ruby>あるうぃん・にこらいのひ-〈げんきょう〉</ruby>
+        <latitude>33.9500505238287</latitude>
+        <longlatitude>131.247867842922</longlatitude>
+        <author>土田　隆生</author>
+        <authorRuby>つちだ　たかお</authorRuby>
+        <year>1987</year>
+        <place>国道190号線常盤通り・常盤町一丁目バス停側</place>
+        <material>アルミニウム、白御影石</material>
+        <size>210cm×270cm×92cm</size>
+        <weight>2100kg</weight>
+        <exhibit>第12回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=453</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000453_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="454">
+        <label>あるポーズ</label>
+        <ruby>あるぽーず</ruby>
+        <latitude>33.952109</latitude>
+        <longlatitude>131.245524</longlatitude>
+        <author>桜井　祐一</author>
+        <authorRuby>さくらい　ゆういち</authorRuby>
+        <year>1965</year>
+        <place>真締川公園西</place>
+        <material>ブロンズ</material>
+        <size>110cm×70cm×60cm</size>
+        <exhibit>第1回現代日本彫刻展、宇部市賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=454</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000454_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="456">
+        <label>蟻の城</label>
+        <ruby>ありのしろ</ruby>
+        <latitude>33.948433774999</latitude>
+        <longlatitude>131.282704766864</longlatitude>
+        <author>向井　良吉</author>
+        <authorRuby>むかい　りょうきち</authorRuby>
+        <year>1962</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>鉄</material>
+        <size>500cm×600cm×330cm</size>
+        <owner>宇部市</owner>
+        <remarks>宇部をテーマとした彫刻・現地制作</remarks><!--備考-->
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=456</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000456_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="457">
+        <label>脚を組んだ女</label>
+        <ruby>あしをくんだおんな</ruby>
+        <latitude>33.955934306191</latitude>
+        <longlatitude>131.249595906745</longlatitude>
+        <author>佐藤　忠良</author>
+        <authorRuby>さとう　ちゅうりょう</authorRuby>
+        <year>1989</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>82cm×23cm×23cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=457</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000457_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="459">
+        <label>碧い舟-内なる海と空-</label>
+        <ruby>あおいふね-うちなるうみとそら-</ruby>
+        <latitude>33.9558027868296</latitude>
+        <longlatitude>131.249259341104</longlatitude>
+        <author>小清水　漸</author>
+        <authorRuby>こしみず　すすむ</authorRuby>
+        <year>1987</year>
+        <place>宇部市立図書館内</place>
+        <material>銅、水</material>
+        <size>32cm×50cm×240cm（6個）</size>
+        <weight>25kg×6</weight>
+        <exhibit>第12回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=459</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000459_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="460">
+        <label>1995 KISHI</label>
+        <ruby>いちきゅうきゅうご きし</ruby>
+        <latitude>33.9531954736455</latitude>
+        <longlatitude>131.281129008598</longlatitude>
+        <author>原口　典之</author>
+        <authorRuby>はらぐち　のりゆき</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・周遊園路・白鳥大橋北詰</place>
+        <material>鉄、ステンレスワイヤー</material>
+        <size>750cm×350cm×200cm</size>
+        <weight>13720kg</weight>
+        <exhibit>第16回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=460</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000460_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="461">
+        <label>イッテ・ミヨウヨ・アノヨマデ</label>
+        <ruby>いって・みようよ・あのよまで</ruby>
+        <latitude>33.9477620251697</latitude>
+        <longlatitude>131.28718921288</longlatitude>
+        <author>最上　壽之</author>
+        <authorRuby>もがみ　ひさゆき</authorRuby>
+        <year>1977</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>富士川原石</material>
+        <size>160cm×210cm×230cm</size>
+        <exhibit>第7回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=461</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000461_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="462">
+        <label>異・空間</label>
+        <ruby>い・くうかん</ruby>
+        <latitude>33.9566404179851</latitude>
+        <longlatitude>131.239666212303</longlatitude>
+        <author>内田　晴之</author>
+        <authorRuby>うちだ　はるゆき</authorRuby>
+        <year>1987</year>
+        <place>宇部新川沖ノ山線 フラワーハウスいそむら前</place>
+        <material>ステンレススティール、マグネット</material>
+        <size>220cm×285cm×233cm</size>
+        <weight>1500kg</weight>
+        <exhibit>第12回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=462</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000462_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="464">
+        <label>石凧</label>
+        <ruby>いしだこ</ruby>
+        <latitude>33.9574588617589</latitude>
+        <longlatitude>131.245943608003</longlatitude>
+        <author>水井　康雄</author>
+        <authorRuby>みずい　やすお</authorRuby>
+        <year>1963</year>
+        <place>渡辺翁記念公園</place>
+        <material>小松石（安山岩）</material>
+        <size>205cm×153cm×58cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展、招待出品</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=464</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000464_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="465">
+        <label>碑 No.4</label>
+        <ruby>いしぶみ なんばーよん</ruby>
+        <latitude>33.967281</latitude>
+        <longlatitude>131.330693</longlatitude>
+        <author>昆野　恒</author>
+        <authorRuby>こんの　ひさし</authorRuby>
+        <year>1967</year>
+        <place>宇部興産中央病院</place>
+        <material>コンクリート、鉄</material>
+        <size>200cm×160cm×200cm</size>
+        <exhibit>第2回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod><!--取得方法-->
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=465</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000465_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="466">
+        <label>UMIE（湖へ）</label>
+        <ruby>うみへ</ruby>
+        <latitude>33.960401</latitude>
+        <longlatitude>131.251197</longlatitude>
+        <author>外礒　秀紹</author>
+        <authorRuby>とのいそ　ひでつぐ</authorRuby>
+        <year>1999</year>
+        <place>真締川公園・宇部大橋西詰、山口大学附属病院北東</place>
+        <material>自然石（花崗岩）、アルミニウム（塗装）、ステンレススティール</material>
+        <size>270cm×1000cm×180cm</size>
+        <weight>5800kg</weight>
+        <exhibit>第18回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=466</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000466_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="467">
+        <label>WIG-A</label>
+        <ruby>うぃっぐ-えー</ruby>
+        <latitude>33.9511831124003</latitude>
+        <longlatitude>131.245765253967</longlatitude>
+        <author>清水　九兵衛</author>
+        <authorRuby>きよみず　きゅうべえ</authorRuby>
+        <year>1979</year>
+        <place>真締川公園東</place>
+        <material>アルミニウム合金、鉄</material>
+        <size>440cm×135cm×240cm</size>
+        <exhibit>第8回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=467</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000467_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="468">
+        <label>宇宙</label>
+        <ruby>うちゅう</ruby>
+        <latitude>33.9515142006378</latitude>
+        <longlatitude>131.246436</longlatitude>
+        <author>濱野　邦昭</author>
+        <authorRuby>はまの　くにあき</authorRuby>
+        <year>1999</year>
+        <place>宇部市役所前</place>
+        <material>ブロンズ</material>
+        <size>280cm×115cm×115cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>男女共同参画記念碑設置委員会寄贈</acquisitionMethod>
+        <remarks>宇部市男女共同参画宣言都市記念碑</remarks>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=468</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000468_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="469">
+        <label>宇宙＜模型＞</label>
+        <ruby>うちゅう＜もけい＞</ruby>
+        <latitude>33.932941</latitude>
+        <longlatitude>131.274964</longlatitude>
+        <author>濱野　邦昭</author>
+        <authorRuby>はまの　くにあき</authorRuby>
+        <year>2000</year>
+        <place>男女共同参画センター・フォーユー</place>
+        <material>FRP</material>
+        <size>54cm×18cm×15cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>男女共同参画記念碑設置委員会寄贈</acquisitionMethod>
+        <remarks>実物大有り</remarks>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=469</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000469_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="470">
+        <label>宇宙シリーズ・87（四季のメッセージ）</label>
+        <ruby>うちゅうしりーず・はちじゅうなな（しきのめっせーじ）</ruby>
+        <latitude>33.9525917751076</latitude>
+        <longlatitude>131.288417338623</longlatitude>
+        <author>栄　利秋</author>
+        <authorRuby>さかえ　としあき</authorRuby>
+        <year>1987</year>
+        <place>ときわ公園・周遊園路・ときわ少年キャンプ場北</place>
+        <material>白御影石</material>
+        <size>380cm×150cm×500cm</size>
+        <weight>7300kg</weight>
+        <exhibit>第12回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>国際ソロプチミスト宇部寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=470</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000470_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="471">
+        <label>宇宙の風景Ⅰ</label>
+        <ruby>うちゅうのふうけいわん</ruby>
+        <latitude>33.949286712157</latitude>
+        <longlatitude>131.283471647238</longlatitude>
+        <author>楠田　信吾</author>
+        <authorRuby>くすだ　しんご</authorRuby>
+        <year>1991</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>御影石、ガラス、補強金物</material>
+        <size>225cm×600cm×185cm</size>
+        <weight>8000kg</weight>
+        <exhibit>第14回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=471</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000471_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="472">
+        <label>宇奈月</label>
+        <ruby>うなづき</ruby>
+        <latitude>33.9490000751839</latitude>
+        <longlatitude>131.283048411045</longlatitude>
+        <author>剣持　和夫</author>
+        <authorRuby>けんもち　かずお</authorRuby>
+        <year>1993</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ブロンズ</material>
+        <size>730cm×55cm×25cm</size>
+        <weight>98kg</weight>
+        <exhibit>第15回現代日本彫刻展、神戸須磨離宮公園賞・東京国立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=472</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000472_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="473">
+        <label>宇部の先人をしのび明日をちかう</label>
+        <ruby>うべのせんじんをしのびあしたをちかう</ruby>
+        <latitude>33.9440941330622</latitude>
+        <longlatitude>131.269335132471</longlatitude>
+        <author>神原中学校生徒</author>
+        <authorRuby>かみはらちゅうがっこうせいと</authorRuby>
+        <year>1971</year>
+        <place>恩田運動公園</place>
+        <material>鉄、塗料</material>
+        <size>500cm×320cm×280cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=473</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000473_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="474">
+        <label>宇部興産ビル旧噴水彫刻</label>
+        <ruby>うべこうさんびるきゅうふんすいちょうこく</ruby>
+        <latitude>33.966758</latitude>
+        <longlatitude>131.330046</longlatitude>
+        <author>円鍔　勝三</author>
+        <authorRuby>えんつば　かつぞう</authorRuby>
+        <year>1983</year>
+        <place>宇部興産中央病院</place>
+        <material>ブロンズ</material>
+        <size>58cm×17cm×17cm（3個）、66cm×21cm×16.5cm（3個）</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部興産株式会社寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=474</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000474_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="475">
+        <label>宇部産業祈念像</label>
+        <ruby>うべさんぎょうきねんぞう</ruby>
+        <latitude>33.9522041766665</latitude>
+        <longlatitude>131.246250682209</longlatitude>
+        <author>山内　壮夫</author>
+        <authorRuby>やまのうち　たけお</authorRuby>
+        <year>1956</year>
+        <place>真締川公園東・宇部市役所横</place>
+        <material>ブロンズ</material>
+        <size>240cm×97cm×67cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=475</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000475_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="476">
+        <label>内なる空73-2</label>
+        <ruby>うちなるそらなじゅうさん-に</ruby>
+        <latitude>33.9474687749737</latitude>
+        <longlatitude>131.2874784957</longlatitude>
+        <author>山本　衛士</author>
+        <authorRuby>やまもと　えいし</authorRuby>
+        <year>1973</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>鉄(クロームメッキ、塗装)</material>
+        <size>100cm×900cm×600cm</size>
+        <exhibit>第5回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=476</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000476_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="477">
+        <label>浮く石</label>
+        <ruby>うくいし</ruby>
+        <latitude>33.9572662477039</latitude>
+        <longlatitude>131.282543449073</longlatitude>
+        <author>植松　奎二</author>
+        <authorRuby>うえまつ　けいじ</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・周遊園路・薬草園付近</place>
+        <material>花崗岩（白御影石、黒御影石）、耐候性鋼板</material>
+        <size>460cm×725cm×110cm</size>
+        <weight>20150kg</weight>
+        <exhibit>第16回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=477</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000477_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="478">
+        <label>エンドレス コア</label>
+        <ruby>えんどれす こあ</ruby>
+        <latitude>33.9535505502656</latitude>
+        <longlatitude>131.244000457671</longlatitude>
+        <author>塚本　洋守</author>
+        <authorRuby>つかもと　ひろし</authorRuby>
+        <year>1999</year>
+        <place>シンボルロード</place>
+        <material>ステンレススティール</material>
+        <size>224cm×142cm×108cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>若き経営者の会寄贈（結成25周年記念事業）／※台座は、NTT排気口</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=478</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000478_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="479">
+        <label>円B</label>
+        <ruby>えんびー</ruby>
+        <oldTitle>円</oldTitle><!--旧題-->
+        <latitude>33.9333346666496</latitude>
+        <longlatitude>131.275237846032</longlatitude>
+        <author>堀内　正和</author>
+        <authorRuby>ほりうち　まさかず</authorRuby>
+        <year>1958</year>
+        <place>山口宇部空港ビル内</place>
+        <material>鉄</material>
+        <size>56cm×37cm×37cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展、招待出品</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=479</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000479_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="480">
+        <label>円の仕掛／滑空</label>
+        <ruby>えんのしかけ／かっくう</ruby>
+        <latitude>33.9628725507531</latitude>
+        <longlatitude>131.286467580356</longlatitude>
+        <author>生形　貴春</author>
+        <authorRuby>うぶかた　たかはる</authorRuby>
+        <year>1999</year>
+        <place>ときわ公園・周遊園路・スポーツ広場西入口</place>
+        <material>ステンレススティール、ウレタン塗装、ヘアライン研磨</material>
+        <size>720cm×415cm×600cm</size>
+        <weight>1620kg</weight>
+        <exhibit>第18回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=480</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000480_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="481">
+        <label>Oscilation VI</label>
+        <ruby>おしれいしょん ふぉー</ruby>
+        <latitude>33.9470711997086</latitude>
+        <longlatitude>131.283686690807</longlatitude>
+        <author>秋山　陽</author>
+        <authorRuby>あきやま　よう</authorRuby>
+        <year>2001</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>陶</material>
+        <size>145cm×820cm×150cm</size>
+        <weight>2500kg</weight>
+        <exhibit>第19回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=481</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000481_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="483">
+        <label>王と王妃</label>
+        <ruby>おうとおうひ</ruby>
+        <latitude>33.947576</latitude>
+        <longlatitude>131.251511</longlatitude>
+        <author>富樫　一</author>
+        <authorRuby>とがし　はじめ</authorRuby>
+        <year>1963</year>
+        <place>宮大路公園前交差点</place>
+        <material>小松石（安山岩）</material>
+        <size>200cm×33cm×50cm、150cm×33cm×40cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展、毎日彫刻奨励賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=483</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000483_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="485">
+        <label>女</label>
+        <ruby>おんな</ruby>
+        <latitude>33.94823</latitude>
+        <longlatitude>131.288366</longlatitude>
+        <author>荻原　守衛</author>
+        <authorRuby>おぎわら　もりえ</authorRuby>
+        <year>1910</year>
+        <place>ときわミュージアム分館</place>
+        <material>ブロンズ</material>
+        <size>99cm×50cm×55cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部市連合婦人会寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=485</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000485_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="486">
+        <label>小川に魚が帰った日</label>
+        <ruby>おがわにさかながかえったひ</ruby>
+        <latitude>33.9750757339256</latitude>
+        <longlatitude>131.199326802446</longlatitude>
+        <author>加藤　昭男</author>
+        <authorRuby>かとう　あきお</authorRuby>
+        <year>1995</year>
+        <place>厚南・流川バス停横</place>
+        <material>ブロンズ</material>
+        <size>115cm×370cm×100cm</size>
+        <weight>600kg</weight>
+        <exhibit>第16回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=486</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000486_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="487">
+        <label>大首Ⅲ</label>
+        <ruby>おおくびすりー</ruby>
+        <latitude>33.9600159676022</latitude>
+        <longlatitude>131.251567055225</longlatitude>
+        <author>吉野　辰海</author>
+        <authorRuby>よしの　たつみ</authorRuby>
+        <year>2005</year>
+        <place>真締川公園・宇部大橋東詰、山口大学附属病院北東</place>
+        <material>FRP</material>
+        <size>400cm×210cm×300cm</size>
+        <weight>300kg</weight>
+        <exhibit>第21回現代日本彫刻展、山口県立美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部新川ライオンズクラブ寄贈（設立40周年記念事業）</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=487</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000487_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="489">
+        <label>家族</label>
+        <ruby>かぞく</ruby>
+        <latitude>33.947289575218</latitude>
+        <longlatitude>131.284300728836</longlatitude>
+        <author>五十嵐　芳三</author>
+        <authorRuby>いがらし　よしぞう</authorRuby>
+        <year>1963</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>コンクリート</material>
+        <size>190cm×106cm×85cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=489</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000489_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="490">
+        <label>寡黙容量</label>
+        <ruby>かもくようりょう</ruby>
+        <latitude>33.9615333455824</latitude>
+        <longlatitude>131.248901393848</longlatitude>
+        <author>岡本　敦生</author>
+        <authorRuby>おかもと　あつお</authorRuby>
+        <year>1991</year>
+        <place>山口大学附属病院北</place>
+        <material>白御影石</material>
+        <size>160cm×400cm×300cm</size>
+        <weight>8000kg</weight>
+        <exhibit>第14回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=490</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000490_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="491">
+        <label>環境装置-宇部の風</label>
+        <ruby>かんきょうそうち-うべのかぜ</ruby>
+        <latitude>34.0708828155076</latitude>
+        <longlatitude>131.243161154492</longlatitude>
+        <author>石黒　鏘二</author>
+        <authorRuby>いしぐろ　しょうじ</authorRuby>
+        <year>1985</year>
+        <place>万倉ふれあいセンター近く</place>
+        <material>ステンレススティール、御影石</material>
+        <size>420cm×100cm×100cm</size>
+        <weight>5000kg</weight>
+        <exhibit>第11回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=491</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000491_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="493">
+        <label>関係-無関係・天と地と種子の響き</label>
+        <ruby>かんけい-むかんけい・てんとちとしゅしのひびき</ruby>
+        <latitude>33.93268262</latitude>
+        <longlatitude>131.2723572</longlatitude>
+        <author>河口　龍夫</author>
+        <authorRuby>かわぐち　たつお</authorRuby>
+        <year>2003</year>
+        <place>山口宇部空港</place>
+        <material>石、銅、真鍮、鉛、種子（蓮）</material>
+        <size>500cm×700cm×700cm</size>
+        <weight>9140kg</weight>
+        <exhibit>第20回現代日本彫刻展、兵庫県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=493</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000493_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="494">
+        <label>懸ける</label>
+        <ruby>かける</ruby>
+        <latitude>33.9507478246675</latitude>
+        <longlatitude>131.249306719643</longlatitude>
+        <author>向井　良吉</author>
+        <authorRuby>むかい　りょうきち</authorRuby>
+        <year>1979</year>
+        <place>琴芝街区公園</place>
+        <material>鉄、スクラップ</material>
+        <size>433cm×300cm×150cm</size>
+        <exhibit>第8回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=494</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000494_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="496">
+        <label>風</label>
+        <ruby>かぜ</ruby>
+        <latitude>33.9488516013428</latitude>
+        <longlatitude>131.250441181545</longlatitude>
+        <author>番浦　有爾</author>
+        <authorRuby>ばんうら　ゆうじ</authorRuby>
+        <year>1990</year>
+        <place>国道190号線常盤通り　クシベ前</place>
+        <material>ブロンズ</material>
+        <size>145cm×100cm×70cm</size>
+        <exhibit>第12回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=496</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000496_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="498">
+        <label>風と雲の出合い</label>
+        <ruby>かぜとくものであい</ruby>
+        <latitude>33.9800564837303</latitude>
+        <longlatitude>131.340021396295</longlatitude>
+        <author>小笠原　伸行</author>
+        <authorRuby>おがさわら　のぶゆき</authorRuby>
+        <year>1993</year>
+        <place>宇部市立東岐波小学校前</place>
+        <material>コールテン鋼、ステンレススティール、ウレタン塗装</material>
+        <size>332cm×500cm×160cm</size>
+        <weight>1100kg</weight>
+        <exhibit>第15回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=498</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000498_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="499">
+        <label>風になるとき</label>
+        <ruby>かぜになるとき</ruby>
+        <latitude>33.9474118002238</latitude>
+        <longlatitude>131.285062635582</longlatitude>
+        <author>西野　康造</author>
+        <authorRuby>にしの　こうぞう</authorRuby>
+        <year>1997</year>
+        <place>ときわ公園・常盤橋西詰</place>
+        <material>チタン合金、ステンレススティール、コールテン鋼</material>
+        <size>600cm×950cm×160cm</size>
+        <weight>700kg</weight>
+        <exhibit>第17回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=499</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000499_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="500">
+        <label>風に向かって</label>
+        <ruby>かぜにむかって</ruby>
+        <latitude>33.9446471727327</latitude>
+        <longlatitude>131.253982378538</longlatitude>
+        <author>井田　勝己</author>
+        <authorRuby>いだ　かつみ</authorRuby>
+        <year>1997</year>
+        <place>宇部商工会議所前</place>
+        <material>花崗岩、玄武岩</material>
+        <size>250cm×500cm×140cm</size>
+        <weight>14300kg</weight>
+        <exhibit>第17回現代日本彫刻展、神奈川県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部商工会議所寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=500</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000500_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="501">
+        <label>風の影No.6</label>
+        <ruby>かぜのかげなんばーろく</ruby>
+        <latitude>33.952803</latitude>
+        <longlatitude>131.287731665012</longlatitude>
+        <author>大成　浩</author>
+        <authorRuby>おおなり　ひろし</authorRuby>
+        <year>1983</year>
+        <place>ときわ公園・周遊園路・ときわ少年キャンプ場北</place>
+        <material>白御影石</material>
+        <size>496cm×98cm×60cm</size>
+        <exhibit>第10回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=501</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000501_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="502">
+        <label>風の中の鴉</label>
+        <ruby>かぜのなかのからす</ruby>
+        <latitude>33.9557197518975</latitude>
+        <longlatitude>131.242981326389</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1981</year>
+        <place>シンボルロード</place>
+        <material>ブロンズ</material>
+        <size>56cm×103cm×34cm</size>
+        <exhibit>第9回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=502</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000502_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="503">
+        <label>風の塔No.10</label>
+        <ruby>ふうのとうなんばーじゅう</ruby>
+        <latitude>33.9356802</latitude>
+        <longlatitude>131.2751842</longlatitude>
+        <author>大成　浩</author>
+        <authorRuby>おおなり　ひろし</authorRuby>
+        <year>1989</year>
+        <place>山口宇部空港</place>
+        <material>白御影石</material>
+        <size>400cm×450cm×250cm</size>
+        <weight>24000kg</weight>
+        <exhibit>第13回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=503</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000503_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="504">
+        <label>風の譜</label>
+        <ruby>かぜのふ</ruby>
+        <latitude>33.93262921</latitude>
+        <longlatitude>131.2729445</longlatitude>
+        <author>岩城　信嘉</author>
+        <authorRuby>いわき　のぶよし</authorRuby>
+        <year>1983</year>
+        <place>山口宇部空港</place>
+        <material>御影石</material>
+        <size>200cm×500cm×170cm</size>
+        <exhibit>第10回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=504</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000504_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="506">
+        <label>球形のフォーメイション</label>
+        <ruby>きゅうけいのふぉーめいしょん</ruby>
+        <latitude>33.9501574958117</latitude>
+        <longlatitude>131.25390788102</longlatitude>
+        <author>河崎　良行</author>
+        <authorRuby>かわさき　りょうこう</authorRuby>
+        <year>1997</year>
+        <place>宇部警察署前</place>
+        <material>ステンレススティール</material>
+        <size>220cm×376cm×180cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第17回現代日本彫刻展、テレビ山口賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=506</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000506_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="507">
+        <label>虚構の伝説</label>
+        <ruby>きょこうのでんせつ</ruby>
+        <latitude>33.9488332249906</latitude>
+        <longlatitude>131.282820766864</longlatitude>
+        <author>斉藤　聖香</author>
+        <authorRuby>さいとう　せいこう</authorRuby>
+        <year>1963</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>コンクリート</material>
+        <size>176cm×150cm×87cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=507</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000507_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="508">
+        <label>魚商の女</label>
+        <ruby>ぎょしょうのおんな</ruby>
+        <oldTitle>女の首</oldTitle>
+        <latitude>33.9633341191484</latitude>
+        <longlatitude>131.25797657361</longlatitude>
+        <author>佐藤　忠良</author>
+        <authorRuby>さとう　ちゅうりょう</authorRuby>
+        <year>1960</year>
+        <place>宇部市医師会館</place>
+        <material>ブロンズ</material>
+        <size>27cm×15cm×38cm</size>
+        <exhibit>第1回宇部市野外彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=508</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000508_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="509">
+        <label>共生</label>
+        <ruby>きょうせい</ruby>
+        <latitude>33.9529871004725</latitude>
+        <longlatitude>131.24428464418</longlatitude>
+        <author>鹿田　淳史</author>
+        <authorRuby>しかた　あつし</authorRuby>
+        <year>1991</year>
+        <place>シンボルロード</place>
+        <material>ステンレススティール</material>
+        <size>447cm×152cm×110cm</size>
+        <weight>4000kg</weight>
+        <exhibit>第14回現代日本彫刻展、兵庫県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=509</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000509_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="510">
+        <label>樹とともに-浮くかたち</label>
+        <ruby>きとともに-うくかたち</ruby>
+        <latitude>33.9468242994868</latitude>
+        <longlatitude>131.288580131282</longlatitude>
+        <author>植松　奎二</author>
+        <authorRuby>うえまつ　けいじ</authorRuby>
+        <year>1997</year>
+        <place>ときわ公園東・桜山</place>
+        <material>花崗岩（能勢産）、耐候性鋼材、楠</material>
+        <size>740cm×1185cm×360cm</size>
+        <weight>7500kg</weight>
+        <exhibit>第17回現代日本彫刻展、宇部興産創業100周年記念賞・兵庫県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=510</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000510_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="511">
+        <label>切る＜模型＞</label>
+        <ruby>きる＜もけい＞</ruby>
+        <latitude>33.95098</latitude>
+        <longlatitude>131.246086</longlatitude>
+        <author>司馬牛　仁</author>
+        <authorRuby>しばぎゅう　じん</authorRuby>
+        <year>1998</year>
+        <place>ヒストリア宇部</place>
+        <material>石、アルミニウム</material>
+        <size>32cm×40cm×32cm</size>
+        <exhibit>第18回現代日本彫刻展、入選模型作品（私の好きな模型作品）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=511</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000511_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="512">
+        <label>穹</label>
+        <ruby>きゅう</ruby>
+        <latitude>33.952558</latitude>
+        <longlatitude>131.244839766864</longlatitude>
+        <author>番浦　有爾</author>
+        <authorRuby>ばんうら　ゆうじ</authorRuby>
+        <year>1991</year>
+        <place>シンボルロード</place>
+        <material>ブロンズ</material>
+        <size>202cm×70cm×77cm</size>
+        <weight>1000kg</weight>
+        <exhibit>第14回現代日本彫刻展、神奈川県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部かたばみライオンズクラブ寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=512</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000512_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="514">
+        <label>蜘蛛のいと</label>
+        <ruby>くものいと</ruby>
+        <latitude>33.9472670745949</latitude>
+        <longlatitude>131.283460457672</longlatitude>
+        <author>藪内　佐斗司</author>
+        <authorRuby>やぶうち　さとし</authorRuby>
+        <year>1997</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>ブロンズ、鉄、ステンレススティール、寒水石</material>
+        <size>399cm×500cm×500cm</size>
+        <weight>2070kg</weight>
+        <exhibit>第17回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=514</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000514_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="515">
+        <label>コスミック・アーチ</label>
+        <ruby>こすみっく・あーち</ruby>
+        <latitude>33.947769324945</latitude>
+        <longlatitude>131.283877635582</longlatitude>
+        <author>鹿田　淳史</author>
+        <authorRuby>しかた　あつし</authorRuby>
+        <year>1988</year>
+        <place>ときわ公園・噴水池内</place>
+        <material>丹銅</material>
+        <size>340cm×210cm×140cm</size>
+        <exhibit>第11回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=515</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000515_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="516">
+        <label>この世界のかたち</label>
+        <ruby>このせかいのかたち</ruby>
+        <latitude>33.9508426015033</latitude>
+        <longlatitude>131.245596533729</longlatitude>
+        <author>神山　明</author>
+        <authorRuby>かみやま　あきら</authorRuby>
+        <year>2005</year>
+        <place>真締川公園東</place>
+        <material>木（イペ）</material>
+        <size>128cm×440cm×440cm</size>
+        <weight>700kg</weight>
+        <exhibit>第21回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=516</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000516_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="517">
+        <label>呼吸するとき-傾</label>
+        <ruby>こきゅうするとき-けい</ruby>
+        <latitude>33.9944833119825</latitude>
+        <longlatitude>131.348540640475</longlatitude>
+        <author>植松　奎二</author>
+        <authorRuby>うえまつ　けいじ</authorRuby>
+        <year>1993</year>
+        <place>東岐波門前</place>
+        <material>ステンレススティール、黒御影石、鉄</material>
+        <size>240cm×485cm×240cm</size>
+        <weight>2150kg</weight>
+        <exhibit>第15回現代日本彫刻展、宇部興産株式会社賞・神奈川県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=517</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000517_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="518">
+        <label>孤独の輪郭</label>
+        <ruby>こどくのりんかく</ruby>
+        <latitude>33.948603</latitude>
+        <longlatitude>131.2818</longlatitude>
+        <author>木村　光佑</author>
+        <authorRuby>きむら　こうすけ</authorRuby>
+        <year>1977</year>
+        <place>ときわミュージアム本館</place>
+        <material>ステンレススティール</material>
+        <size>140cm×450cm×450cm</size>
+        <exhibit>第7回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=518</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000518_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="520">
+        <label>鼓動</label>
+        <ruby>こどう</ruby>
+        <latitude>33.9608638992165</latitude>
+        <longlatitude>131.251227487102</longlatitude>
+        <author>朝野　浩行</author>
+        <authorRuby>あさの　ひろゆき</authorRuby>
+        <year>2003</year>
+        <place>真締川公園西・山口大学附属病院正門北</place>
+        <material>黒花崗岩</material>
+        <size>220cm×220cm×70cm</size>
+        <weight>6000kg</weight>
+        <exhibit>第20回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>山口大学工業短期大学部土木工学科同窓会寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=520</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000520_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="521">
+        <label>光影体</label>
+        <ruby>こうえいたい</ruby>
+        <latitude>33.9472667003827</latitude>
+        <longlatitude>131.284048944774</longlatitude>
+        <author>鎌塚　昌代司</author>
+        <authorRuby>かまづか　まさよし</authorRuby>
+        <year>2001</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>ステンレススティール、ウレタン塗装</material>
+        <size>265cm×280cm×276cm</size>
+        <weight>600kg</weight>
+        <exhibit>第19回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=521</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000521_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="522">
+        <label>坑夫</label>
+        <ruby>こうふ</ruby>
+        <latitude>33.945869173851</latitude>
+        <longlatitude>131.284929635582</longlatitude>
+        <author>荻原　守衛</author>
+        <authorRuby>おぎわら　もりえ</authorRuby>
+        <year>1907</year>
+        <place>ときわ公園・正面園路湖畔</place>
+        <material>ブロンズ</material>
+        <size>47.5cm×45.5cm×33.5cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部炭田発祥の地記念像建立の会寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=522</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000522_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="523">
+        <label>好縁・好円</label>
+        <ruby>こうえん・こうえん</ruby>
+        <latitude>33.9350993839588</latitude>
+        <longlatitude>131.276485087171</longlatitude>
+        <author>小川　徹也</author>
+        <authorRuby>おがわ　てつや</authorRuby>
+        <year>2001</year>
+        <place>山口宇部空港・ふれあい公園</place>
+        <material>鉄、ウレタン塗装</material>
+        <size>400cm×500cm×500cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第19回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=523</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000523_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="524">
+        <label>構想計画-新都市</label>
+        <ruby>こうそうけいかく-しんとし</ruby>
+        <oldTitle>傾斜する物体（もしくは都市）</oldTitle>
+        <latitude>33.9547312549345</latitude>
+        <longlatitude>131.246831626983</longlatitude>
+        <author>石黒　鏘二</author>
+        <authorRuby>いしぐろ　しょうじ</authorRuby>
+        <year>1981</year>
+        <place>真締川公園西・真締川ポンプ場南</place>
+        <material>ステンレススティール</material>
+        <size>530cm×90cm×90cm</size>
+        <exhibit>第9回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=524</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000524_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="525">
+        <label>高原</label>
+        <ruby>こうげん</ruby>
+        <latitude>33.9561760927876</latitude>
+        <longlatitude>131.249786542327</longlatitude>
+        <author>山本　正道</author>
+        <authorRuby>やまもと　まさみち</authorRuby>
+        <year>1967</year>
+        <place>宇部市立図書館前</place>
+        <material>御影石</material>
+        <size>45cm×80cm×40cm</size>
+        <exhibit>第2回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=525</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000525_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="526">
+        <label>混在（外部・あ・内部）</label>
+        <ruby>こんざい（がいぶ・あ・ないぶ）</ruby>
+        <latitude>33.9472719001261</latitude>
+        <longlatitude>131.283834542327</longlatitude>
+        <author>田辺　光彰</author>
+        <authorRuby>たなべ　みつあき</authorRuby>
+        <year>1980</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>ステンレススティール</material>
+        <size>240cm×160cm×155cm</size>
+        <weight>1800kg</weight>
+        <exhibit>第7回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=526</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000526_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="527">
+        <label>3・4・5角 宇部のカメラ</label>
+        <ruby>さん・よん・ごかく うべのかめら</ruby>
+        <latitude>33.9611926740025</latitude>
+        <longlatitude>131.250641668647</longlatitude>
+        <author>佐藤　時啓</author>
+        <authorRuby>さとう　ときひろ</authorRuby>
+        <year>2003</year>
+        <place>山口大学附属病院北門</place>
+        <material>コールテン鋼板、ステンレス鋼、ガルバリウム鋼板、苔（モスインネット）、レンズ</material>
+        <size>200cm×450cm×400cm</size>
+        <weight>1600kg</weight>
+        <exhibit>第20回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=527</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000527_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="528">
+        <label>Cycle-90°「風の予感」Ⅲ</label>
+        <ruby>さいくる-きゅうじゅうど「かぜのよかん」すりー</ruby>
+        <latitude>33.958391757254</latitude>
+        <longlatitude>131.249137271163</longlatitude>
+        <author>松本　薫</author>
+        <authorRuby>まつもと　かおる</authorRuby>
+        <year>2005</year>
+        <place>山口大学附属病院内</place>
+        <material>チタン、ステンレススティール、ベアリング</material>
+        <size>838cm×156cm×36cm</size>
+        <weight>357kg</weight>
+        <exhibit>第21回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=528</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000528_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="531">
+        <label>SILENT SKY</label>
+        <ruby>さいれんと すかい</ruby>
+        <latitude>33.981299</latitude>
+        <longlatitude>131.29743</longlatitude>
+        <author>西野　康造</author>
+        <authorRuby>にしの　こうぞう</authorRuby>
+        <year>1999</year>
+        <place>片倉公園</place>
+        <material>チタン合金、チタン、ステンレススティール、コールテン鋼</material>
+        <size>1020cm×900cm×200cm</size>
+        <weight>600kg</weight>
+        <exhibit>第18回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=531</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000531_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="532">
+        <label>SUN SADDLE’87</label>
+        <ruby>さん さどる’えいてぃーせぶん</ruby>
+        <latitude>33.9476691503</latitude>
+        <longlatitude>131.28354367361</longlatitude>
+        <author>山口　牧生</author>
+        <authorRuby>やまぐち　まきお</authorRuby>
+        <year>1987</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>黒御影石</material>
+        <size>50cm×430cm×130cm</size>
+        <weight>6000kg</weight>
+        <exhibit>第12回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=532</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000532_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="534">
+        <label>再会の門</label>
+        <ruby>さいかいのもん</ruby>
+        <latitude>33.9463911</latitude>
+        <longlatitude>131.271159328836</longlatitude>
+        <author>橋本　省</author>
+        <authorRuby>はしもと　あきら</authorRuby>
+        <year>1982</year>
+        <place>恩田運動公園</place>
+        <material>赤トラバーチン</material>
+        <size>420cm×420cm×135cm</size>
+        <exhibit>第8回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=534</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000534_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="535">
+        <label>彩構</label>
+        <ruby>さいこう</ruby>
+        <latitude>33.9905290876083</latitude>
+        <longlatitude>131.282552142327</longlatitude>
+        <author>笹　勇俊</author>
+        <authorRuby>ささ　はやとし</authorRuby>
+        <year>1997</year>
+        <place>山陽自動車道宇部インターチェンジ</place>
+        <material>鉄、塗料</material>
+        <size>360cm×287cm×640cm</size>
+        <weight>2800kg</weight>
+        <exhibit>第17回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=535</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000535_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="537">
+        <label>作品1964 LI</label>
+        <ruby>さくひんせんきゅうひゃくろくじゅうよん えるあい</ruby>
+        <latitude>33.948154</latitude>
+        <longlatitude>131.288213</longlatitude>
+        <author>細川　宗英</author>
+        <authorRuby>ほそかわ　むねひで</authorRuby>
+        <year>1964</year>
+        <place>ときわ湖水ホール内</place>
+        <material>コンクリート、鉄</material>
+        <size>160cm×170cm×30cm</size>
+        <exhibit>第1回現代日本彫刻展、Ｕ氏賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=537</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000537_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="538">
+        <label>作品1969：逆転する煙</label>
+        <ruby>さくひんせんきゅうひゃくろくじゅうきゅう：ぎゃくてんするけむり</ruby>
+        <latitude>33.949236975182</latitude>
+        <longlatitude>131.282366271163</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1969</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>アルミニウム、鉄</material>
+        <size>500cm×350cm×320cm</size>
+        <exhibit>第3回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=538</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000538_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="539">
+        <label>作品65-3</label>
+        <ruby>さくひんろくじゅうご-さん</ruby>
+        <latitude>33.9537949525137</latitude>
+        <longlatitude>131.246487101852</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1965</year>
+        <place>真締川公園西・寿橋付近</place>
+        <material>石(花崗岩)</material>
+        <size>140cm×250cm×40cm</size>
+        <exhibit>第1回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=539</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000539_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="540">
+        <label>作品66-7：握手する人C</label>
+        <ruby>さくひんろくじゅうろく-なな：あくしゅするひとしー</ruby>
+        <latitude>33.9673970007153</latitude>
+        <longlatitude>131.330008046626</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1967</year>
+        <place>宇部興産中央病院</place>
+        <material>花崗岩</material>
+        <size>220cm×70cm×90cm</size>
+        <exhibit>第2回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=540</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000540_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="541">
+        <label>三個の直方体</label>
+        <ruby>さんこのちょくほうたい</ruby>
+        <latitude>33.949011674958</latitude>
+        <longlatitude>131.283338046627</longlatitude>
+        <author>内田　晴之</author>
+        <authorRuby>うちだ　はるゆき</authorRuby>
+        <year>1993</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ステンレススティール、マグネット</material>
+        <size>220cm×790cm×395cm</size>
+        <weight>2400kg</weight>
+        <exhibit>第15回現代日本彫刻展、第15回記念（土方定一記念）賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=541</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000541_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="542">
+        <label>山河</label>
+        <ruby>さんが</ruby>
+        <latitude>33.9489781498209</latitude>
+        <longlatitude>131.283146915344</longlatitude>
+        <author>空　充秋</author>
+        <authorRuby>そら　みつあき</authorRuby>
+        <year>1987</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>白・赤・黒御影石</material>
+        <size>190cm×470cm×160cm</size>
+        <weight>6000kg</weight>
+        <exhibit>第12回現代日本彫刻展、特別賞（宇部市緑化運動推進委員会記念賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=542</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000542_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="543">
+        <label>残像-風Ⅱ</label>
+        <ruby>ざんぞう-かぜつー</ruby>
+        <latitude>33.9510048509322</latitude>
+        <longlatitude>131.246234512897</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1979</year>
+        <place>ヒストリア宇部(旧宇部銀行館)</place>
+        <material>鉄</material>
+        <size>450cm×175cm×30cm</size>
+        <exhibit>第8回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=543</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000543_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="545">
+        <label>支え合う螺旋〈120°〉</label>
+        <ruby>ささえあうらせん〈ひゃくにじゅうど〉</ruby>
+        <latitude>33.95165013</latitude>
+        <longlatitude>131.2453927</longlatitude>
+        <author>木戸　修</author>
+        <authorRuby>きど　おさむ</authorRuby>
+        <year>1983</year>
+        <place>真締川公園西・新川大橋南</place>
+        <material>ステンレススティール</material>
+        <size>250cm×860cm×115cm</size>
+        <exhibit>第10回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=545</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000545_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="546">
+        <label>里の門</label>
+        <ruby>さとのもん</ruby>
+        <latitude>33.9490405587208</latitude>
+        <longlatitude>131.258692893392</longlatitude>
+        <author>眞板　雅文</author>
+        <authorRuby>まいた　まさふみ</authorRuby>
+        <year>2003</year>
+        <place>宇部マテリアルズ“フレッセラ”テニスコート</place>
+        <material>コールテン鋼、安山岩</material>
+        <size>380cm×380cm×400cm</size>
+        <weight>5500kg</weight>
+        <exhibit>第20回現代日本彫刻展、第20回展記念（土方定一記念）特別賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=546</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000546_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="547">
+        <label>鑿空</label>
+        <ruby>さっくう</ruby>
+        <latitude>33.9526311004352</latitude>
+        <longlatitude>131.288670860118</longlatitude>
+        <author>寺田　武弘</author>
+        <authorRuby>てらだ　たけひろ</authorRuby>
+        <year>1986</year>
+        <place>ときわ公園・周遊園路・ときわ少年キャンプ場北</place>
+        <material>御影石</material>
+        <size>250cm×161cm×835cm</size>
+        <exhibit>第10回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=547</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000547_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="548">
+        <label>SEED 増殖</label>
+        <ruby>しーど ぞうしょく</ruby>
+        <latitude>33.95247452</latitude>
+        <longlatitude>131.2444337</longlatitude>
+        <author>伊藤　憲太郎</author>
+        <authorRuby>いとう　けんたろう</authorRuby>
+        <year>1999</year>
+        <place>シンボルロード</place>
+        <material>ステンレススティール</material>
+        <size>565cm×200cm×200cm</size>
+        <weight>1500kg</weight>
+        <exhibit>第18回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=548</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000548_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="549">
+        <label>The Age of Stone and Wind</label>
+        <ruby>じ えいじ おぶ すとーん あんど ういんど</ruby>
+        <latitude>33.9455060847675</latitude>
+        <longlatitude>131.268983116602</longlatitude>
+        <author>門脇　おさむ</author>
+        <authorRuby>かどわき　おさむ</authorRuby>
+        <year>1997</year>
+        <place>恩田運動公園</place>
+        <material>花崗岩</material>
+        <size>540cm×590cm×130cm</size>
+        <weight>45000kg</weight>
+        <exhibit>第17回現代日本彫刻展、神戸須磨離宮公園賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=549</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000549_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="550">
+        <label>しばられたピラミッド</label>
+        <ruby>しばられたぴらみっど</ruby>
+        <latitude>33.9567794841408</latitude>
+        <longlatitude>131.24241231779</longlatitude>
+        <author>速水　史朗</author>
+        <authorRuby>はやみ　しろう</authorRuby>
+        <year>1977</year>
+        <place>シンボルロード</place>
+        <material>黒御影石</material>
+        <size>140cm×160cm×140cm</size>
+        <exhibit>第7回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=550</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000550_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="551">
+        <label>四角な太陽Ⅰ</label>
+        <ruby>しかくなたいようわん</ruby>
+        <latitude>33.94856</latitude>
+        <longlatitude>131.281737</longlatitude>
+        <author>向井　良吉</author>
+        <authorRuby>むかい　りょうきち</authorRuby>
+        <year>1977</year>
+        <place>ときわミュージアム本館</place>
+        <material>アルミニウム</material>
+        <size>62cm×200cm×200cm</size>
+        <exhibit>第7回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部市仏教団寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=551</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000551_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="552">
+        <label>思考空間・9・69「くう…おのれのみしは…」</label>
+        <ruby>しこうくうかん・きゅう・ろくじゅうきゅう「くう…おのれのみしは…」</ruby>
+        <latitude>33.9490425748972</latitude>
+        <longlatitude>131.282416317791</longlatitude>
+        <author>栄　利秋</author>
+        <authorRuby>さかえ　としあき</authorRuby>
+        <year>1969</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>FRP</material>
+        <size>1220cm×150cm×150cm</size>
+        <exhibit>第3回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=552</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000552_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="553">
+        <label>時空の間</label>
+        <ruby>じくうのま</ruby>
+        <latitude>33.961146044045</latitude>
+        <longlatitude>131.250107995037</longlatitude>
+        <author>朝野　浩行</author>
+        <authorRuby>あさの　ひろゆき</authorRuby>
+        <year>2005</year>
+        <place>山口大学附属病院北門</place>
+        <material>花崗岩</material>
+        <size>225cm×225cm×225cm</size>
+        <weight>9000kg</weight>
+        <exhibit>第21回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=553</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000553_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="554">
+        <label>時空の支点／飛び立つ時</label>
+        <ruby>じくうのしてん／とびたつとき</ruby>
+        <latitude>33.9560244251974</latitude>
+        <longlatitude>131.271538488954</longlatitude>
+        <author>生形　貴春</author>
+        <authorRuby>うぶかた　たかはる</authorRuby>
+        <year>2001</year>
+        <place>山口大学工学部</place>
+        <material>ステンレススティール、ウレタン塗装、研磨</material>
+        <size>605cm×1125cm×210cm</size>
+        <weight>2700kg</weight>
+        <exhibit>第19回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=554</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000554_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="555">
+        <label>自重</label>
+        <ruby>じじゅう</ruby>
+        <latitude>33.9467895245193</latitude>
+        <longlatitude>131.288714449073</longlatitude>
+        <author>村岡　三郎</author>
+        <authorRuby>むらおか　さぶろう</authorRuby>
+        <year>1969</year>
+        <place>ときわ公園東・桜山</place>
+        <material>FRP</material>
+        <size>200cm×350cm×350cm</size>
+        <exhibit>第3回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=555</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000555_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="556">
+        <label>執念-い</label>
+        <ruby>しゅうねん-い</ruby>
+        <latitude>33.9574980510649</latitude>
+        <longlatitude>131.245833780425</longlatitude>
+        <author>志水　晴兒</author>
+        <authorRuby>しみず　せいじ</authorRuby>
+        <year>1963</year>
+        <place>渡辺翁記念公園</place>
+        <material>御影石</material>
+        <size>136cm×284cm×83cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展、大賞（宇部興産株式会社賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=556</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000556_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="557">
+        <label>重力空間-赤</label>
+        <ruby>じゅうりょくくうかん-あか</ruby>
+        <latitude>33.9448642250943</latitude>
+        <longlatitude>131.284721402446</longlatitude>
+        <author>内田　晴之</author>
+        <authorRuby>うちだ　はるゆき</authorRuby>
+        <year>1997</year>
+        <place>ときわ公園・正面入口</place>
+        <material>ステンレススティール、マグネット、塗料</material>
+        <size>301cm×715cm×715cm</size>
+        <weight>3500kg</weight>
+        <exhibit>第17回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=557</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000557_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="558">
+        <label>重力質 Ring ’03</label>
+        <ruby>じゅうりょくしつ りんぐ ’ぜろすりー</ruby>
+        <latitude>33.944431350635</latitude>
+        <longlatitude>131.283476898147</longlatitude>
+        <author>曽我　孝司</author>
+        <authorRuby>そが　たかし</authorRuby>
+        <year>2003</year>
+        <place>ときわ公園・正面入口</place>
+        <material>鉄（亜鉛メッキ鋼板）、アルミニウム、鉛</material>
+        <size>390cm×560cm×400cm</size>
+        <weight>950kg</weight>
+        <exhibit>第20回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=558</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000558_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="559">
+        <label>循環・メビウス</label>
+        <ruby>じゅんかん・めびうす</ruby>
+        <latitude>33.955543899261</latitude>
+        <longlatitude>131.243069597553</longlatitude>
+        <author>後藤　良二</author>
+        <authorRuby>ごとう　りょうじ</authorRuby>
+        <year>1997</year>
+        <place>シンボルロード</place>
+        <material>アルミニウム、ステンレススティール</material>
+        <size>197cm×113cm×20cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>光電業株式会社寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=559</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000559_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="560">
+        <label>少女（「樹と少女」部分）</label>
+        <ruby>しょうじょ（「きとしょうじょ」ぶぶん）</ruby>
+        <latitude>33.9561911703743</latitude>
+        <longlatitude>131.249856271163</longlatitude>
+        <author>山本　正道</author>
+        <authorRuby>やまもと　まさみち</authorRuby>
+        <year>1988</year>
+        <place>宇部市立図書館前</place>
+        <material>ブロンズ</material>
+        <size>92cm×31cm×37cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=560</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000560_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="562">
+        <label>深化</label>
+        <ruby>しんか</ruby>
+        <latitude>33.9563237520554</latitude>
+        <longlatitude>131.281730411045</longlatitude>
+        <author>野村　敦</author>
+        <authorRuby>のむら　おさむ</authorRuby>
+        <year>2001</year>
+        <place>ときわ公園・周遊園路・薬草園付近</place>
+        <material>石、鉄</material>
+        <size>420cm×210cm×230cm</size>
+        <weight>9500kg</weight>
+        <exhibit>第19回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=562</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000562_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="563">
+        <label>神童三人像</label>
+        <ruby>しんどうさんにんぞう</ruby>
+        <latitude>33.9473537003554</latitude>
+        <longlatitude>131.2841134957</longlatitude>
+        <author>岩城　信嘉</author>
+        <authorRuby>いわき　のぶよし</authorRuby>
+        <year>1985</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>石</material>
+        <size>103cm×120cm×50cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=563</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000563_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="564">
+        <label>親和No.5</label>
+        <ruby>しんわなんばーご</ruby>
+        <oldTitle>親和1974</oldTitle>
+        <latitude>33.9478439245769</latitude>
+        <longlatitude>131.288436991401</longlatitude>
+        <author>高橋　清</author>
+        <authorRuby>たかはし　きよし</authorRuby>
+        <year>1974</year>
+        <place>ときわ湖水ホール前</place>
+        <material>花崗岩</material>
+        <size>110cm×170cm×185cm</size>
+        <exhibit>第4回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=564</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000564_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="565">
+        <label>翔陽のもとへ</label>
+        <ruby>しょうようのもとへ</ruby>
+        <latitude>33.9625383044173</latitude>
+        <longlatitude>131.285900953372</longlatitude>
+        <author>眞板　雅文</author>
+        <authorRuby>まいた　まさふみ</authorRuby>
+        <year>1993</year>
+        <place>ときわ公園・周遊園路・スポーツ広場西入口</place>
+        <material>耐候性鋼、石</material>
+        <size>600cm×360cm×360cm</size>
+        <weight>鋼板1650kg、石10000kg</weight>
+        <exhibit>第15回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=565</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000565_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="566">
+        <label>STARDUST 95-X-3</label>
+        <ruby>すたーだすと ないんてぃふぁいぶ-えっくす-すりー</ruby>
+        <latitude>33.9470796497824</latitude>
+        <longlatitude>131.287953953372</longlatitude>
+        <author>たべ・けんぞう</author>
+        <authorRuby>たべ　けんぞう</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園東・桜山</place>
+        <material>鉄、ステンレススティール、真鍮、アルミニウム、銅、他</material>
+        <size>500cm×100cm×200cm</size>
+        <weight>800kg</weight>
+        <exhibit>第16回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=566</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000566_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="567">
+        <label>STONE WORK-地標</label>
+        <ruby>すとーん わーく-ちひょう</ruby>
+        <latitude>33.9532134276152</latitude>
+        <longlatitude>131.291235543516</longlatitude>
+        <author>湯村　光</author>
+        <authorRuby>ゆむら　ひかる</authorRuby>
+        <year>1989</year>
+        <place>超高温材料研究センター前</place>
+        <material>黒御影石</material>
+        <size>327cm×131cm×67cm</size>
+        <weight>5500kg</weight>
+        <exhibit>第13回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=567</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000567_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="568">
+        <label>Super Nova</label>
+        <ruby>すーぱー のば</ruby>
+        <latitude>33.9558787981028</latitude>
+        <longlatitude>131.271885166934</longlatitude>
+        <author>菊竹　清文</author>
+        <authorRuby>きくたけ　きよゆき</authorRuby>
+        <year>1989</year>
+        <place>山口大学工学部</place>
+        <material>ステンレススティール、ベアリング、塗料</material>
+        <size>300cm×150cm×60cm</size>
+        <weight>450kg</weight>
+        <exhibit>第13回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=568</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000568_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="569">
+        <label>座る女</label>
+        <ruby>すわるおんな</ruby>
+        <latitude>33.9522885020065</latitude>
+        <longlatitude>131.245741233135</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1958</year>
+        <place>真締川公園西</place>
+        <material>ブロンズ</material>
+        <size>70cm×103cm×62cm</size>
+        <exhibit>第1回宇部市野外彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=569</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000569_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="571">
+        <label>世界地図から</label>
+        <ruby>せかいちずから</ruby>
+        <latitude>33.9558297868271</latitude>
+        <longlatitude>131.249477635582</longlatitude>
+        <author>向井　良吉</author>
+        <authorRuby>むかい　りょうきち</authorRuby>
+        <year>1991</year>
+        <place>宇部市立図書館内</place>
+        <material>アルミニウム</material>
+        <size>270cm×2450cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=571</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000571_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="575">
+        <label>洗濯機以前</label>
+        <ruby>せんたくきいぜん</ruby>
+        <latitude>33.95601246122</latitude>
+        <longlatitude>131.249762588954</longlatitude>
+        <author>木村　賢太郎</author>
+        <authorRuby>きむら　けんたろう</authorRuby>
+        <year>1957</year>
+        <place>宇部市立図書館前</place>
+        <material>花崗岩</material>
+        <size>51cm×65cm×30cm</size>
+        <exhibit>第1回宇部市野外彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=575</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000575_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="576">
+        <label>そりのあるかたち</label>
+        <ruby>そりのあるかたち</ruby>
+        <latitude>33.9580250077001</latitude>
+        <longlatitude>131.242196139881</longlatitude>
+        <author>澄川　喜一</author>
+        <authorRuby>すみかわ　きいち</authorRuby>
+        <year>1981</year>
+        <place>JR宇部新川駅前</place>
+        <material>ステンレススティール、白御影石</material>
+        <size>350cm×600cm×110cm</size>
+        <exhibit>第9回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=576</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000576_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="577">
+        <label>空・地</label>
+        <ruby>そら・ち</ruby>
+        <latitude>33.9517246747452</latitude>
+        <longlatitude>131.280083038028</longlatitude>
+        <author>望月　久也</author>
+        <authorRuby>もちづき　ひさや</authorRuby>
+        <year>1993</year>
+        <place>ときわ公園・周遊園路・白鳥大橋南詰</place>
+        <material>耐候性鋼</material>
+        <size>540cm×165cm×65cm</size>
+        <weight>800kg</weight>
+        <exhibit>第15回現代日本彫刻展、テレビ山口賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=577</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000577_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="578">
+        <label>空の天秤</label>
+        <ruby>そらのてんびん</ruby>
+        <latitude>33.95202</latitude>
+        <longlatitude>131.245591</longlatitude>
+        <author>関根　伸夫</author>
+        <authorRuby>せきね　のぶお</authorRuby>
+        <year>2002</year>
+        <place>真締川公園西・新川大橋北</place>
+        <material>ステンレス、玄武岩</material>
+        <size>320cm×320cm×120cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部かたばみライオンズクラブクラブ寄贈（認証20周年記念）</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=578</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000578_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="581">
+        <label>双極子</label>
+        <ruby>そうきょくし</ruby>
+        <latitude>33.9578973047536</latitude>
+        <longlatitude>131.244477809192</longlatitude>
+        <author>多田　美波</author>
+        <authorRuby>ただ　みなみ</authorRuby>
+        <year>1977</year>
+        <place>宇部市文化会館内庭</place>
+        <material>ガラス、ステンレススティール、鉄</material>
+        <size>165cm×325cm×325cm</size>
+        <exhibit>第7回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=581</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000581_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="582">
+        <label>耕す</label>
+        <ruby>たがやす</ruby>
+        <latitude>33.9669126394692</latitude>
+        <longlatitude>131.330034394581</longlatitude>
+        <author>岡　普司</author>
+        <authorRuby>おか　しんじ</authorRuby>
+        <year>1989</year>
+        <place>宇部興産中央病院</place>
+        <material>石、真鍮、鉄</material>
+        <size>120cm×160cm×280cm</size>
+        <weight>1800kg</weight>
+        <exhibit>第13回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=582</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000582_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="584">
+        <label>大地の饗宴</label>
+        <ruby>だいちのきょうえん</ruby>
+        <latitude>33.9489743250395</latitude>
+        <longlatitude>131.283525813491</longlatitude>
+        <author>眞板　雅文</author>
+        <authorRuby>まいた　まさふみ</authorRuby>
+        <year>1991</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>鉄、コールテン鋼、鋳物</material>
+        <size>1200cm×170cm×400cm</size>
+        <weight>12000kg</weight>
+        <exhibit>第14回現代日本彫刻展、宇部市市制施行70周年・野外彫刻30周年記念賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=584</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000584_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="586">
+        <label>俵田明翁像</label>
+        <ruby>たわらだあきらおうぞう</ruby>
+        <latitude>33.946751497654</latitude>
+        <longlatitude>131.271995712897</longlatitude>
+        <author>朝倉　文夫</author>
+        <authorRuby>あさくら　ふみお</authorRuby>
+        <year>1958</year>
+        <place>俵田翁記念体育館</place>
+        <material>ブロンズ</material>
+        <size>71cm×34cm×35cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=586</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000586_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="587">
+        <label>立</label>
+        <ruby>たつ</ruby>
+        <latitude>33.9575942408496</latitude>
+        <longlatitude>131.245767459593</longlatitude>
+        <author>木内　克</author>
+        <authorRuby>きのうち　よし</authorRuby>
+        <year>1961</year>
+        <place>渡辺翁記念公園</place>
+        <material>ブロンズ</material>
+        <size>186cm×105cm×57cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=587</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000587_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="588">
+        <label>TUNING FORK</label>
+        <ruby>ちゅーにんぐ ふぉーく</ruby>
+        <latitude>33.9611789473888</latitude>
+        <longlatitude>131.250033300594</longlatitude>
+        <author>ピョートル・ツフォルドフスキー</author>
+        <authorRuby>ぴょーとる　つふぉるどふすきー</authorRuby>
+        <year>2005</year>
+        <place>山口大学附属病院北門</place>
+        <material>鉄</material>
+        <size>350cm×190cm×210cm</size>
+        <weight>350kg</weight>
+        <exhibit>第21回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=588</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000588_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="589">
+        <label>小さなピラミッド</label>
+        <ruby>ちいさなぴらみっど</ruby>
+        <latitude>33.9469869999999</latitude>
+        <longlatitude>131.288641766864</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1975</year>
+        <place>ときわ公園東・桜山</place>
+        <material>稲田石、鉄</material>
+        <size>441.5cm×575cm×200cm</size>
+        <exhibit>第6回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=589</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000589_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="590">
+        <label>地球の明日が見えますか？</label>
+        <ruby>ちきゅうのあしたがみえますか？</ruby>
+        <latitude>33.9575756285763</latitude>
+        <longlatitude>131.240728025795</longlatitude>
+        <author>重村　三雄</author>
+        <authorRuby>しげむら　みつお</authorRuby>
+        <year>1991</year>
+        <place>宇部新川沖ノ山線 山口銀行西新川支店前</place>
+        <material>チタン樹脂、FRP、コールテン鋼、鉄筋、硬質ウレタン、金網</material>
+        <size>270cm×150cm×100cm</size>
+        <weight>300kg</weight>
+        <exhibit>第14回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=590</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000590_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="591">
+        <label>池溝</label>
+        <ruby>ちこう</ruby>
+        <latitude>33.952418</latitude>
+        <longlatitude>131.290526</longlatitude>
+        <author>西　雅秋</author>
+        <authorRuby>にし　まさあき</authorRuby>
+        <year>1993</year>
+        <place>ときわ公園・周遊園路・ときわ少年キャンプ場北（埋設）</place>
+        <material>耐候性鋼</material>
+        <size>300cm×620cm×620cm</size>
+        <weight>4000kg</weight>
+        <exhibit>第15回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <remarks>※地中に埋まっているため見られません。</remarks>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=591</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000591_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="592_1">
+        <label>地霊-R（米）</label>
+        <ruby>ちれい-あーる（こめ）</ruby>
+        <latitude>33.9485938875015</latitude>
+        <longlatitude>131.282111271163</longlatitude>
+        <author>岡本　敦生＋野田　裕示</author>
+        <authorRuby>おかもと　あつお＋のだ　ひろじ</authorRuby>
+        <year>2005</year>
+        <place>ときわミュージアム本館前</place>
+        <material>白御影石、ウレタン塗料</material>
+        <size>240cm×120cm×100cm</size>
+        <weight>5000kg</weight>
+        <exhibit>第21回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=592</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000592_2_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="592_2">
+        <label>地霊-B（豆）</label>
+        <ruby>ちれい-びー（まめ）</ruby>
+        <latitude>33.9489102063166</latitude>
+        <longlatitude>131.282692236193</longlatitude>
+        <author>岡本　敦生＋野田　裕示</author>
+        <authorRuby>おかもと　あつお＋のだ　ひろじ</authorRuby>
+        <year>2005</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>白御影石、ウレタン塗料</material>
+        <size>100cm×75cm×55cm</size>
+        <weight>1000kg</weight>
+        <exhibit>第21回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=592</homepage>
+    </ube_sculpture>
+    <ube_sculpture id="592_3">
+        <label>地霊-W（麦）</label>
+        <ruby>ちれい-だぶりゅー（むぎ）</ruby>
+        <latitude>33.949287062036</latitude>
+        <longlatitude>131.282254550926</longlatitude>
+        <author>岡本　敦生＋野田　裕示</author>
+        <authorRuby>おかもと　あつお＋のだ　ひろじ</authorRuby>
+        <year>2005</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>白御影石、ウレタン塗料</material>
+        <size>110cm×70cm×50cm</size>
+        <weight>800kg</weight>
+        <exhibit>第21回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=592</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000592_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="592_4">
+        <label>地霊-JM（ひえ）</label>
+        <ruby>ちれい-じぇいえむ（ひえ）</ruby>
+        <latitude>33.9506227505648</latitude>
+        <longlatitude>131.281234635582</longlatitude>
+        <author>岡本　敦生＋野田　裕示</author>
+        <authorRuby>おかもと　あつお＋のだ　ひろじ</authorRuby>
+        <year>2005</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>白御影石、ウレタン塗料</material>
+        <size>90cm×70cm×60cm</size>
+        <weight>1000kg</weight>
+        <exhibit>第21回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=592</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000592_3_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="592_5">
+        <label>地霊-M（あわ）</label>
+        <ruby>ちれい-えむ（あわ）</ruby>
+        <latitude>33.949343</latitude>
+        <longlatitude>131.281863</longlatitude>
+        <author>岡本　敦生＋野田　裕示</author>
+        <authorRuby>おかもと　あつお＋のだ　ひろじ</authorRuby>
+        <year>2005</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>白御影石、ウレタン塗料</material>
+        <size>110cm×55cm×45cm</size>
+        <weight>400kg</weight>
+        <exhibit>第21回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=592</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000592_4_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="593">
+        <label>柱状構造</label>
+        <ruby>ちゅうじょうこうぞう</ruby>
+        <latitude>33.9566297521354</latitude>
+        <longlatitude>131.281272813491</longlatitude>
+        <author>田邉　朗</author>
+        <authorRuby>たなべ　あきら</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・周遊園路・薬草園付近</place>
+        <material>コールテン鋼、スティール、鉄のこと？</material>
+        <size>454cm×495cm×504cm</size>
+        <weight>2400kg</weight>
+        <exhibit>第16回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=593</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000593_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="594">
+        <label>挑発しあう形Ⅰ</label>
+        <ruby>ちょうはつしあうかたちわん</ruby>
+        <latitude>33.9475999495984</latitude>
+        <longlatitude>131.287636309192</longlatitude>
+        <author>土谷　武</author>
+        <authorRuby>つちたに　たけし</authorRuby>
+        <year>1973</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>石(花崗岩)、鉄</material>
+        <size>280cm×950cm×404cm</size>
+        <exhibit>第5回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=594</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000594_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="595">
+        <label>超空間</label>
+        <ruby>ちょうくうかん</ruby>
+        <latitude>33.9567752086987</latitude>
+        <longlatitude>131.242825906745</longlatitude>
+        <author>多田　美波</author>
+        <authorRuby>ただ　みなみ</authorRuby>
+        <year>1971</year>
+        <place>シンボルロード</place>
+        <material>FRP、アクリル</material>
+        <size>200cm×12cm×200cm</size>
+        <exhibit>第4回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=595</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000595_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="596">
+        <label>つなぎ石-作品3</label>
+        <ruby>つなぎいし-さくひんさん</ruby>
+        <latitude>33.9479094248982</latitude>
+        <longlatitude>131.288089766864</longlatitude>
+        <author>山根　耕</author>
+        <authorRuby>やまね　こう</authorRuby>
+        <year>1989</year>
+        <place>ときわ湖水ホール前</place>
+        <material>御影石</material>
+        <size>180cm×750cm×160cm</size>
+        <weight>22000kg</weight>
+        <exhibit>第13回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=596</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000596_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="597">
+        <label>月に向かって進め</label>
+        <ruby>つきにむかってすすめ</ruby>
+        <latitude>33.9492732249791</latitude>
+        <longlatitude>131.283618233135</longlatitude>
+        <author>井田　勝己</author>
+        <authorRuby>いだ　かつみ</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>玄武岩、花崗岩</material>
+        <size>250cm×400cm×215cm</size>
+        <weight>12500kg</weight>
+        <exhibit>第16回現代日本彫刻展、大賞（宇部市賞）・下関市立美術館（植木茂記念）賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=597</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000597_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="598">
+        <label>月の庭</label>
+        <ruby>つきのにわ</ruby>
+        <latitude>33.9491825997107</latitude>
+        <longlatitude>131.283686055225</longlatitude>
+        <author>深井　隆</author>
+        <authorRuby>ふかい　たかし</authorRuby>
+        <year>1997</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ブロンズ、花崗岩</material>
+        <size>355cm×1290cm×1120cm</size>
+        <weight>8000kg</weight>
+        <exhibit>第17回現代日本彫刻展、宇部市野外彫刻美術館賞・埼玉県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=598</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000598_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="599">
+        <label>Tシャツ</label>
+        <ruby>てぃーしゃつ</ruby>
+        <latitude>33.9476628064702</latitude>
+        <longlatitude>131.28753324785</longlatitude>
+        <author>笹戸　千津子</author>
+        <authorRuby>ささど　ちづこ</authorRuby>
+        <year>1985</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>ブロンズ</material>
+        <size>118.5cm×58.5cm×35cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部ときわライオンズクラブ寄贈（30周年記念事業）</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=599</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000599_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="600">
+        <label>手</label>
+        <ruby>て</ruby>
+        <latitude>33.948192</latitude>
+        <longlatitude>131.288354</longlatitude>
+        <author>高村　光太郎</author>
+        <authorRuby>たかむら　こうたろう</authorRuby>
+        <year>1918</year>
+        <place>ときわミュージアム分館</place>
+        <material>ブロンズ</material>
+        <size>42.3cm×15.5cm×25.5cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=600</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000600_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="601">
+        <label>手をつく女</label>
+        <ruby>てをつくおんな</ruby>
+        <latitude>33.9528469721384</latitude>
+        <longlatitude>131.253232798147</longlatitude>
+        <author>木内　克</author>
+        <authorRuby>きのうち　よし</authorRuby>
+        <year>1950</year>
+        <place>宇部市総合福祉会館前</place>
+        <material>ブロンズ</material>
+        <size>44cm×57cm×22cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=601</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000601_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="602">
+        <label>手を前に組む</label>
+        <ruby>てをまえにくむ</ruby>
+        <latitude>33.9555314379615</latitude>
+        <longlatitude>131.24931682209</longlatitude>
+        <author>本郷　新</author>
+        <authorRuby>ほんごう　しん</authorRuby>
+        <year>1958</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>85cm×22cm×20cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=602</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000602_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="603">
+        <label>底流</label>
+        <ruby>ていりゅう</ruby>
+        <latitude>33.9490980006996</latitude>
+        <longlatitude>131.28210185152</longlatitude>
+        <author>土屋　公雄</author>
+        <authorRuby>つちや　きみお</authorRuby>
+        <year>1991</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>橋脚、コンクリート、鉄</material>
+        <size>380cm×360cm×300cm</size>
+        <weight>25000kg</weight>
+        <exhibit>第14回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=603</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000603_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="604">
+        <label>天象</label>
+        <ruby>てんしょう</ruby>
+        <latitude>33.9561628215906</latitude>
+        <longlatitude>131.249604131282</longlatitude>
+        <author>多田　美波</author>
+        <authorRuby>ただ　みなみ</authorRuby>
+        <year>1975</year>
+        <place>宇部市立図書館前</place>
+        <material>アクリル樹脂</material>
+        <size>178cm×220cm×16cm</size>
+        <exhibit>第6回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=604</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000604_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="605">
+        <label>Dreamer</label>
+        <ruby>どりーまー</ruby>
+        <latitude>33.9512743252199</latitude>
+        <longlatitude>131.246776224536</longlatitude>
+        <author>中岡　慎太郎</author>
+        <authorRuby>なかおか　しんたろう</authorRuby>
+        <year>1991</year>
+        <place>宇部市役所前</place>
+        <material>石（黒御影石）</material>
+        <size>170cm×290cm×240cm</size>
+        <weight>10000kg</weight>
+        <exhibit>第14回現代日本彫刻展、神戸須磨離宮公園賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=605</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000605_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="606">
+        <label>Transfiguration“LINK”Ⅶ</label>
+        <ruby>とらんすふぃぎゅれいしょん“りんく”せぶん</ruby>
+        <latitude>33.95613588</latitude>
+        <longlatitude>131.2430781</longlatitude>
+        <author>竹内　三雄</author>
+        <authorRuby>たけうち　みつお</authorRuby>
+        <year>1991</year>
+        <place>シンボルロード</place>
+        <material>ステンレススティール、黒御影石</material>
+        <size>360cm×240cm×240cm</size>
+        <weight>2200kg</weight>
+        <exhibit>第14回現代日本彫刻展、山口県立美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=606</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000606_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="607">
+        <label>どうぞおはいりください</label>
+        <ruby>どうぞおはいりください</ruby>
+        <oldTitle>不用の計画</oldTitle>
+        <latitude>33.9634863691181</latitude>
+        <longlatitude>131.288608</longlatitude>
+        <author>森口　宏一</author>
+        <authorRuby>もりぐち　ひろかず</authorRuby>
+        <year>1987</year>
+        <place>ときわ公園・周遊園路・スポーツ広場</place>
+        <material>コールテン鋼、ステンレスワイヤー、他</material>
+        <size>650cm×470cm×260cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第12回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=607</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000607_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="608">
+        <label>ドッキング（表面）No.51</label>
+        <ruby>どっきんぐ（ひょうめん）なんばーごじゅういち</ruby>
+        <latitude>33.9469261252029</latitude>
+        <longlatitude>131.288882635582</longlatitude>
+        <author>田中　米吉</author>
+        <authorRuby>たなか　よねきち</authorRuby>
+        <year>1979</year>
+        <place>ときわ公園東・桜山</place>
+        <material>鉄、芝</material>
+        <size>80cm×730cm×1035cm</size>
+        <exhibit>第8回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=608</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000608_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="611">
+        <label>ドッキングNo.26</label>
+        <ruby>どっきんぐなんばーにじゅうろく</ruby>
+        <latitude>33.9470217242894</latitude>
+        <longlatitude>131.288994906745</longlatitude>
+        <author>田中　米吉</author>
+        <authorRuby>たなか　よねきち</authorRuby>
+        <year>1975</year>
+        <place>ときわ公園東・桜山</place>
+        <material>ジュラルミン</material>
+        <size>78cm×500cm×500cm</size>
+        <exhibit>第6回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=611</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000611_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="612">
+        <label>とり</label>
+        <ruby>とり</ruby>
+        <latitude>33.9548397549217</latitude>
+        <longlatitude>131.242606849668</longlatitude>
+        <author>宮川　和博</author>
+        <authorRuby>みやがわ　かずひろ</authorRuby>
+        <year>1963</year>
+        <place>中央街区児童公園</place>
+        <material>花崗岩</material>
+        <size>67cm×79cm×43cm</size>
+        <exhibit>第1回全国彫刻コンクール応募展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=612</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000612_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="613">
+        <label>ドン・キホーテ・シリーズ「主人は眠ることなく旭を迎え、従者は起きることなく朝を迎える」</label>
+        <ruby>どん・きほーて・しりーず「しゅじんはねむることなくあさひをむかえ、じゅうしゃはおきることなくあさをむかえる」</ruby>
+        <latitude>33.9486248937431</latitude>
+        <longlatitude>131.281964766864</longlatitude>
+        <author>池田　宗弘</author>
+        <authorRuby>いけだ　むねひろ</authorRuby>
+        <year>1987</year>
+        <place>ときわミュージアム本館前</place>
+        <material>鉄、真鍮</material>
+        <size>330cm×81cm×230cm</size>
+        <weight>850kg</weight>
+        <exhibit>第12回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=613</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000613_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="614">
+        <label>時のシルエット</label>
+        <ruby>ときのしるえっと</ruby>
+        <latitude>33.947634</latitude>
+        <longlatitude>131.283819</longlatitude>
+        <author>新宮　晋</author>
+        <authorRuby>しんぐう　すすむ</authorRuby>
+        <year>2003</year>
+        <place>ときわ公園・噴水池内</place>
+        <material>帆布、スティール亜鉛メッキ仕上げ</material>
+        <size>高さ275cm×最大回転直径600cm</size>
+        <weight>1903kg</weight>
+        <exhibit>第20回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=614</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000614_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="615">
+        <label>時の神殿</label>
+        <ruby>ときのしんでん</ruby>
+        <latitude>33.9625724059059</latitude>
+        <longlatitude>131.286391504299</longlatitude>
+        <author>井田　勝己</author>
+        <authorRuby>いだ　かつみ</authorRuby>
+        <year>1999</year>
+        <place>ときわ公園・周遊園路・スポーツ広場西入口</place>
+        <material>花崗岩、ステンレススティール</material>
+        <size>140cm×315cm×558cm</size>
+        <weight>18000kg</weight>
+        <exhibit>第18回現代日本彫刻展、神戸須磨離宮公園賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=615</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000615_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="616">
+        <label>時の木もれ陽</label>
+        <ruby>ときのこもれび</ruby>
+        <latitude>33.9490216687392</latitude>
+        <longlatitude>131.282685833746</longlatitude>
+        <author>橋本　真之</author>
+        <authorRuby>はしもと　まさゆき</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>銅</material>
+        <size>220cm×730cm×875cm</size>
+        <exhibit>第16回現代日本彫刻展、宇部市野外彫刻美術館賞・埼玉県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=616</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000616_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="618">
+        <label>鳥とあそぼう</label>
+        <ruby>とりとあそぼう</ruby>
+        <latitude>33.9473534890929</latitude>
+        <longlatitude>131.254769557077</longlatitude>
+        <author>山内　壮夫</author>
+        <authorRuby>やまのうち　たけお</authorRuby>
+        <year>1960</year>
+        <place>東新川緑地</place>
+        <material>コンクリート</material>
+        <size>135cm×70cm×70cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=618</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000618_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="619">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.933359</latitude>
+        <longlatitude>131.27431</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1973</year>
+        <place>山口宇部空港</place>
+        <material>ブロンズ</material>
+        <size>36.5cm×44cm×22cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=619</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000619_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="620">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.95608</latitude>
+        <longlatitude>131.249395</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1974</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>38.5cm×52cm×25cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=620</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000620_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="621">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.956047</latitude>
+        <longlatitude>131.249349</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1979</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>32cm×44cm×28cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=621</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000621_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="622">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.955996</latitude>
+        <longlatitude>131.249306</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1981</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>35cm×39cm×16cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=622</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000622_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="623">
+        <label>飛び石</label>
+        <ruby>とびいし</ruby>
+        <latitude>33.95579059</latitude>
+        <longlatitude>131.2446954</longlatitude>
+        <author>福岡　道雄</author>
+        <authorRuby>ふくおか　みちお</authorRuby>
+        <year>1996</year>
+        <place>小串通り・全日空ホテル前交差点</place>
+        <material>ブロンズ</material>
+        <size>64cm×183cm×110cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=623</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000623_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="625">
+        <label>人間は神話を捨て去ることが出来るのか-II</label>
+        <ruby>にんげんはしんわをすてさることができるのか-つー</ruby>
+        <latitude>33.9452549999999</latitude>
+        <longlatitude>131.285679271163</longlatitude>
+        <author>戸田　裕介</author>
+        <authorRuby>とだ　ゆうすけ</authorRuby>
+        <year>2001</year>
+        <place>ときわ公園・石炭記念館前</place>
+        <material>ステンレススティール、白花崗岩（稲田石）、ワイヤーロープ</material>
+        <size>680cm×260cm×180cm</size>
+        <weight>10000kg</weight>
+        <exhibit>第19回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=625</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000625_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="626">
+        <label>ネジリンボウ’81-A-B</label>
+        <ruby>ねじりんぼう’はちじゅういち-えー-びー</ruby>
+        <latitude>33.9481636750245</latitude>
+        <longlatitude>131.283814588954</longlatitude>
+        <author>能登原　弘芳</author>
+        <authorRuby>のとはら　ひろよし</authorRuby>
+        <year>1981</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>白花崗岩</material>
+        <size>160cm×500cm×300cm</size>
+        <exhibit>第9回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=626</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000626_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="627">
+        <label>ねじれた形’84</label>
+        <ruby>ねじれたかたち’はちじゅうよん</ruby>
+        <latitude>33.9446512693501</latitude>
+        <longlatitude>131.270281524536</longlatitude>
+        <author>速水　史朗</author>
+        <authorRuby>はやみ　しろう</authorRuby>
+        <year>1984</year>
+        <place>恩田運動公園</place>
+        <material>花崗岩</material>
+        <size>240cm×500cm×110cm</size>
+        <weight>7000kg</weight>
+        <exhibit>第9回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=627</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000627_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="629">
+        <label>ノアの家族</label>
+        <ruby>のあのかぞく</ruby>
+        <latitude>33.9569055274286</latitude>
+        <longlatitude>131.242691364418</longlatitude>
+        <author>池田　宗弘</author>
+        <authorRuby>いけだ　むねひろ</authorRuby>
+        <year>1993</year>
+        <place>シンボルロード</place>
+        <material>真鍮</material>
+        <size>393cm×73cm×220cm</size>
+        <weight>600kg</weight>
+        <exhibit>第15回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=629</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000629_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="634">
+        <label>母のひざ</label>
+        <ruby>ははのひざ</ruby>
+        <latitude>33.9519555018323</latitude>
+        <longlatitude>131.246081991401</longlatitude>
+        <author>山内　壮夫</author>
+        <authorRuby>やまのうち　たけお</authorRuby>
+        <year>1964</year>
+        <place>真締川公園東・宇部市役所横</place>
+        <material>コンクリート</material>
+        <size>120cm×54cm×51cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=634</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000634_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="637">
+        <label>ピクニック</label>
+        <ruby>ぴくにっく</ruby>
+        <latitude>33.9540550597082</latitude>
+        <longlatitude>131.253942950926</longlatitude>
+        <author>渡辺　豊重</author>
+        <authorRuby>わたなべ　とよしげ</authorRuby>
+        <year>1981</year>
+        <place>宇部市保健センター前</place>
+        <material>FRP</material>
+        <size>260cm×340cm×85cm</size>
+        <exhibit>第9回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=637</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000637_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="638">
+        <label>一つの直方体から</label>
+        <ruby>ひとつのちょくほうたいから</ruby>
+        <latitude>33.9347811582105</latitude>
+        <longlatitude>131.274473367459</longlatitude>
+        <author>木下　宏</author>
+        <authorRuby>きのした　ひろし</authorRuby>
+        <year>1979</year>
+        <place>山口宇部空港</place>
+        <material>アルミニウム、発泡ウレタン、鉄</material>
+        <size>150cm×400cm×100cm</size>
+        <exhibit>第8回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=638</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000638_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="639">
+        <label>響</label>
+        <ruby>ひびき</ruby>
+        <latitude>33.947977</latitude>
+        <longlatitude>131.287824</longlatitude>
+        <author>中巳出　理</author>
+        <authorRuby>なかみで　りぃ</authorRuby>
+        <year>1985</year>
+        <place>ときわ湖水ホール内</place>
+        <material>ステンレススティールパイプ</material>
+        <size>230cm×120cm×120cm</size>
+        <exhibit>第11回現代日本彫刻展、毎日新聞社賞（縮小再制作）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=639</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000639_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="640">
+        <label>碑</label>
+        <ruby>ひ</ruby>
+        <latitude>33.9474097003378</latitude>
+        <longlatitude>131.284874720237</longlatitude>
+        <author>増田　正和</author>
+        <authorRuby>ますだ　まさかず</authorRuby>
+        <year>1981</year>
+        <place>ときわ公園・常盤橋西詰</place>
+        <material>石(花崗岩)</material>
+        <size>400cm×130cm×55cm</size>
+        <exhibit>第9回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=640</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000640_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="642">
+        <label>標的と人</label>
+        <ruby>ひょうてきとひと</ruby>
+        <latitude>33.9489467501266</latitude>
+        <longlatitude>131.282255169311</longlatitude>
+        <author>広井　力</author>
+        <authorRuby>ひろい　つとむ</authorRuby>
+        <year>1969</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>アルミニウム、土</material>
+        <size>130cm×360cm×360cm</size>
+        <exhibit>第3回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=642</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000642_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="645">
+        <label>冬の子供</label>
+        <ruby>ふゆのこども</ruby>
+        <latitude>33.9560780775896</latitude>
+        <longlatitude>131.249826215938</longlatitude>
+        <author>佐藤　忠良</author>
+        <authorRuby>さとう　ちゅうりょう</authorRuby>
+        <year>1965</year>
+        <place>宇部市立図書館前</place>
+        <material>ブロンズ</material>
+        <size>108cm×35cm×20cm</size>
+        <exhibit>第１回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=645</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000645_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="646">
+        <label>二人</label>
+        <ruby>ふたり</ruby>
+        <latitude>33.9476844311526</latitude>
+        <longlatitude>131.287069612268</longlatitude>
+        <author>五十嵐　芳三</author>
+        <authorRuby>いがらし　よしぞう</authorRuby>
+        <year>1965</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>セメント</material>
+        <size>120cm×140cm×55cm</size>
+        <exhibit>第1回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=646</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000646_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="648">
+        <label>風景の抜け殻</label>
+        <ruby>ふうけいのぬけがら</ruby>
+        <latitude>33.953434306823</latitude>
+        <longlatitude>131.246301550926</longlatitude>
+        <author>重村　三雄</author>
+        <authorRuby>しげむら　みつお</authorRuby>
+        <year>1983</year>
+        <place>真締川公園西・緑橋付近</place>
+        <material>強化プラスティックス、ファイバーグラス、鉄筋、針金（b青線）、硬質発泡ウレタン樹脂、ウレタン塗装</material>
+        <size>370cm×170cm×170cm</size>
+        <exhibit>第10回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=648</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000648_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="649">
+        <label>変化＜模型＞</label>
+        <ruby>へんか＜もけい＞</ruby>
+        <latitude>33.950954</latitude>
+        <longlatitude>131.246067</longlatitude>
+        <author>ネストル・グスマン</author>
+        <authorRuby>ねすとる　ぐすまん</authorRuby>
+        <year>2000</year>
+        <place>ヒストリア宇部</place>
+        <material>大理石</material>
+        <size>36cm×40cm×40cm</size>
+        <exhibit>第19回現代日本彫刻展、入選模型作品（私の好きな模型作品）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=649</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000649_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="650">
+        <label>PONKO 94</label>
+        <ruby>ぽんこきゅうじゅうよん</ruby>
+        <latitude>33.9490748247411</latitude>
+        <longlatitude>131.283656813491</longlatitude>
+        <author>本郷　重彦</author>
+        <authorRuby>ほんごう　しげひこ</authorRuby>
+        <year>1991</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ステンレススティール</material>
+        <size>1200cm×170cm×400cm</size>
+        <weight>1370kg</weight>
+        <exhibit>第14回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=650</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000650_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="651">
+        <label>ポカポカ オヒサマ テルホドニ</label>
+        <ruby>ぽかぽか おひさま てるほどに</ruby>
+        <latitude>34.0028256093624</latitude>
+        <longlatitude>131.221658609192</longlatitude>
+        <author>最上　壽之</author>
+        <authorRuby>もがみ　ひさゆき</authorRuby>
+        <year>1983</year>
+        <place>JR宇部駅前</place>
+        <material>富士川原石、鉄、塗料</material>
+        <size>250cm×250cm×70cm</size>
+        <exhibit>第10回現代日本彫刻展、第10回展記念（土方定一記念）特別賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=651</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000651_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="652">
+        <label>炎の踊り</label>
+        <ruby>ほのおのおどり</ruby>
+        <latitude>33.948483</latitude>
+        <longlatitude>131.282065</longlatitude>
+        <author>向井　良吉</author>
+        <authorRuby>むかい　りょうきち</authorRuby>
+        <year>1981</year>
+        <place>ときわミュージアム本館 喫茶室前</place>
+        <material>真鍮</material>
+        <size>150cm×70cm×55cm</size>
+        <exhibit>第9回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部市連合婦人会寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=652</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000652_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="654">
+        <label>MIURHA’78</label>
+        <ruby>みうら’せぶんてぃえいと</ruby>
+        <latitude>33.9453469003274</latitude>
+        <longlatitude>131.284215953372</longlatitude>
+        <author>内田　和孝</author>
+        <authorRuby>うちだ　かずたか</authorRuby>
+        <year>1978</year>
+        <place>ときわ公園・正面入口</place>
+        <material>大理石、ステンレス</material>
+        <size>95cm×176cm×55cm</size>
+        <exhibit>第6回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞・群馬県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=654</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000654_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="656">
+        <label>水辺にて（お兄ちゃんと一緒）＜模型＞</label>
+        <ruby>みずべにて（おにいちゃんといっしょ）＜もけい＞</ruby>
+        <latitude>33.95264957</latitude>
+        <longlatitude>131.2527232</longlatitude>
+        <author>鈴木　法明</author>
+        <authorRuby>すずき　のりあき</authorRuby>
+        <year>1998</year>
+        <place>宇部市歯科医師会館</place>
+        <material>ステンレススティール</material>
+        <size>103cm×30cm×32cm</size>
+        <exhibit>第18回現代日本彫刻展、入選模型作品</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=656</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000656_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="657">
+        <label>未来を語るテーブル</label>
+        <ruby>みらいをかたるてーぶる</ruby>
+        <latitude>33.9480826997368</latitude>
+        <longlatitude>131.283635588954</longlatitude>
+        <author>三木　俊治</author>
+        <authorRuby>みき　としはる</authorRuby>
+        <year>1999</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>黒花崗岩</material>
+        <size>52cm×180cm×149cm</size>
+        <exhibit>第15回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=657</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000657_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="659">
+        <label>無題No.95 1985</label>
+        <ruby>むだいなんばーきゅうじゅうご せんきゅうひゃくはちじゅうご</ruby>
+        <latitude>33.9481619997209</latitude>
+        <longlatitude>131.283631766864</longlatitude>
+        <author>田中　米吉</author>
+        <authorRuby>たなか　よねきち</authorRuby>
+        <year>1985</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>コールテン鋼、鋼、ステンレススティール</material>
+        <size>330cm×306cm×234cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第11回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=659</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000659_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="660">
+        <label>メッセージ</label>
+        <ruby>めっせーじ</ruby>
+        <latitude>33.9545258816854</latitude>
+        <longlatitude>131.243534574239</longlatitude>
+        <author>二口　金一</author>
+        <authorRuby>ふたくち　きんいち</authorRuby>
+        <year>1991</year>
+        <place>シンボルロード</place>
+        <material>ブロンズ、白花崗岩</material>
+        <size>220cm×220cm×100cm</size>
+        <weight>4500kg</weight>
+        <exhibit>第14回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=660</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000660_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="661">
+        <label>メリッサの部屋</label>
+        <ruby>めりっさのへや</ruby>
+        <latitude>33.960087</latitude>
+        <longlatitude>131.250947</longlatitude>
+        <author>長澤　英俊</author>
+        <authorRuby>ながさわ　ひでとし</authorRuby>
+        <year>2005</year>
+        <place>真締川公園・宇部大橋西、山口大学附属病院北東</place>
+        <material>鉄、石</material>
+        <size>120cm×1250cm×900cm</size>
+        <weight>7875kg</weight>
+        <exhibit>第21回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=661</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000661_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="662">
+        <label>メンタルスペース、キューブ’73</label>
+        <ruby>めんたるすぺーす、きゅーぶ’ななじゅうさん</ruby>
+        <latitude>33.9569140732988</latitude>
+        <longlatitude>131.240293841069</longlatitude>
+        <author>野崎　悠子</author>
+        <authorRuby>のざき　ゆうこ</authorRuby>
+        <year>1973</year>
+        <place>宇部新川沖ノ山線 オフィスOHIビル前</place>
+        <material>アクリル樹脂、白色セメント</material>
+        <size>140cm×160cm×160cm</size>
+        <exhibit>第5回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=662</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000662_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="664">
+        <label>杜</label>
+        <ruby>もり</ruby>
+        <latitude>33.9493881248811</latitude>
+        <longlatitude>131.283365813491</longlatitude>
+        <author>永廣　隆次</author>
+        <authorRuby>ながひろ　たかつぐ</authorRuby>
+        <year>1991</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>SS400スティール</material>
+        <size>600cm×550cm×140cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第14回現代日本彫刻展、テレビ山口賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=664</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000664_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="666">
+        <label>ゆあみする女＜模造＞</label>
+        <ruby>ゆあみするおんな＜もぞう＞</ruby>
+        <latitude>33.94821</latitude>
+        <longlatitude>131.288336</longlatitude>
+        <author>ファルコネ</author>
+        <authorRuby>ふぁるこね</authorRuby>
+        <place>ときわミュージアム分館</place>
+        <material>大理石粉</material>
+        <size>80cm×30cm×30cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=666</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000666_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="667">
+        <label>寄り添う座</label>
+        <ruby>よりそうざ</ruby>
+        <latitude>33.9474873501557</latitude>
+        <longlatitude>131.283926597553</longlatitude>
+        <author>増田　正和</author>
+        <authorRuby>ますだ　まさかず</authorRuby>
+        <year>1976</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>花崗岩</material>
+        <size>318cm×210cm×60cm</size>
+        <exhibit>第5回神戸須磨離宮公園現代彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=667</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000667_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="670">
+        <label>Re-Creation</label>
+        <ruby>り-くりえいしょん</ruby>
+        <latitude>33.9623810905931</latitude>
+        <longlatitude>131.285619</longlatitude>
+        <author>たべ・けんぞう</author>
+        <authorRuby>たべ　けんぞう</authorRuby>
+        <year>1999</year>
+        <place>ときわ公園・周遊園路・スポーツ広場西入口</place>
+        <material>鉄、銅、アルミニウム、ステンレススティール、他</material>
+        <size>500cm×500cm×150cm</size>
+        <weight>5000kg</weight>
+        <exhibit>第18回現代日本彫刻展、兵庫県立近代美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=670</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000670_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="671">
+        <label>リンゴをもつ少年</label>
+        <ruby>りんごをもつしょうねん</ruby>
+        <latitude>33.95604</latitude>
+        <longlatitude>131.249556</longlatitude>
+        <author>舟越　保武</author>
+        <authorRuby>ふなこし　やすたけ</authorRuby>
+        <year>1965</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>75cm×16cm×16cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=671</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000671_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="672">
+        <label>立方体</label>
+        <ruby>りっぽうたい</ruby>
+        <latitude>33.9329073833455</latitude>
+        <longlatitude>131.272764797314</longlatitude>
+        <author>河口　龍夫</author>
+        <authorRuby>かわぐち　たつお</authorRuby>
+        <year>1973</year>
+        <place>山口宇部空港</place>
+        <material>コンクリート</material>
+        <size>150cm×150cm×150cm</size>
+        <exhibit>第5回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部塗装株式会社寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=672</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000672_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="673">
+        <label>隆層</label>
+        <ruby>りゅうそう</ruby>
+        <latitude>33.9573991238338</latitude>
+        <longlatitude>131.282482860118</longlatitude>
+        <author>清藤　隆由</author>
+        <authorRuby>きよふじ　たかゆき</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・周遊園路・薬草園付近</place>
+        <material>陶</material>
+        <size>200cm×300cm×150cm</size>
+        <weight>4500kg</weight>
+        <exhibit>第16回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=673</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000673_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="674">
+        <label>連山夢想-きらめく</label>
+        <ruby>れんざんむそう-きらめく</ruby>
+        <latitude>33.9618814056168</latitude>
+        <longlatitude>131.285617906745</longlatitude>
+        <author>眞板　雅文</author>
+        <authorRuby>まいた　まさふみ</authorRuby>
+        <year>1995</year>
+        <place>ときわ公園・周遊園路・スポーツ広場西入口</place>
+        <material>御影石、鉄</material>
+        <size>250cm×300cm×180cm</size>
+        <weight>7000kg</weight>
+        <exhibit>第16回現代日本彫刻展、神戸須磨離宮公園賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=674</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000674_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="675">
+        <label>Locus of Time Ⅲ</label>
+        <ruby>ろーかす おぶ たいむ すりー</ruby>
+        <latitude>33.93618757</latitude>
+        <longlatitude>131.2767076</longlatitude>
+        <author>田辺　武</author>
+        <authorRuby>たなべ　たけし</authorRuby>
+        <year>2001</year>
+        <place>山口宇部空港・ふれあい公園</place>
+        <material>ステンレススティール、ウレタン塗装、自然石</material>
+        <size>241cm×1245cm×280cm</size>
+        <weight>5500kg</weight>
+        <exhibit>第19回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=675</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000675_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="676">
+        <label>ロッキング・ドール</label>
+        <ruby>ろっきんぐ・どーる</ruby>
+        <latitude>33.9477502438982</latitude>
+        <longlatitude>131.286988693865</longlatitude>
+        <author>関　正司</author>
+        <authorRuby>せき　まさし</authorRuby>
+        <year>1979</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>アルミニウム、ステンレススティール、ステンレスワイヤー、鉄板</material>
+        <size>300cm×200cm×200cm</size>
+        <exhibit>第8回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=676</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000676_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="677">
+        <label>ロンド</label>
+        <ruby>ろんど</ruby>
+        <latitude>33.95545101</latitude>
+        <longlatitude>131.244742</longlatitude>
+        <author>黒川　晃彦</author>
+        <authorRuby>くろかわ　あきひこ</authorRuby>
+        <year>1995</year>
+        <place>小串通り・全日空ホテル前交差点</place>
+        <material>ブロンズ</material>
+        <size>179cm×87cm×49cm、53cm×25cm×34cm、150cm×75cm×87cm、82cm×210cm×70cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=677</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000677_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="678">
+        <label>わく</label>
+        <ruby>わく</ruby>
+        <latitude>33.9462844246008</latitude>
+        <longlatitude>131.284967635582</longlatitude>
+        <author>井上　武吉</author>
+        <authorRuby>いのうえ　ぶきち</authorRuby>
+        <year>1967</year>
+        <place>ときわ公園・正面園路湖畔</place>
+        <material>アルミニウム、コンクリート</material>
+        <size>390cm×600cm×390cm</size>
+        <exhibit>第2回現代日本彫刻展現地制作</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=678</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000678_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="679">
+        <label>若きカフカス人</label>
+        <ruby>わかきかふかすじん</ruby>
+        <latitude>33.948193</latitude>
+        <longlatitude>131.28838</longlatitude>
+        <author>中原　悌二郎</author>
+        <authorRuby>なかはら　ていじろう</authorRuby>
+        <year>1919</year>
+        <place>ときわミュージアム分館</place>
+        <material>ブロンズ</material>
+        <size>42.5cm×19cm×18cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=679</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000679_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="681">
+        <label>若人たち</label>
+        <ruby>わこうどたち</ruby>
+        <latitude>33.9468044880536</latitude>
+        <longlatitude>131.271625162565</longlatitude>
+        <author>山内　壮夫</author>
+        <authorRuby>やまのうち　たけお</authorRuby>
+        <year>1960</year>
+        <place>恩田運動公園</place>
+        <material>ブロンズ</material>
+        <size>250cm×220cm×220cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=681</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000681_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="682">
+        <label>渡辺祐策翁像</label>
+        <ruby>わたなべすけさくおうぞう</ruby>
+        <latitude>33.9579168122585</latitude>
+        <longlatitude>131.245875489024</longlatitude>
+        <author>朝倉　文夫</author>
+        <authorRuby>あさくら　ふみお</authorRuby>
+        <year>1936</year>
+        <place>渡辺翁記念公園</place>
+        <material>ブロンズ</material>
+        <size>350cm×120cm×100cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>寄贈</acquisitionMethod>
+        <remarks>1952年再建</remarks>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=682</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-000682_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1779">
+        <label>若人</label>
+        <ruby>わこうど</ruby>
+        <latitude>33.948159</latitude>
+        <longlatitude>131.288381</longlatitude>
+        <author>山内　壮夫</author>
+        <authorRuby>やまのうち　たけお</authorRuby>
+        <place>ときわミュージアム分館</place>
+        <material>ブロンズ</material>
+        <size>90cm×75cm×25cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1779</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001779_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1837">
+        <label>COLUMNS OF THE THOUGHT 2007</label>
+        <ruby>こらむず おぶ ざ そーと つーさうざんどせぶん</ruby>
+        <latitude>33.9554316627729</latitude>
+        <longlatitude>131.249402364418</longlatitude>
+        <author>エドガー・ズニガ・ヒメネス</author>
+        <authorRuby>えどがー　ずにが　ひめねす</authorRuby>
+        <year>2007</year>
+        <place>宇部市立図書館前</place>
+        <material>鉄</material>
+        <size>243cm×220cm×120cm</size>
+        <weight>222kg</weight>
+        <exhibit>第22回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1837</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001837_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1840">
+        <label>Gravitation</label>
+        <ruby>ぐらびてーしょん</ruby>
+        <latitude>33.955249935446</latitude>
+        <longlatitude>131.237974320623</longlatitude>
+        <author>大井　秀規</author>
+        <authorRuby>おおい　ひでのり</authorRuby>
+        <year>2007</year>
+        <place>宇部興産株式会社　本社正面</place>
+        <material>黒御影石</material>
+        <size>400cm×137cm×134cm</size>
+        <weight>10000kg</weight>
+        <exhibit>第22回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1840</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001840_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1844">
+        <label>Watching the Watchers</label>
+        <ruby>うぉっちんぐ ざ うぉっちゃーず</ruby>
+        <latitude>33.947969299846</latitude>
+        <longlatitude>131.283748682209</longlatitude>
+        <author>アンドレア・トンプソン</author>
+        <authorRuby>あんどれあ　とんぷそん</authorRuby>
+        <year>2009</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>鉄</material>
+        <size>200cm×400cm×300cm</size>
+        <weight>6000kg</weight>
+        <exhibit>第22回現代日本彫刻展</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1844</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001844_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1848">
+        <label>PERMUTATION</label>
+        <ruby>ぱーみゅていしょん</ruby>
+        <latitude>33.9490391249267</latitude>
+        <longlatitude>131.283165588954</longlatitude>
+        <author>ピョートル・ツフォルドフスキー</author>
+        <authorRuby>ぴょーとる　つふぉるどふすきー</authorRuby>
+        <year>2007</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>鉄</material>
+        <size>200cm×300cm×380cm</size>
+        <weight>600kg</weight>
+        <exhibit>第22回現代日本彫刻展、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1848</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001848_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1857">
+        <label>立つ人-宇部</label>
+        <ruby>たつひと-うべ</ruby>
+        <latitude>33.9487804497141</latitude>
+        <longlatitude>131.282895961971</longlatitude>
+        <author>林　武史</author>
+        <authorRuby>はやし　たけし</authorRuby>
+        <year>2007</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>山口県美祢産白大理石</material>
+        <size>55cm×400cm×300cm</size>
+        <weight>10000kg</weight>
+        <exhibit>第22回現代日本彫刻展、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1857</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001857_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1861">
+        <label>共生</label>
+        <ruby>きょうせい</ruby>
+        <latitude>33.9567495043393</latitude>
+        <longlatitude>131.248894999999</longlatitude>
+        <author>望月　菊磨</author>
+        <authorRuby>もちづき　きくま</authorRuby>
+        <year>2007</year>
+        <place>真締川公園</place>
+        <material>コールテン鋼、鋳鉄</material>
+        <size>200cm×300cm×400cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第22回現代日本彫刻展、山口県立美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>山口産業株式会社寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1861</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001861_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1866">
+        <label>道標・鴉</label>
+        <ruby>どうひょう・からす</ruby>
+        <latitude>33.948558343742</latitude>
+        <longlatitude>131.28203706994</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1970</year>
+        <place>ときわミュージアム本館 喫茶室前</place>
+        <material>ブロンズ</material>
+        <size>142cm×75cm×125cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1866</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001866_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1869">
+        <label>空を行く2005</label>
+        <ruby>くうをいくにせんご</ruby>
+        <latitude>33.959693</latitude>
+        <longlatitude>131.250588</longlatitude>
+        <author>西野　康造</author>
+        <authorRuby>にしの　こうぞう</authorRuby>
+        <year>2005</year>
+        <place>真締川公園・山口大学附属病院東</place>
+        <material>チタン合金、ステンレススティール、フッ素塗料</material>
+        <size>900cm×700cm×200cm</size>
+        <weight>450kg</weight>
+        <exhibit>第21回現代日本彫刻展、優秀賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1869</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001869_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1872">
+        <label>森</label>
+        <ruby>もり</ruby>
+        <latitude>33.9472448748401</latitude>
+        <longlatitude>131.283971728836</longlatitude>
+        <author>永廣　隆次</author>
+        <authorRuby>ながひろ　たかつぐ</authorRuby>
+        <year>1985</year>
+        <place>ときわ公園・噴水池付近</place>
+        <material>鉄</material>
+        <size>275cm×550cm×180cm</size>
+        <weight>3800kg</weight>
+        <exhibit>第11回現代日本彫刻展、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1872</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001872_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1875">
+        <label>そりのあるかたち</label>
+        <ruby>そりのあるかたち</ruby>
+        <latitude>33.9478985996561</latitude>
+        <longlatitude>131.25194731779</longlatitude>
+        <author>澄川　喜一</author>
+        <authorRuby>すみかわ　きいち</authorRuby>
+        <year>1979</year>
+        <place>宇部市勤労青少年会館前交差点</place>
+        <material>アルミニウム、黒御影石</material>
+        <size>230cm×470cm×100cm</size>
+        <exhibit>第8回現代日本彫刻展、宇部市野外彫刻美術館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1875</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001875_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1885">
+        <label>王と王妃</label>
+        <ruby>おうとおうひ</ruby>
+        <latitude>33.950233</latitude>
+        <longlatitude>131.247474</longlatitude>
+        <year>2007</year>
+        <place>国道190号線常盤通り</place>
+        <material>大理石、他</material>
+        <size>300cm×76cm×76cm</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部かたばみライオンズクラブ寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1885</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001885_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1935">
+        <label>RADIATION＜模型＞</label>
+        <ruby>らでぃえーしょん＜もけい＞</ruby>
+        <latitude>33.94489</latitude>
+        <longlatitude>131.247709</longlatitude>
+        <author>ゲオルギオス・ラホーティス</author>
+        <authorRuby>げおるぎおす　らほーてぃす</authorRuby>
+        <year>2008</year>
+        <place>港町庁舎</place>
+        <material>プレキシ樹脂・アルミニウム・木・塗料（黒）</material>
+        <size>40cm×20cm×30.5cm</size>
+        <weight>2720g</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、入選模型作品</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1935</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001935_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1939">
+        <label>水ありて時ながれ</label>
+        <ruby>みずありてときながれ</ruby>
+        <latitude>33.9478190251563</latitude>
+        <longlatitude>131.287697906745</longlatitude>
+        <author>眞板　雅文</author>
+        <authorRuby>まいた　まさふみ</authorRuby>
+        <year>2008</year>
+        <place>ときわ公園東・梅林付近</place>
+        <material>熊勢黒（花崗岩）、ステンレスプレート、玄武岩、ベルファースト</material>
+        <size>440cm×166cm×168cm</size>
+        <weight>約500kg</weight>
+        <owner>宇部市</owner>
+        <acquisitionMethod>眞板充江氏寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1939</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001939_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="1948">
+        <label>円弧すべり＜模型＞</label>
+        <ruby>えんこすべり＜模型＞</ruby>
+        <latitude>33.950851</latitude>
+        <longlatitude>131.246111</longlatitude>
+        <author>後藤　良二</author>
+        <authorRuby>ごとう　りょうじ</authorRuby>
+        <year>2008</year>
+        <place>ヒストリア宇部</place>
+        <material>アルミニウム</material>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、入選模型作品（私の好きな模型作品）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=1948</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-001948_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2009">
+        <label>Self-consciousness</label>
+        <ruby>せるふ-こんしゃすねす</ruby>
+        <latitude>33.9490836577902</latitude>
+        <longlatitude>131.28330828836</longlatitude>
+        <author>ヨム・サンウク</author>
+        <authorRuby>よむ　さんうく</authorRuby>
+        <year>2009</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ブロンズ</material>
+        <size>150cm×440cm×130cm</size>
+        <weight>750kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2009</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002009_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2221">
+        <label>Gravitation</label>
+        <ruby>ぐらびてーしょん</ruby>
+        <latitude>33.9329897213545</latitude>
+        <longlatitude>131.274371418385</longlatitude>
+        <author>大井　秀規</author>
+        <authorRuby>おおい　ひでのり</authorRuby>
+        <year>2009</year>
+        <place>山口宇部空港</place>
+        <material>イラン産レッドトラバーチン、伊達冠石</material>
+        <size>360cm×170cm×170cm</size>
+        <weight>10000kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2221</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002221_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2223">
+        <label>台地の日月</label>
+        <ruby>だいちのじつげつ</ruby>
+        <latitude>33.935588955238</latitude>
+        <longlatitude>131.277909301188</longlatitude>
+        <author>小室　正光</author>
+        <authorRuby>こむろ　まさみつ</authorRuby>
+        <year>2009</year>
+        <place>山口宇部空港・ふれあい公園</place>
+        <material>鉄、塗料</material>
+        <size>240cm×320cm×190cm</size>
+        <weight>1800kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、優秀賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2223</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002223_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2224">
+        <label>歩行視のためのオブジェ</label>
+        <ruby>ほこうしのためのおぶじぇ</ruby>
+        <latitude>33.9478880999392</latitude>
+        <longlatitude>131.288246309192</longlatitude>
+        <author>杉山　雅之</author>
+        <authorRuby>すぎやま　まさゆき</authorRuby>
+        <year>2009</year>
+        <place>ときわ湖水ホール前</place>
+        <material>ステンレス（エクスパン止めたる）、塗料</material>
+        <size>235cm×220cm×270cm</size>
+        <weight>300kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2224</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002224_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2225">
+        <label>block</label>
+        <ruby>ぶろっく</ruby>
+        <latitude>33.9510119755996</latitude>
+        <longlatitude>131.245697860118</longlatitude>
+        <author>狗巻　賢二</author>
+        <authorRuby>いぬまき　けんじ</authorRuby>
+        <year>2009</year>
+        <place>真締川公園東</place>
+        <material>コンクリート、塩ビパイプ</material>
+        <size>125cm×220cm×180cm</size>
+        <weight>8000kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2225</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002225_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2240">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.93335</latitude>
+        <longlatitude>131.274316</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1992</year>
+        <place>山口宇部空港</place>
+        <material>ブロンズ</material>
+        <size>43cm×45cm×20cm</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2240</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002240_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2259">
+        <label>UNITY OF OPPOSITES</label>
+        <ruby>ゆにてぃ おぶ おぽじっつ</ruby>
+        <latitude>33.9491483747418</latitude>
+        <longlatitude>131.28333403497</longlatitude>
+        <author>ジョージ・ダン・イストラーテ</author>
+        <authorRuby>じょーじ　だん　いすとらーて</authorRuby>
+        <year>2011</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>カラーラ大理石</material>
+        <size>120cm×450cm×100cm</size>
+        <weight>3000kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2259</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002259_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2263">
+        <label>みんなの楽しみ</label>
+        <ruby>みんなのたのしみ</ruby>
+        <latitude>33.9454083044946</latitude>
+        <longlatitude>131.269024387171</longlatitude>
+        <author>津村　良</author>
+        <authorRuby>つむら　りょう</authorRuby>
+        <year>2010</year>
+        <place>恩田運動公園</place>
+        <material>ステンレス、コンクリート</material>
+        <size>135cm×615cm×150cm</size>
+        <weight>580kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、緑と花と彫刻の博物館賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2263</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002263_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2267">
+        <label>深夜バス</label>
+        <ruby>しんやばす</ruby>
+        <latitude>33.9479053375223</latitude>
+        <longlatitude>131.282775046627</longlatitude>
+        <author>中出　武彦</author>
+        <authorRuby>なかいで　たけひこ</authorRuby>
+        <year>2011</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>米杉、セメント、鉄、照明器具</material>
+        <size>190cm×110cm×580cm</size>
+        <weight>850kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2267</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002267_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2271">
+        <label>REDEFINED SPACE</label>
+        <ruby>りでぃふぁいんど すぺーす</ruby>
+        <latitude>33.9487116500384</latitude>
+        <longlatitude>131.282744953372</longlatitude>
+        <author>フィリース・ベーカー・ハモンド</author>
+        <authorRuby>ふぃりーす　べーかー　はもんど</authorRuby>
+        <year>2009</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>鉄、塗料</material>
+        <size>260cm×180cm×180cm</size>
+        <weight>700kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）、緑と花と彫刻の博物館賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2271</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002271_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2274">
+        <label>宇宙＜模型＞</label>
+        <ruby>うちゅう＜もけい＞</ruby>
+        <latitude>33.933006</latitude>
+        <longlatitude>131.274757</longlatitude>
+        <author>濱野　邦昭</author>
+        <authorRuby>はまの　くにあき</authorRuby>
+        <year>2000</year>
+        <place>山口宇部空港到着出口ロビー</place>
+        <material>FRP</material>
+        <size>54cm×18cm×15㎝</size>
+        <owner>宇部市</owner>
+        <acquisitionMethod>男女共同参画記念碑設置委員会寄贈</acquisitionMethod>
+        <remarks>実物大有り</remarks>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2274</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002274_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2278">
+        <label>道標・鳩</label>
+        <ruby>どうひょう・はと</ruby>
+        <latitude>33.955998</latitude>
+        <longlatitude>131.249413</longlatitude>
+        <author>柳原　義達</author>
+        <authorRuby>やなぎはら　よしたつ</authorRuby>
+        <year>1973</year>
+        <place>宇部市立図書館内</place>
+        <material>ブロンズ</material>
+        <size>36.5cm×44cm×22㎝</size>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2278</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002278_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2279">
+        <label>土の城</label>
+        <ruby>つちのしろ</ruby>
+        <latitude>33.9508261246931</latitude>
+        <longlatitude>131.281689093254</longlatitude>
+        <author>上條　文穂</author>
+        <authorRuby>かみじょう　ふみほ</authorRuby>
+        <year>2011</year>
+        <place>ときわ公園</place>
+        <material>テラコッタ</material>
+        <size>200cm×500cm×90cm</size>
+        <weight>8000kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、山口県知事賞（UBEビエンナーレ（現代日本彫刻展）50周年記念特別賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2279</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002279_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2283">
+        <label>温羅</label>
+        <ruby>うら</ruby>
+        <latitude>33.9463663503315</latitude>
+        <longlatitude>131.283111317791</longlatitude>
+        <author>西平　孝史</author>
+        <authorRuby>にしひら　たかし</authorRuby>
+        <year>2011</year>
+        <place>ときわ公園・遊園地内　メリーゴーランド前</place>
+        <material>FRP、金箔</material>
+        <size>368.5cm×210cm×120cm</size>
+        <weight>100kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>萩森興産株式会社寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2283</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002283_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2287">
+        <label>THE MAN</label>
+        <ruby>ざ まん</ruby>
+        <latitude>33.9512741735817</latitude>
+        <longlatitude>131.24580307361</longlatitude>
+        <author>コンスタンティン・セリカノフ</author>
+        <authorRuby>こんすたんてぃん　せりかのふ</authorRuby>
+        <year>2011</year>
+        <place>真締川公園東・新川大橋南</place>
+        <material>ブロンズ、石</material>
+        <size>551cm×131cm×182cm</size>
+        <weight>2320kg</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、毎日新聞社賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部かたばみライオンズクラブ寄贈(認証30周年記念事業)</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2287</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002287_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2363">
+        <label>森に棲む 2010-5</label>
+        <ruby>もりにすむ にせんじゅう-ご</ruby>
+        <latitude>34.0451497604455</latitude>
+        <longlatitude>131.224193287519</longlatitude>
+        <author>北沢　努</author>
+        <authorRuby>きたざわ　つとむ</authorRuby>
+        <year>2011</year>
+        <place>学びの森くすのき</place>
+        <material>ブロンズ、石</material>
+        <size>295㎝×320㎝×228㎝</size>
+        <weight>6250㎏</weight>
+        <exhibit>第24回UBEビエンナーレ（現代日本彫刻展）、宇部マテリアルズ賞</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2363</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002363_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2364">
+        <label>The Forest of Mirrors</label>
+        <ruby>ざ ふぉれすと おぶ みらーず</ruby>
+        <latitude>34.0447852746735</latitude>
+        <longlatitude>131.223823142674</longlatitude>
+        <author>佐野　耕平</author>
+        <authorRuby>さの　こうへい</authorRuby>
+        <year>2009</year>
+        <place>学びの森くすのき</place>
+        <material>ステンレススティール、花崗岩、アルミニウム</material>
+        <size>300cm×300㎝×300㎝</size>
+        <weight>4000kg</weight>
+        <exhibit>第23回UBEビエンナーレ（現代日本彫刻展）</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>作家寄贈</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2364</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002364_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2365">
+        <label>Storage of celestial mechanics</label>
+        <ruby>すとれーじ　おぶ　せれすちゃる　めかにくす</ruby>
+        <latitude>33.947833</latitude>
+        <longlatitude>131.282989</longlatitude>
+        <author>ハンス・ショール</author>
+        <authorRuby>はんす　しょーる</authorRuby>
+        <year>2007</year>
+        <place>ときわミュージアム彫刻野外展示場</place>
+        <material>鉄</material>
+        <size>400cm×300cm×200㎝</size>
+        <weight>2400kg</weight>
+        <exhibit>第22回UBEビエンナーレ（現代日本彫刻展）、優秀賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2365</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002365_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2366">
+        <label>Green Fire＜模型＞</label>
+        <ruby>ぐりーん　ふぁいあー＜もけい＞</ruby>
+        <latitude>33.951523</latitude>
+        <longlatitude>131.246752</longlatitude>
+        <author>髙橋　勇一郎</author>
+        <authorRuby>たかはし　ゆういちろう</authorRuby>
+        <year>2012</year>
+        <place>市役所１Ｆ</place>
+        <material>ステンレススティール、塗料</material>
+        <exhibit>第25回UBEビエンナーレ（現代日本彫刻展）、入選模型作品</exhibit>
+        <owner>宇部市</owner>
+        <acquisitionMethod>宇部市ふるさとコンパニオンの会寄贈（創立20周年記念）</acquisitionMethod>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2366</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002366_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2367">
+        <label>Our Love</label>
+        <ruby>あわ　らぶ</ruby>
+        <latitude>33.948582</latitude>
+        <longlatitude>131.282338</longlatitude>
+        <author>冨長　敦也</author>
+        <authorRuby>とみなが　あつや</authorRuby>
+        <year>2011</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>トラバーチン（白：イタリア、赤：イラン、黄：旧ユーゴスラビア産）</material>
+        <exhibit>第25回UBEビエンナーレ（現代日本彫刻展）、大賞（宇部市賞）</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2367</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002367_1_t2.jpg</depiction>
+    </ube_sculpture>
+    <ube_sculpture id="2373">
+        <label>Sin</label>
+        <ruby>さいん</ruby>
+        <latitude>33.948282</latitude>
+        <longlatitude>131.282815</longlatitude>
+        <author>外礒　秀紹</author>
+        <authorRuby>とのいそ　ひでつぐ</authorRuby>
+        <year>2013</year>
+        <place>ときわ公園・彫刻野外展示場</place>
+        <material>ステンレススティール、塗料、白御影石</material>
+        <size>370cm×260cm×260㎝</size>
+        <weight>2440㎏</weight>
+        <exhibit>第25回UBEビエンナーレ（現代日本彫刻展）、宇部興産株式会社賞</exhibit>
+        <owner>宇部市</owner>
+        <homepage>http://archives.city.ube.yamaguchi.jp/detail.php?con_id=2373</homepage>
+        <depiction>http://archives.city.ube.yamaguchi.jp/media/thumb_img/05-002373_1_t2.jpg</depiction>
+    </ube_sculpture>
+</dataroot>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://opendata.city.ube.yamaguchi.jp/data/ube_poling_space.xsd">
+    <ube_poling_space id="1">
+        <label>花園投票区</label><!--投票区名-->
+        <pollingPlace>山口宇部農業協同組合東岐波支店別館</pollingPlace><!--投票所名-->
+        <latitude>33.99048</latitude><!--緯度-->
+        <longlatitude>131.347059</longlatitude><!--経度-->
+        <address>山口県宇部市大字東岐波字新田2098番地1</address><!--住所-->
+        <area>東岐波1区、東岐波2区、東岐波4区、東岐波4-1区、東岐波4-2区、東岐波5区、東岐波6区、東岐波7区、東岐波20区、東岐波22区</area><!--投票区域-->
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/hanazono.html</homepage><!--ホームページ-->
+    </ube_poling_space>
+    <ube_poling_space id="2">
+        <label>磯地投票区</label>
+        <pollingPlace>宇部市東岐波ふれあいセンター</pollingPlace>
+        <latitude>33.980983</latitude>
+        <longlatitude>131.339504</longlatitude>
+        <address>山口県宇部市大字東岐波字向山3829番地</address>
+        <area>東岐波3区、東岐波8区、東岐波9区、東岐波14区、東岐波15-1区、東岐波15-2区、東岐波15-3区、東岐波16区、東岐波17区、東岐波18区、東岐波19区、東岐波21区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/isoji.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="3">
+        <label>丸尾投票区</label>
+        <pollingPlace>丸尾自治会館</pollingPlace>
+        <latitude>33.966854</latitude>
+        <longlatitude>131.350479</longlatitude>
+        <address>山口県宇部市大字東岐波字丸尾4327番地30</address>
+        <area>東岐波10区、東岐波11区、東岐波13区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/maruo.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="4">
+        <label>吉田投票区</label>
+        <pollingPlace>吉田公会堂</pollingPlace>
+        <latitude>33.957493</latitude>
+        <longlatitude>131.321533</longlatitude>
+        <address>山口県宇部市大字西岐波字吉田1021番地3</address>
+        <area>西岐波1区、西岐波2-1区、西岐波2-2区、西岐波2-3区、西岐波2-4区、西岐波2-5区、西岐波38区、西岐波39区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/yoshida.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="5">
+        <label>西岐波投票区</label>
+        <pollingPlace>宇部市西岐波ふれあいセンター</pollingPlace>
+        <latitude>33.954805</latitude>
+        <longlatitude>131.312242</longlatitude>
+        <address>山口県宇部市床波六丁目5番23号</address>
+        <area>西岐波3区、西岐波4区、西岐波5区、西岐波6-1区、西岐波6-2区、西岐波7区、西岐波8区、西岐波9区、西岐波10区、西岐波11区、西岐波12区、西岐波13区、西岐波14区、西岐波15区、西岐波16区、西岐波17-1区、西岐波17-2区、西岐波18区、西岐波19区、西岐波20区、西岐波21区、西岐波22区、西岐波23区、西岐波40区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nishikiwa.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="6">
+        <label>今村投票区</label>
+        <pollingPlace>西岐波団地集会所</pollingPlace>
+        <latitude>33.958298</latitude>
+        <longlatitude>131.302178</longlatitude>
+        <address>山口県宇部市大字西岐波字萩原3916番地</address>
+        <area>西岐波26区、西岐波26-1-1区、西岐波26-1-2区、西岐波26-3区、西岐波26-4区、西岐波26-6区、西岐波26-7区、西岐波26-8区、西岐波26-9区、西岐波26-10区、西岐波26-11区、西岐波27区、西岐波41区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/imamura.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="7">
+        <label>西山投票区</label>
+        <pollingPlace>下片倉自治会館</pollingPlace>
+        <latitude>33.971018</latitude>
+        <longlatitude>131.297178</longlatitude>
+        <address>山口県宇部市大字西岐波字雲雀田5172番地16</address>
+        <area>西岐波31-2区、川上9区、川上10区、川上10-1区、川上11区、川上12区、川上13区、川上14区、川上15区、川上16区、川上17区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nishiyama.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="8">
+        <label>常盤投票区</label>
+        <pollingPlace>宇部市常盤ふれあいセンター</pollingPlace>
+        <latitude>33.944499</latitude>
+        <longlatitude>131.288424</longlatitude>
+        <address>山口県宇部市亀浦一丁目1番50号</address>
+        <area>常盤24区、常盤25区、常盤27-1区、常盤27-2区、常盤27-3区、常盤28区、常盤29区、常盤29-2区、常盤29-3区、常盤29-4区、常盤29-5区、常盤29-6区、常盤30区、常盤30-2区、常盤30-3区、常盤30-4区、常盤34区、常盤35-2区、常盤35-3区、常盤35-4区、常盤36区、常盤37区、常盤38区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/tokiwa.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="9">
+        <label>亀浦投票区</label>
+        <pollingPlace>亀浦公会堂</pollingPlace>
+        <latitude>33.941046</latitude>
+        <longlatitude>131.286846</longlatitude>
+        <address>山口県宇部市亀浦三丁目1番23号</address>
+        <area>常盤1-1区、常盤1-2区、常盤1-3区、常盤1-4区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kameura.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="10">
+        <label>則貞投票区</label>
+        <pollingPlace>則貞自治会館</pollingPlace>
+        <latitude>33.941847</latitude>
+        <longlatitude>131.275195</longlatitude>
+        <address>山口県宇部市則貞六丁目2番14-3号</address>
+        <area>常盤2-1区、常盤2-6区、常盤2-7区、常盤2-8区、恩田1区、恩田2区、恩田2-3区、恩田2-5区、恩田4-1区、恩田4-4区、恩田21区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/norisada.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="11">
+        <label>恩田投票区</label>
+        <pollingPlace>宇部市立恩田小学校体育館</pollingPlace>
+        <latitude>33.942541</latitude>
+        <longlatitude>131.263184</longlatitude>
+        <address>山口県宇部市笹山町一丁目4番1号</address>
+        <area>恩田5-2区、恩田13区、恩田14-1区、恩田14-2区、恩田14-3区、恩田14-4区、恩田14-5区、恩田14-6区、恩田15区、恩田16区、恩田27-1区、恩田27-4区、恩田29区、恩田30区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/onda.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="12">
+        <label>野原投票区</label>
+        <pollingPlace>宇部市俵田翁記念体育館</pollingPlace>
+        <latitude>33.946991</latitude>
+        <longlatitude>131.271987</longlatitude>
+        <address>山口県宇部市恩田町四丁目1番1号</address>
+        <area>恩田22-1区、恩田22-2区、恩田23区、恩田24区、恩田25区、恩田27-2区、恩田27-3区、恩田27-5区、恩田27-6区、琴芝1-5区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nobara.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="13">
+        <label>八王子投票区</label>
+        <pollingPlace>岬会館</pollingPlace>
+        <latitude>33.929545</latitude>
+        <longlatitude>131.266687</longlatitude>
+        <address>山口県宇部市八王子町1番5号</address>
+        <area>恩田7-1区、恩田7-2区、恩田7-3区、岬8区、岬9区、岬10区、岬11区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/okiube.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="14">
+        <label>五十目山投票区</label>
+        <pollingPlace>五十目山会館</pollingPlace>
+        <latitude>33.935251</latitude>
+        <longlatitude>131.268865</longlatitude>
+        <address>山口県宇部市草江三丁目11番38号</address>
+        <area>恩田4-2区、恩田4-3区、恩田5-1区、恩田17区、恩田18区、恩田19区、恩田20区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/gojuumeyama.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="15">
+        <label>岬投票区</label>
+        <pollingPlace>宇部市岬ふれあいセンター</pollingPlace>
+        <latitude>33.93088</latitude>
+        <longlatitude>131.261237</longlatitude>
+        <address>山口県宇部市明神町一丁目3番16号</address>
+        <area>岬5区、岬12区、岬13区、岬14区、岬15区、岬16区、岬17区、岬18区、岬19区、岬30-1区、岬30-2区、岬31-1区、岬31-2区、岬32区、岬33区、岬34区、岬35区、岬37区、岬38区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/matsuyamachohigashi.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="16">
+        <label>見初投票区</label>
+        <pollingPlace>宇部市立見初小学校体育館</pollingPlace>
+        <latitude>33.943542</latitude>
+        <longlatitude>131.256081</longlatitude>
+        <address>山口県宇部市松山町二丁目4番42号</address>
+        <area>見初1区、見初2区、見初3区、見初4区、見初5区、見初5-1区、見初5-2区、見初6区、見初7区、見初8区、見初9-1区、見初9-2区、見初9-3区、見初9-4区、見初9-5区、見初9-6区、見初10区、見初11区、見初12区、見初21区、見初36-1区、見初36-2区、見初38区、見初39区、見初40区、見初41区、見初42区、見初43区、見初44区、見初45区、見初54-1区、見初54-2区、見初55区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/mizome.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="17">
+        <label>神原南投票区</label>
+        <pollingPlace>宇部市役所正面玄関ホール</pollingPlace>
+        <latitude>33.951655</latitude>
+        <longlatitude>131.246731</longlatitude>
+        <address>山口県宇部市常盤町一丁目7番1号</address>
+        <area>神原15区、神原27区、神原28区、神原29区、神原29区-1、神原30区、神原31区、神原32区、神原32-1区、神原33-1区、神原33-2区、神原34区、神原35区、神原36区、神原36-1区、神原36-2区、神原37区、神原46区、神原46-1区、神原46-2区、神原46-3区、神原47区、神原48区、神原49区、神原50-1区、神原50-2区、神原50-4区、神原51区、神原51-1区、神原52区、神原53-1区、神原53-2区、神原53-3区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kamiharaminami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="18">
+        <label>神原北投票区</label>
+        <pollingPlace>宇部市神原ふれあいセンター</pollingPlace>
+        <latitude>33.947232</latitude>
+        <longlatitude>131.253791</longlatitude>
+        <address>山口県宇部市松山町一丁目5番16号</address>
+        <area>神原8区、神原9区、神原10区、神原10-1区、神原10-2区、神原11区、神原11-1区、神原12区、神原12-1区、神原12-3区、神原12-5区、神原13区、神原13-1区、神原16区、神原17区、神原18区、神原19区、神原19-1区、神原20区、神原20-1区、神原20-2区、神原22区、神原23区、神原24区、神原24-1区、神原24-2区、神原25区、神原26区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kamiharakita.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="19">
+        <label>琴芝投票区</label>
+        <pollingPlace>宇部市立琴芝小学校体育館</pollingPlace>
+        <latitude>33.953951</latitude>
+        <longlatitude>131.25657</longlatitude>
+        <address>山口県宇部市東琴芝二丁目3番48号</address>
+        <area>琴芝15区、琴芝38区、琴芝39区、琴芝40区、琴芝40-1区、琴芝41区、琴芝41-1区、琴芝42区、琴芝42-1区、琴芝43区、琴芝43-1区、琴芝44区、琴芝44-1区、琴芝45区、琴芝46区、琴芝47区、琴芝58区、琴芝59区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kotoshiba.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="20">
+        <label>野中投票区</label>
+        <pollingPlace>宇部市立常盤中学校体育館</pollingPlace>
+        <latitude>33.952224</latitude>
+        <longlatitude>131.274905</longlatitude>
+        <address>山口県宇部市上野中町3番40号</address>
+        <area>琴芝1区、琴芝1-1区、琴芝1-3区、琴芝1-4区、琴芝1-6区、琴芝1-7区、琴芝1-8区、琴芝1-9区、琴芝1-10区、琴芝2区、琴芝3-1区、琴芝3-2区、琴芝3-5区、上宇部5区、上宇部5-1区、上宇部10-1区、上宇部32区、上宇部32-1区、上宇部33区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nonaka.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="21">
+        <label>梶返投票区</label>
+        <pollingPlace>宇部市琴芝ふれあいセンター</pollingPlace>
+        <latitude>33.952972</latitude>
+        <longlatitude>131.263189</longlatitude>
+        <address>山口県宇部市西梶返二丁目10番1号</address>
+        <area>琴芝3区、琴芝3-3区、琴芝3-4区、琴芝3-6区、琴芝3-7区、琴芝3-8区、琴芝3-9区、琴芝3-10区、琴芝3-11区、琴芝4区、琴芝4-2区、琴芝30区、琴芝30-1区、琴芝30-2区、琴芝60区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kajigaeshi.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="22">
+        <label>内の田投票区</label>
+        <pollingPlace>宇部市隣保館上宇部会館別館</pollingPlace>
+        <latitude>33.962725</latitude>
+        <longlatitude>131.262674</longlatitude>
+        <address>山口県宇部市中村二丁目6番15号</address>
+        <area>上宇部6区、上宇部6-1区、上宇部6-2区、上宇部6-3区、上宇部6-4区、上宇部7区、上宇部8区、上宇部9区、上宇部15-1区、上宇部18区、上宇部21区、上宇部21-1区、上宇部25区、上宇部26区、上宇部26-1区、上宇部29区、琴芝23区、琴芝24区、琴芝25区、琴芝27区、琴芝28区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/uchinota.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="23">
+        <label>上宇部投票区</label>
+        <pollingPlace>宇部市立上宇部小学校体育館</pollingPlace>
+        <latitude>33.96713</latitude>
+        <longlatitude>131.269315</longlatitude>
+        <address>山口県宇部市大小路三丁目2番17号</address>
+        <area>上宇部13区、上宇部13-5区、上宇部14区、上宇部15区、上宇部20区、上宇部20-2区、上宇部20-3区、上宇部23区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kamiube.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="24">
+        <label>琴崎投票区</label>
+        <pollingPlace>川添自治会館</pollingPlace>
+        <latitude>33.970111</latitude>
+        <longlatitude>131.266751</longlatitude>
+        <address>山口県宇部市中尾一丁目2番1号</address>
+        <area>上宇部14-1区、上宇部14-2区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kotozaki.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="25">
+        <label>開投票区</label>
+        <pollingPlace>開公会堂</pollingPlace>
+        <latitude>33.963553</latitude>
+        <longlatitude>131.280366</longlatitude>
+        <address>山口県宇部市開三丁目11番43号</address>
+        <area>上宇部10区、上宇部10-2区、上宇部10-3区、上宇部10-4区、上宇部10-5区、上宇部11区、上宇部11-2区、上宇部11-3区、上宇部12区、上宇部12-1区、上宇部13-1区、上宇部13-2区、上宇部13-3区、上宇部13-6区、上宇部13-7区、上宇部13-8区、上宇部34区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/hiraki.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="26">
+        <label>川上投票区</label>
+        <pollingPlace>宇部市立川上小学校体育館</pollingPlace>
+        <latitude>33.976882</latitude>
+        <longlatitude>131.281933</longlatitude>
+        <address>山口県宇部市大字川上字上荒野86番地</address>
+        <area>川上1区、川上2区、川上3区、川上4区、川上5区、川上6区、川上7区、川上8区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kawakami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="27">
+        <label>小羽山投票区</label>
+        <pollingPlace>宇部市立小羽山小学校体育館</pollingPlace>
+        <latitude>33.978456</latitude>
+        <longlatitude>131.263533</longlatitude>
+        <address>山口県宇部市東小羽山町一丁目4番13号</address>
+        <area>小羽山1区、小羽山2区、小羽山3区、小羽山3-1区、小羽山4区、小羽山7区、小羽山11区、小羽山12区、小羽山13区、小羽山14区、小羽山15区、小羽山16区、小羽山17区、小羽山17-1区、小羽山18区、小羽山19区、小羽山20区、小羽山21区、小羽山22区、小羽山23区、小羽山24区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/obayama.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="28">
+        <label>新川南投票区</label>
+        <pollingPlace>宇部市新川ふれあいセンター</pollingPlace>
+        <latitude>33.95865</latitude>
+        <longlatitude>131.244725</longlatitude>
+        <address>山口県宇部市朝日町8番20号</address>
+        <area>新川7区、新川7-1区、新川7-2区、新川7-3区、新川16-1区、新川16-3区、新川16-4区、新川16-6区、新川16-7区、新川16-8区、新川16-9区、新川17-1区、新川17-2区、新川17-3区、新川17-4区、新川17-5区、新川18区、新川18-1区、新川19-1区、新川19-2区、新川19-3区、新川20-1区、新川20-2区、新川23-1区、新川23-2区、新川23-3区、新川24区、新川24-1区、新川25-1区、新川25-2区、新川25-3区、新川26区、新川27区、新川28区、新川29区、新川30区、新川31区、新川32区、新川33区、新川34区、新川35区、新川36区、新川37区、新川38区、新川39区、新川40区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/shinkawaminami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="29">
+        <label>新川北投票区</label>
+        <pollingPlace>宇部市立新川小学校体育館</pollingPlace>
+        <latitude>33.963793</latitude>
+        <longlatitude>131.24804</longlatitude>
+        <address>山口県宇部市西小串一丁目4番25号</address>
+        <area>新川1-1区、新川2区、新川3-1区、新川3-3区、新川4区、新川4-1区、新川5-1区、新川5-2区、新川5-3区、新川6区、新川8-1区、新川8-2区、新川8-3区、新川8-5区、新川15-1区、新川15-3区、新川15-4区、新川16-2区、新川16-5区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/shinkawakita.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="30">
+        <label>鵜の島南投票区</label>
+        <pollingPlace>宇部市鵜の島ふれあいセンター</pollingPlace>
+        <latitude>33.962102</latitude>
+        <longlatitude>131.238041</longlatitude>
+        <address>山口県宇部市鵜の島町7番6号</address>
+        <area>鵜の島41区、鵜の島43区、鵜の島44区、鵜の島45区、鵜の島46区、鵜の島46-1区、鵜の島46-2区、鵜の島47区、鵜の島48区、鵜の島49区、鵜の島50区、鵜の島51区、鵜の島52-1区、鵜の島52-2区、鵜の島53区、鵜の島54区、鵜の島56区、鵜の島60区、鵜の島60-1区、鵜の島61区、鵜の島61-1区、鵜の島62区、鵜の島63区、鵜の島64区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/unoshimaminami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="31">
+        <label>鵜の島北投票区</label>
+        <pollingPlace>宇部市立鵜ノ島小学校体育館</pollingPlace>
+        <latitude>33.963998</latitude>
+        <longlatitude>131.240036</longlatitude>
+        <address>山口県宇部市小松原町二丁目10番25号</address>
+        <area>鵜の島14-1区、鵜の島14-2区、鵜の島57-1区、鵜の島57-1-1区、鵜の島57-2区、鵜の島57-3区、鵜の島57-4区、鵜の島58区、鵜の島58-1区、鵜の島59区、鵜の島59-1区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/unoshimakita.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="32">
+        <label>藤山南投票区</label>
+        <pollingPlace>三嶋会館</pollingPlace>
+        <latitude>33.966934</latitude>
+        <longlatitude>131.229651</longlatitude>
+        <address>山口県宇部市居能町二丁目8番22号</address>
+        <area>藤山1区、藤山2区、藤山3区、藤山4区、藤山5区、藤山5-1区、藤山6区、藤山7区、藤山7-1区、藤山8区、藤山8-1区、藤山9-1区、藤山9-2区、藤山9-3区、藤山10区、藤山11区、藤山12南区、藤山12北区、藤山13区、藤山13-2区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/fujiyamaminami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="33">
+        <label>藤山中央投票区</label>
+        <pollingPlace>宇部市立藤山中学校体育館</pollingPlace>
+        <latitude>33.974319</latitude>
+        <longlatitude>131.229544</longlatitude>
+        <address>山口県宇部市文京町10番50号</address>
+        <area>藤山9-4区、藤山9-5区、藤山9-6区、藤山14区、藤山15区、藤山17区、藤山17-2区、藤山18区、藤山18-1区、藤山18-4区、藤山19区、藤山19-1区、藤山21区、藤山22区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/fujiyamachuo.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="34">
+        <label>藤山北投票区</label>
+        <pollingPlace>宇部フロンティア大学食堂</pollingPlace>
+        <latitude>33.980556</latitude>
+        <longlatitude>131.2345</longlatitude>
+        <address>山口県宇部市文京台二丁目1番1号</address>
+        <area>藤山17-1区、藤山18-3区、藤山23区、藤山23-1区、藤山23-2区、藤山23-3区、藤山23-4区、藤山23-5区、藤山23-6区、藤山24区、藤山25区、藤山25-1区、藤山26区、藤山27区、藤山28区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/fujiyamakita.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="35">
+        <label>厚南中央投票区</label>
+        <pollingPlace>宇部市厚南市民センター</pollingPlace>
+        <latitude>33.994202</latitude>
+        <longlatitude>131.217849</longlatitude>
+        <address>山口県宇部市大字厚南中央三丁目1番2号</address>
+        <area>厚南1区、厚南3区、厚南10区、厚南13区、西宇部1区、黒石7区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/konanchuo.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="36">
+        <label>厚南北投票区</label>
+        <pollingPlace>宇部市隣保館厚南会館</pollingPlace>
+        <latitude>34.000838</latitude>
+        <longlatitude>131.218868</longlatitude>
+        <address>山口県宇部市厚南北一丁目2番24号</address>
+        <area>西宇部4区、西宇部5区、西宇部14区、西宇部16区、厚南2区、厚南6区、厚南7区、厚南8区、厚南12区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nishiube.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="37">
+        <label>中野投票区</label>
+        <pollingPlace>宇部市立厚南小学校体育館</pollingPlace>
+        <latitude>33.994753</latitude>
+        <longlatitude>131.208182</longlatitude>
+        <address>山口県宇部市大字東須恵字吉信813番地</address>
+        <area>厚南4区、厚南5区、厚南9区、厚南11区、黒石6区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nakano.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="38">
+        <label>黒石投票区</label>
+        <pollingPlace>宇部市黒石ふれあいセンター</pollingPlace>
+        <latitude>33.984132</latitude>
+        <longlatitude>131.207689</longlatitude>
+        <address>山口県宇部市大字妻崎開作字崎89ノろ434番地</address>
+        <area>黒石1区、黒石2区、黒石3区、黒石4区、黒石5区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/higashiwari.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="39">
+        <label>西宇部投票区</label>
+        <pollingPlace>宇部市西宇部ふれあいセンター</pollingPlace>
+        <latitude>34.005392</latitude>
+        <longlatitude>131.220274</longlatitude>
+        <address>山口県宇部市西宇部北三丁目9番15号</address>
+        <area>西宇部2区、西宇部3区、西宇部6区、西宇部7区、西宇部8区、西宇部9区、西宇部10区、西宇部11区、西宇部12区、西宇部13区、西宇部15区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/nishigaoka.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="40">
+        <label>原の北投票区</label>
+        <pollingPlace>岡田屋公会堂</pollingPlace>
+        <latitude>33.977745</latitude>
+        <longlatitude>131.196713</longlatitude>
+        <address>山口県宇部市大字東須恵字檜木迫2388番地2</address>
+        <area>原1区、原2区、原14区、原20区、原20-2区、原21区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/haranokita.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="41">
+        <label>原中央投票区</label>
+        <pollingPlace>宇部市原ふれあいセンター</pollingPlace>
+        <latitude>33.971494</latitude>
+        <longlatitude>131.202341</longlatitude>
+        <address>山口県宇部市大字妻崎開作字中内濱1990番地</address>
+        <area>原3-4区、原3-5区、原3-6区、原4区、原5区、原6区、原7区、原8-2区、原14-2区、原15区、原16区、原17区、原22区、原8区、黒石9区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/harachuo.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="42">
+        <label>原の南投票区</label>
+        <pollingPlace>第一原公会堂</pollingPlace>
+        <latitude>33.967797</latitude>
+        <longlatitude>131.199267</longlatitude>
+        <address>山口県宇部市大字東須恵字法仙坊3113番地3</address>
+        <area>原8-1区、原9区、原9-2区、原10区、原11区、原12区、原13区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/haranominami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="43">
+        <label>岡村投票区</label>
+        <pollingPlace>宇部市立厚東中学校体育館</pollingPlace>
+        <latitude>34.041378</latitude>
+        <longlatitude>131.26452</longlatitude>
+        <address>山口県宇部市大字吉見字藪台1184番地</address>
+        <area>厚東1区、厚東2区、厚東3区、厚東4区、厚東5区、厚東6区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/okamura.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="44">
+        <label>棚井上投票区</label>
+        <pollingPlace>宇部市厚東ふれあいセンター</pollingPlace>
+        <latitude>34.024316</latitude>
+        <longlatitude>131.24907</longlatitude>
+        <address>山口県宇部市大字棚井字高野原68番地2</address>
+        <area>厚東7区、厚東8区、厚東9区、厚東10区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/tanaikami.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="45">
+        <label>棚井中投票区</label>
+        <pollingPlace>棚井中集会所</pollingPlace>
+        <latitude>34.016598</latitude>
+        <longlatitude>131.238588</longlatitude>
+        <address>山口県宇部市大字棚井字生殿1143番地2</address>
+        <area>厚東11区、厚東12区、厚東13区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/tanainaka.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="46">
+        <label>広瀬投票区</label>
+        <pollingPlace>広瀬公会堂</pollingPlace>
+        <latitude>34.001123</latitude>
+        <longlatitude>131.239028</longlatitude>
+        <address>山口県宇部市大字広瀬字下中串560番地1</address>
+        <area>厚東14区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/hirose.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="47">
+        <label>車地投票区</label>
+        <pollingPlace>宇部市二俣瀬ふれあいセンター</pollingPlace>
+        <latitude>34.056606</latitude>
+        <longlatitude>131.291814</longlatitude>
+        <address>山口県宇部市大字車地字寮ノ河内173番地</address>
+        <area>二俣瀬1区、二俣瀬2区、二俣瀬3区、二俣瀬4区、二俣瀬5区、二俣瀬6区、二俣瀬7区、二俣瀬13区、二俣瀬19区、二俣瀬20区、二俣瀬22区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/kurumaji.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="48">
+        <label>田の小野投票区</label>
+        <pollingPlace>田の小野構造改善センター</pollingPlace>
+        <latitude>34.040996</latitude>
+        <longlatitude>131.286621</longlatitude>
+        <address>山口県宇部市大字車地字西ヶ原214番地2</address>
+        <area>二俣瀬9区、二俣瀬10区、二俣瀬11区、二俣瀬12区、二俣瀬21区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/tanoono.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="49">
+        <label>市小野投票区</label>
+        <pollingPlace>市小野会館</pollingPlace>
+        <latitude>34.126798</latitude>
+        <longlatitude>131.343699</longlatitude>
+        <address>山口県宇部市大字小野字ふけ1305番地6</address>
+        <area>小野1区、小野3区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/ichiono.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="50">
+        <label>宇内投票区</label>
+        <pollingPlace>下宇内農事組合集会所</pollingPlace>
+        <latitude>34.146876</latitude>
+        <longlatitude>131.321608</longlatitude>
+        <address>山口県宇部市大字小野字門口5157番地1</address>
+        <area>小野7区、小野8区、小野9区、小野10区、小野11区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/unai.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="51">
+        <label>下小野投票区</label>
+        <pollingPlace>宇部市小野ふれあいセンター</pollingPlace>
+        <latitude>34.116628</latitude>
+        <longlatitude>131.32031</longlatitude>
+        <address>山口県宇部市大字小野字山根8294番地4</address>
+        <area>小野4区、小野5区、小野6区、小野12区、小野13区、小野14区、小野15区、小野16区、小野16-1区、小野17区、小野18区、小野23区、小野24区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/shimoono.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="52">
+        <label>棯小野投票区</label>
+        <pollingPlace>棯小野公民館</pollingPlace>
+        <latitude>34.0858</latitude>
+        <longlatitude>131.34475</longlatitude>
+        <address>山口県宇部市大字棯小野字一の堀538番地1</address>
+        <area>小野19区、小野20区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/utsugiono.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="53">
+        <label>臼木投票区</label>
+        <pollingPlace>臼麻集会所</pollingPlace>
+        <latitude>34.090145</latitude>
+        <longlatitude>131.307714</longlatitude>
+        <address>山口県宇部市大字小野字北畑10139番地2</address>
+        <area>小野21区、小野22区、小野25区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/usuki.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="54">
+        <label>荒滝投票区</label>
+        <pollingPlace>荒滝自治会館</pollingPlace>
+        <latitude>34.148359</latitude>
+        <longlatitude>131.307939</longlatitude>
+        <address>山口県宇部市大字東吉部字石場1086番地</address>
+        <area>吉部1区、吉部2区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/arataki.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="55">
+        <label>市投票区</label>
+        <pollingPlace>宇部市吉部ふれあいセンター</pollingPlace>
+        <latitude>34.125119</latitude>
+        <longlatitude>131.28263</longlatitude>
+        <address>山口県宇部市大字東吉部字馬場西3330番地7</address>
+        <area>吉部3区、吉部4区、吉部5区、吉部6区、吉部7区、吉部8区、吉部9区、吉部10区、吉部11区、吉部12区、吉部13区、吉部14区、吉部18区、吉部19区、吉部20区</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/ichi.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="56">
+        <label>藤ケ瀬投票区</label>
+        <pollingPlace>藤ケ瀬自治会館</pollingPlace>
+        <latitude>34.135106</latitude>
+        <longlatitude>131.259332</longlatitude>
+        <address>山口県宇部市大字西吉部字中村松葉460番地3</address>
+        <area>吉部16区、吉部17区、万倉黒五郎</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/fujigase.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="57">
+        <label>万倉第一投票区</label>
+        <pollingPlace>宇部市万倉ふれあいセンター</pollingPlace>
+        <latitude>34.071289</latitude>
+        <longlatitude>131.242772</longlatitude>
+        <address>山口県宇部市大字西万倉字宮ノ下1672番地</address>
+        <area>吉部15区、万倉宗方、万倉神元、万倉国近、万倉下矢矯、万倉上矢矯、万倉沼田ヶ原、万倉今富、万倉椋並、万倉正楽寺、万倉土井、万倉伊佐地、万倉柏の木、万倉大河内、万倉城南、万倉小河内、万倉岩滝、万倉浅地、万倉中ノ浴、万倉口の坪、万倉福間、万倉沖田、万倉栄町、万倉宮尾、万倉伏付、万倉後河地、万倉雇用促進住宅楠宿舎</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/magura1.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="58">
+        <label>万倉第二投票区</label>
+        <pollingPlace>二ツ道祖集会所</pollingPlace>
+        <latitude>34.115997</latitude>
+        <longlatitude>131.22243</longlatitude>
+        <address>山口県宇部市大字奥万倉字岸高3060番地1</address>
+        <area>万倉二ツ道祖、万倉白椎ノ木</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/magura2.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="59">
+        <label>万倉第三投票区</label>
+        <pollingPlace>芦河内集会所</pollingPlace>
+        <latitude>34.087631</latitude>
+        <longlatitude>131.271708</longlatitude>
+        <address>山口県宇部市大字芦河内字隣656番地</address>
+        <area>万倉下郷、万倉東郷、万倉西郷</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/magura3.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="60">
+        <label>船木第一投票区</label>
+        <pollingPlace>宇部市楠総合センター</pollingPlace>
+        <latitude>34.045743</latitude>
+        <longlatitude>131.226465</longlatitude>
+        <address>山口県宇部市大字船木字野田442番地11</address>
+        <area>船木岡ノ坂、船木宮本、船木綿屋町、船木中市、船木上田町、船木下田町、船木上鈍々、船木下鈍々、船木新町、船木裏町、船木第一沖、船木第二沖、船木櫃崎、船木真名ケ崎、船木梅田西山、船木西山第一、船木指月、船木西田、船木宮田、船木宝生、船木新栄住宅、船木大船台、船木雇用促進船木宿舎、船木田町県営住宅、船木赤目、船木大船台ニュータウン、船木大船台サニータウン、船木ニュータウン楠</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/funaki1.html</homepage>
+    </ube_poling_space>
+    <ube_poling_space id="61">
+        <label>船木第二投票区</label>
+        <pollingPlace>西在集会所</pollingPlace>
+        <latitude>34.045717</latitude>
+        <longlatitude>131.209728</longlatitude>
+        <address>山口県宇部市大字船木字用作3642番地1</address>
+        <area>船木茶屋、船木大野、船木原、船木伏付下田、船木銭ケ原、船木逢坂、船木新川、船木小野、船木奥畑、船木新郷、船木上沖、船木沖田、船木堂城ケ丘、船木特養楠園、船木援護寮ハイツ船木、船木扶老会病院</area>
+        <homepage>http://www.city.ube.yamaguchi.jp/kurashi/senkyo/touhyoujoichiran/ichiran/funaki2.html</homepage>
+    </ube_poling_space>
+</dataroot>

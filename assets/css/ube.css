@@ -1,0 +1,36 @@
+/* 左寄せ */
+.LeftStyle {
+	text-align: left;
+}
+/* 中央寄せ */
+.CenterStyle {
+	text-align: center;
+}
+/* 右寄せ */
+.RightStyle {
+	text-align: right;
+}
+/* テキストを省略せずに表示する */
+.ui-header .ui-title, /* ヘッダー */
+.ui-footer .ui-title, /* フッター */
+.ui-li-heading, /* リスト見出し */
+.ui-btn-inner, /* ボタン */
+.ui-li-desc, /* リスト詳細 */
+.ui-li .ui-btn-text a.ui-link-inherit /* リンクリスト */ {
+	overflow: visible;
+	white-space: normal;
+}
+.ui-header .ui-title {
+	margin:0 10%;
+}
+
+table {
+	border-collapse: collapse;
+}
+table.infoWindow th, table.infoWindow td {
+	border: 1px #000000 solid;
+}
+
+th {
+	white-space: nowrap;
+}

@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+	<ube_opendata_list id="1">
+		<label>公共施設</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_civic_facility.xml</fileAddress>
+		<itemkey>ube_civic_facility</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="2">
+		<label>教育施設</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_educational_facility.xml</fileAddress>
+		<itemkey>ube_educational_facility</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="3">
+		<label>AED設置施設</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_aed.xml</fileAddress>
+		<itemkey>ube_aed</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="4">
+		<label>投票所</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_poling_space.xml</fileAddress>
+		<itemkey>ube_poling_space</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="5">
+		<label>彫刻</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_sculpture.xml</fileAddress>
+		<itemkey>ube_sculpture</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="6">
+		<label>文化財</label>
+		<fileAddress>http://opendata.city.ube.yamaguchi.jp/data/ube_cultural_property.xml</fileAddress>
+		<itemkey>ube_cultural_property</itemkey>
+	</ube_opendata_list>
+</dataroot>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://opendata.city.ube.yamaguchi.jp/data/ube_educational_facility.xsd">
+    <ube_educational_facility id="1">
+        <label>宇部市立東岐波小学校</label><!--教育施設名-->
+        <category >小学校</category ><!--種別-->
+        <latitude>33.980416</latitude><!--緯度-->
+        <longlatitude>131.339066</longlatitude><!--経度-->
+        <postalCode>755-0241</postalCode><!--郵便番号-->
+        <address>山口県宇部市大字東岐波字立山3853番地</address><!--住所-->
+        <phone>0836-58-2018</phone><!--電話番号-->
+        <homepage>http://www.ube-ygc.ed.jp/hke/</homepage><!--ホームページ-->
+    </ube_educational_facility>
+    <ube_educational_facility id="2">
+        <label>宇部市立西岐波小学校</label>
+        <category >小学校</category >
+        <latitude>33.956724</latitude>
+        <longlatitude>131.311466</longlatitude>
+        <postalCode>755-0153</postalCode>
+        <address>山口県宇部市床波三丁目4番10号</address>
+        <phone>0836-51-9247</phone>
+        <fax>0836-51-9288</fax><!--ファックス-->
+        <homepage>http://www3.ube-ygc.ed.jp/nke/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="3">
+        <label>宇部市立恩田小学校</label>
+        <category >小学校</category >
+        <latitude>33.942024</latitude>
+        <longlatitude>131.262665</longlatitude>
+        <postalCode>755-0015</postalCode>
+        <address>山口県宇部市笹山町一丁目4番1号</address>
+        <phone>0836-21-7291</phone>
+        <fax>0836-21-7292</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/ode/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="4">
+        <label>宇部市立上宇部小学校</label>
+        <category >小学校</category >
+        <latitude>33.966736</latitude>
+        <longlatitude>131.269015</longlatitude>
+        <postalCode>755-0076</postalCode>
+        <address>山口県宇部市大小路三丁目2番17号</address>
+        <phone>0836-21-3159</phone>
+        <fax>0836-21-3364</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kue/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="5">
+        <label>宇部市立岬小学校</label>
+        <category >小学校</category >
+        <latitude>33.934993</latitude>
+        <longlatitude>131.259705</longlatitude>
+        <postalCode>755-0026</postalCode>
+        <address>山口県宇部市松山町五丁目8番10号</address>
+        <phone>0836-31-1260</phone>
+        <fax>0836-31-1261</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/mke/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="6">
+        <label>宇部市立見初小学校</label>
+        <category >小学校</category >
+        <latitude>33.943527</latitude>
+        <longlatitude>131.255565</longlatitude>
+        <postalCode>755-0026</postalCode>
+        <address>山口県宇部市松山町二丁目4番42号</address>
+        <phone>0836-31-2430</phone>
+        <fax>0836-31-2436</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/mme/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="7">
+        <label>宇部市立琴芝小学校</label>
+        <category >小学校</category >
+        <latitude>33.954109</latitude>
+        <longlatitude>131.256175</longlatitude>
+        <postalCode>755-0034</postalCode>
+        <address>山口県宇部市東琴芝二丁目3番48号</address>
+        <phone>0836-21-9145</phone>
+        <fax>0836-21-1308</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kse/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="8">
+        <label>宇部市立神原小学校</label>
+        <category >小学校</category >
+        <latitude>33.95188</latitude>
+        <longlatitude>131.256111</longlatitude>
+        <postalCode>755-0022</postalCode>
+        <address>山口県宇部市神原町一丁目1番1号</address>
+        <phone>0836-31-0175</phone>
+        <fax>0836-31-3095</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/khe/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="9">
+        <label>宇部市立新川小学校</label>
+        <category >小学校</category >
+        <latitude>33.963249</latitude>
+        <longlatitude>131.247903</longlatitude>
+        <postalCode>755-0049</postalCode>
+        <address>山口県宇部市西小串一丁目4番25号</address>
+        <phone>0836-31-1600</phone>
+        <fax>0836-31-1601</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/ske/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="10">
+        <label>宇部市立鵜ノ島小学校</label>
+        <category >小学校</category >
+        <latitude>33.963752</latitude>
+        <longlatitude>131.239526</longlatitude>
+        <postalCode>755-0066</postalCode>
+        <address>山口県宇部市小松原町二丁目10番25号</address>
+        <phone>0836-31-0808</phone>
+        <fax>0836-31-0887</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/use/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="11">
+        <label>宇部市立藤山小学校</label>
+        <category >小学校</category >
+        <latitude>33.974878</latitude>
+        <longlatitude>131.232072</longlatitude>
+        <postalCode>755-0801</postalCode>
+        <address>山口県宇部市上条四丁目4番1号</address>
+        <phone>0836-21-9158</phone>
+        <fax>0836-32-6407</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/fye/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="12">
+        <label>宇部市立厚南小学校</label>
+        <category >小学校</category >
+        <latitude>33.994683</latitude>
+        <longlatitude>131.207697</longlatitude>
+        <postalCode>759-0206</postalCode>
+        <address>山口県宇部市大字東須恵字下岡の上234番地</address>
+        <phone>0836-41-8019</phone>
+        <fax>0836-41-8051</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kne/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="13">
+        <label>宇部市立原小学校</label>
+        <category >小学校</category >
+        <latitude>33.966069</latitude>
+        <longlatitude>131.203452</longlatitude>
+        <postalCode>759-0206</postalCode>
+        <address>山口県宇部市大字東須恵字沖赤松4267番地</address>
+        <phone>0836-41-8240</phone>
+        <homepage>http://www.ube-ygc.ed.jp/hre/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="14">
+        <label>宇部市立厚東小学校</label>
+        <category >小学校</category >
+        <latitude>34.026748</latitude>
+        <longlatitude>131.248991</longlatitude>
+        <postalCode>759-0121</postalCode>
+        <address>山口県宇部市大字棚井字旦山7番地1</address>
+        <phone>0836-62-0008</phone>
+        <fax>0836-62-0572</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kte/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="15">
+        <label>宇部市立二俣瀬小学校</label>
+        <category >小学校</category >
+        <latitude>34.057791</latitude>
+        <longlatitude>131.292421</longlatitude>
+        <postalCode>759-0133</postalCode>
+        <address>山口県宇部市大字車地字市原36番地</address>
+        <phone>0836-62-0035</phone>
+        <fax>0836-62-0483</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/fse/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="16">
+        <label>宇部市立小野小学校</label>
+        <category >小学校</category >
+        <latitude>34.115626</latitude>
+        <longlatitude>131.320195</longlatitude>
+        <postalCode>754-1311</postalCode>
+        <address>山口県宇部市大字小野字宮脇8317番地2</address>
+        <phone>0836-64-2008</phone>
+        <fax>0836-64-2095</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/one/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="17">
+        <label>宇部市立常盤小学校</label>
+        <category >小学校</category >
+        <latitude>33.947739</latitude>
+        <longlatitude>131.293897</longlatitude>
+        <postalCode>755-0151</postalCode>
+        <address>山口県宇部市大字西岐波字論瀬1337番地12</address>
+        <phone>0836-51-4775</phone>
+        <fax>0836-51-4758</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/twe/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="18">
+        <label>宇部市立小羽山小学校</label>
+        <category >小学校</category >
+        <latitude>33.978499</latitude>
+        <longlatitude>131.263103</longlatitude>
+        <postalCode>755-0082</postalCode>
+        <address>山口県宇部市東小羽山町一丁目4番13号</address>
+        <phone>0836-32-1800</phone>
+        <fax>0836-32-5105</fax>
+        <homepage>http://www.ube-ygc.ed.jp/oye/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="19">
+        <label>宇部市立西宇部小学校</label>
+        <category >小学校</category >
+        <latitude>34.009452</latitude>
+        <longlatitude>131.231107</longlatitude>
+        <postalCode>759-0207</postalCode>
+        <address>山口県宇部市大字際波字北迫527番地1</address>
+        <phone>0836-41-0100</phone>
+        <fax>0836-41-0106</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/nue/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="20">
+        <label>宇部市立川上小学校</label>
+        <category >小学校</category >
+        <latitude>33.977134</latitude>
+        <longlatitude>131.282151</longlatitude>
+        <postalCode>755-0084</postalCode>
+        <address>山口県宇部市大字川上字上荒野86番地</address>
+        <phone>0836-33-6610</phone>
+        <fax>0836-31-6383</fax>
+        <homepage>http://www.ube-ygc.ed.jp/kke/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="21">
+        <label>宇部市立黒石小学校</label>
+        <category >小学校</category >
+        <latitude>33.984734</latitude>
+        <longlatitude>131.209025</longlatitude>
+        <postalCode>759-0204</postalCode>
+        <address>山口県宇部市大字妻崎開作字崎67のろ428番地</address>
+        <phone>0836-44-2477</phone>
+        <fax>0836-44-2633</fax>
+        <homepage>http://www.ube-ygc.ed.jp/kie/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="22">
+        <label>宇部市立吉部小学校</label>
+        <category >小学校</category >
+        <latitude>34.123706</latitude>
+        <longlatitude>131.281198</longlatitude>
+        <postalCode>757-0401</postalCode>
+        <address>山口県宇部市大字東吉部字埴生3425番地1</address>
+        <phone>0836-68-0101</phone>
+        <fax>0836-68-0104</fax>
+        <homepage>http://www.ube-ygc.ed.jp/kbe/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="23">
+        <label>宇部市立万倉小学校</label>
+        <category >小学校</category >
+        <latitude>34.072349</latitude>
+        <longlatitude>131.240414</longlatitude>
+        <postalCode>757-0214</postalCode>
+        <address>山口県宇部市大字西万倉字宮ノ後1761番地1</address>
+        <phone>0836-67-0206</phone>
+        <fax>0836-67-0946</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/mge/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="24">
+        <label>宇部市立船木小学校</label>
+        <category >小学校</category >
+        <latitude>34.046708</latitude>
+        <longlatitude>131.216591</longlatitude>
+        <postalCode>757-0216</postalCode>
+        <address>山口県宇部市大字船木字岡西4483番地</address>
+        <phone>0836-67-0017</phone>
+        <fax>0836-67-0251</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/fke/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="25">
+        <label>宇部市立東岐波中学校</label>
+        <category >中学校</category >
+        <latitude>33.978751</latitude>
+        <longlatitude>131.337465</longlatitude>
+        <postalCode>755-0241</postalCode>
+        <address>山口県宇部市大字東岐波字向山3828番地</address>
+        <phone>0836-58-2027</phone>
+        <homepage>http://www.ube-ygc.ed.jp/hkj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="26">
+        <label>宇部市立西岐波中学校</label>
+        <category >中学校</category >
+        <latitude>33.958356</latitude>
+        <longlatitude>131.314306</longlatitude>
+        <postalCode>755-0153</postalCode>
+        <address>山口県宇部市床波四丁目1番40号</address>
+        <phone>0836-51-9052</phone>
+        <fax>0836-51-6367</fax>
+        <homepage>http://www.ube-ygc.ed.jp/nkj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="27">
+        <label>宇部市立常盤中学校</label>
+        <category >中学校</category >
+        <latitude>33.952038</latitude>
+        <longlatitude>131.27341</longlatitude>
+        <postalCode>755-0092</postalCode>
+        <address>山口県宇部市上野中町3番40号</address>
+        <phone>0836-31-1313</phone>
+        <fax>0836-31-1307</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/twj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="28">
+        <label>宇部市立上宇部中学校</label>
+        <category >中学校</category >
+        <latitude>33.960474</latitude>
+        <longlatitude>131.265707</longlatitude>
+        <postalCode>755-0085</postalCode>
+        <address>山口県宇部市沼二丁目4番8号</address>
+        <phone>0836-31-1369</phone>
+        <fax>0836-31-1352</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kuj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="29">
+        <label>宇部市立神原中学校</label>
+        <category >中学校</category >
+        <latitude>33.949854</latitude>
+        <longlatitude>131.263199</longlatitude>
+        <postalCode>755-0039</postalCode>
+        <address>山口県宇部市東梶返四丁目8番1号</address>
+        <phone>0836-31-1784</phone>
+        <fax>0836-31-4542</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/khj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="30">
+        <label>宇部市立桃山中学校</label>
+        <category >中学校</category >
+        <latitude>33.971803</latitude>
+        <longlatitude>131.25026</longlatitude>
+        <postalCode>755-0067</postalCode>
+        <address>山口県宇部市大字小串字蛭子田671番地</address>
+        <phone>0836-21-9141</phone>
+    </ube_educational_facility>
+    <ube_educational_facility id="31">
+        <label>宇部市立藤山中学校</label>
+        <category >中学校</category >
+        <latitude>33.973973</latitude>
+        <longlatitude>131.229279</longlatitude>
+        <postalCode>755-0056</postalCode>
+        <address>山口県宇部市文京町10番50号</address>
+        <phone>0836-31-0075</phone>
+    </ube_educational_facility>
+    <ube_educational_facility id="32">
+        <label>宇部市立厚南中学校</label>
+        <category >中学校</category >
+        <latitude>33.995626</latitude>
+        <longlatitude>131.209606</longlatitude>
+        <postalCode>759-0206</postalCode>
+        <address>山口県宇部市大字東須恵字上岡の上222番地</address>
+        <phone>0836-41-8041</phone>
+        <fax>0836-41-8804</fax>
+        <homepage>http://www.ube-ygc.ed.jp/knj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="33">
+        <label>宇部市立厚東中学校</label>
+        <category >中学校</category >
+        <latitude>34.041545</latitude>
+        <longlatitude>131.264781</longlatitude>
+        <postalCode>759-0122</postalCode>
+        <address>山口県宇部市大字吉見字藪台1184番地</address>
+        <phone>0836-62-0036</phone>
+        <fax>0836-62-0739</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/ktj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="34">
+        <label>宇部市立小野中学校</label>
+        <category >中学校</category >
+        <latitude>34.115138</latitude>
+        <longlatitude>131.320607</longlatitude>
+        <postalCode>754-1311</postalCode>
+        <address>山口県宇部市大字小野字宮脇8345番地2</address>
+        <phone>0836-64-2314</phone>
+    </ube_educational_facility>
+    <ube_educational_facility id="35">
+        <label>宇部市立川上中学校</label>
+        <category >中学校</category >
+        <latitude>33.977099</latitude>
+        <longlatitude>131.284605</longlatitude>
+        <postalCode>755-0151</postalCode>
+        <address>山口県宇部市大字西岐波字萩原6531番地</address>
+        <phone>0836-51-6575</phone>
+        <fax>0836-51-6574</fax>
+        <homepage>http://www3.ube-ygc.ed.jp/kkj/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="36">
+        <label>宇部市立黒石中学校</label>
+        <category >中学校</category >
+        <latitude>33.985633</latitude>
+        <longlatitude>131.196874</longlatitude>
+        <postalCode>759-0206</postalCode>
+        <address>山口県宇部市大字東須恵字見妙田476番地2</address>
+        <phone>0836-44-1690</phone>
+    </ube_educational_facility>
+    <ube_educational_facility id="37">
+        <label>宇部市立楠中学校</label>
+        <category >中学校</category >
+        <latitude>34.045883</latitude>
+        <longlatitude>131.215681</longlatitude>
+        <postalCode>757-0216</postalCode>
+        <address>山口県宇部市大字船木字岡西4481番地</address>
+        <phone>0836-67-0072</phone>
+    </ube_educational_facility>
+    <ube_educational_facility id="38">
+        <label>宇部フロンティア大学付属中学校</label>
+        <category >中学校</category >
+        <latitude>33.973648</latitude>
+        <longlatitude>131.232258</longlatitude>
+        <postalCode>755-0056</postalCode>
+        <address>山口県宇部市文京町1番25号</address>
+        <phone>0836-35-9574</phone>
+        <fax>0836-33-017</fax>
+        <homepage>http://www.jhs.ube-c.ac.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="39">
+        <label>慶進中学校</label>
+        <category >中学校</category >
+        <latitude>33.955761</latitude>
+        <longlatitude>131.251929</longlatitude>
+        <postalCode>755-0035</postalCode>
+        <address>山口県宇部市西琴芝二丁目12番18号</address>
+        <phone>0836-34-1111</phone>
+        <fax>0836-21-7228</fax>
+        <homepage>http://www.keishin-ug.ed.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="40">
+        <label>山口県立宇部高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.962329</latitude>
+        <longlatitude>131.269714</longlatitude>
+        <postalCode>755-0078</postalCode>
+        <address>山口県宇部市寺の前町3番1号</address>
+        <phone>0836-31-1055</phone>
+        <fax>0836-31-2350</fax>
+        <homepage>http://www.ube-h.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="41">
+        <label>山口県立宇部中央高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.951289</latitude>
+        <longlatitude>131.261696</longlatitude>
+        <postalCode>755-0039</postalCode>
+        <address>山口県宇部市東梶返四丁目10番30号</address>
+        <phone>0836-21-7266</phone>
+        <fax>0836-21-7268</fax>
+        <homepage>http://www.ubechuo-h.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="42">
+        <label>山口県立宇部西高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.991498</latitude>
+        <longlatitude>131.235854</longlatitude>
+        <postalCode>759-0202</postalCode>
+        <address>山口県宇部市大字沖ノ旦</address>
+        <phone>0836-31-1035</phone>
+        <fax>0836-31-5115</fax>
+        <homepage>http://www.ubenishi-h.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="43">
+        <label>山口県立宇部商業高等学校</label>
+        <category >高等学校</category >
+        <latitude>34.008457</latitude>
+        <longlatitude>131.220087</longlatitude>
+        <postalCode>759-0207</postalCode>
+        <address>山口県宇部市大字際波字岡の原220番地</address>
+        <phone>0836-41-8233</phone>
+        <fax>0836-44-2455</fax>
+        <homepage>http://www.ube-c.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="44">
+        <label>山口県立宇部工業高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.960894</latitude>
+        <longlatitude>131.254697</longlatitude>
+        <postalCode>755-0036</postalCode>
+        <address>山口県宇部市北琴芝一丁目1番1号</address>
+        <phone>0836-31-0258</phone>
+        <fax>0836-31-0259</fax>
+        <homepage>http://www.ube-t.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="45">
+        <label>宇部鴻城高等学校</label>
+        <category >高等学校</category >
+        <latitude>34.002486</latitude>
+        <longlatitude>131.209902</longlatitude>
+        <postalCode>759-0207</postalCode>
+        <address>山口県宇部市大字際波字的場370</address>
+        <phone>0836-41-8109</phone>
+        <homepage>http://www.ubekojo-h.ed.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="46">
+        <label>宇部フロンティア大学付属香川高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.972672</latitude>
+        <longlatitude>131.232641</longlatitude>
+        <postalCode>755-0056</postalCode>
+        <address>山口県宇部市文京町1番25号</address>
+        <phone>0836-35-9574</phone>
+        <fax>0836-33-7017</fax>
+        <homepage>http://www.kagawa-h.ed.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="47">
+        <label>慶進高等学校</label>
+        <category >高等学校</category >
+        <latitude>33.955936</latitude>
+        <longlatitude>131.251977</longlatitude>
+        <postalCode>755-0035</postalCode>
+        <address>山口県宇部市西琴芝二丁目12番18号</address>
+        <phone>0836-34-1111</phone>
+        <fax>0836-21-7228</fax>
+        <homepage>http://www.keishin-ug.ed.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="48">
+        <label>山口県鴻城高等学校 衛生看護専攻科</label>
+        <category >高等学校</category >
+        <latitude>34.001082</latitude>
+        <longlatitude>131.210045</longlatitude>
+        <postalCode>759-0209</postalCode>
+        <address>山口県宇部市厚南北三丁目2番12号</address>
+        <phone>0836-44-6339</phone>
+        <fax>0836-45-1713</fax>
+        <homepage>http://www.k-senkou.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="49">
+        <label>宇部工業高等専門学校</label>
+        <category >高等専門学校</category >
+        <latitude>33.954903</latitude>
+        <longlatitude>131.274289</longlatitude>
+        <postalCode>755-0097</postalCode>
+        <address>山口県宇部市常盤台二丁目14番1号</address>
+        <phone>0836-31-6111</phone>
+        <homepage>http://www.ube-k.ac.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="50">
+        <label>山口県立宇部総合支援学校</label>
+        <category >特別支援学校</category >
+        <latitude>33.98988</latitude>
+        <longlatitude>131.21051</longlatitude>
+        <postalCode>759-0206</postalCode>
+        <address>山口県宇部市大字東須恵吉信813番地</address>
+        <phone>0836-41-4036</phone>
+        <fax>0836-41-8369</fax>
+        <homepage>http://www.ube-s.ysn21.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="51">
+        <label>宇部フロンティア大学短期大学部</label>
+        <category >短期大学</category >
+        <latitude>33.97331</latitude>
+        <longlatitude>131.231145</longlatitude>
+        <postalCode>755-0056</postalCode>
+        <address>山口県宇部市文京町5番40号</address>
+        <phone>0836-35-9511</phone>
+        <fax>0836-33-6075</fax>
+        <homepage>http://www.ube-c.ac.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="52">
+        <label>宇部フロンティア大学</label>
+        <category >大学</category >
+        <latitude>33.980685</latitude>
+        <longlatitude>131.234237</longlatitude>
+        <postalCode>755-0805</postalCode>
+        <address>山口県宇部市文京台二丁目1番1号</address>
+        <phone>0836-38-0500</phone>
+        <fax>0836-38-0600</fax>
+        <homepage>http://www.frontier-u.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="53">
+        <label>山口大学医学部</label>
+        <category >大学</category >
+        <latitude>33.959152</latitude>
+        <longlatitude>131.248897</longlatitude>
+        <postalCode>755-0046</postalCode>
+        <address>山口県宇部市南小串一丁目1番1号</address>
+        <phone>0836-22-2111</phone>
+        <fax>0836-22-2113</fax>
+        <homepage>http://www.med.yamaguchi-u.ac.jp/</homepage>
+    </ube_educational_facility>
+    <ube_educational_facility id="54">
+        <label>山口大学工学部</label>
+        <category >大学</category >
+        <latitude>33.956524</latitude>
+        <longlatitude>131.272094</longlatitude>
+        <postalCode>755-0097</postalCode>
+        <address>山口県宇部市常盤台二丁目16番1号</address>
+        <phone>0836-85-9005</phone>
+        <homepage>http://www.eng.yamaguchi-u.ac.jp/</homepage>
+    </ube_educational_facility>
+</dataroot>

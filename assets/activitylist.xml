@@ -1,0 +1,30 @@
+<dataroot>
+	<ube_opendata_list id="1">
+		<label>公共施設</label>
+		<itemkey>ube_civic_facility</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="2">
+		<label>教育施設</label>
+		<itemkey>ube_educational_facility</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="3">
+		<label>AED設置施設</label>
+		<itemkey>ube_aed</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="4">
+		<label>投票所</label>
+		<itemkey>ube_poling_space</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="5">
+		<label>彫刻</label>
+		<itemkey>ube_sculpture</itemkey>
+	</ube_opendata_list>
+	<ube_opendata_list id="6">
+		<label>文化財</label>
+		<itemkey>ube_cultural_property</itemkey>
+		<item>
+			<id>0</id>
+			<value>0</value>
+		</item>
+	</ube_opendata_list>
+</dataroot>

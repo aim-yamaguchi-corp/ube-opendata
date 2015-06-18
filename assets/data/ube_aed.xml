@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://opendata.city.ube.yamaguchi.jp/data/ube_aed.xsd">
+    <ube_aed id="1">
+        <label>宇部市役所</label><!--AED設置施設名-->
+        <latitude>33.951623</latitude><!--緯度-->
+        <longlatitude>131.246761</longlatitude><!--経度-->
+        <address>山口県宇部市常盤町1-7-1</address><!--住所-->
+        <aedNumber>1</aedNumber><!--AED設置数-->
+        <aedPlace>市民ロビー（本庁舎1階）</aedPlace><!--AED設置場所-->
+        <phone>0836-31-4111</phone><!--電話番号-->
+        <startTime>08:30:00</startTime><!--開館時刻-->
+        <endTime>17:15:00</endTime><!--閉館時刻-->
+        <timeNotes>－</timeNotes><!--利用時間注意-->
+        <weekClosureday>土 日 祝</weekClosureday><!--休日（曜日）-->
+        <closureday>1229-0103</closureday><!--休日-->
+        <closuredayNotes>－</closuredayNotes><!--休日注意-->
+    </ube_aed>
+    <ube_aed id="2">
+        <label>宇部市交通局</label>
+        <latitude>33.995697</latitude>
+        <longlatitude>131.288701</longlatitude>
+        <address>山口県宇部市大字善和203-90</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所棟事務室</aedPlace>
+        <phone>0836-31-1133</phone>
+    </ube_aed>
+    <ube_aed id="3">
+        <label>宇部市上下水道局</label>
+        <latitude>33.951209</latitude>
+        <longlatitude>131.255124</longlatitude>
+        <address>山口県宇部市神原町1-8-3</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階エントランス</aedPlace>
+        <phone>0836-21-2171</phone>
+    </ube_aed>
+    <ube_aed id="4">
+        <label>山口県宇部総合庁舎</label>
+        <latitude>33.955625</latitude>
+        <longlatitude>131.250446</longlatitude>
+        <address>山口県宇部市琴芝町1-1-50</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>県民局相談室(1階)</aedPlace>
+        <phone>0836-21-2111</phone>
+    </ube_aed>
+    <ube_aed id="5">
+        <label>山口県宇部健康福祉センター</label>
+        <latitude>33.949542</latitude>
+        <longlatitude>131.250188</longlatitude>
+        <address>山口県宇部市常盤町2-3-28</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>施設1階事務室</aedPlace>
+        <phone>0836-31-3200</phone>
+    </ube_aed>
+    <ube_aed id="6">
+        <label>宇部市上下水道局広瀬浄水場</label>
+        <latitude>34.007881</latitude>
+        <longlatitude>131.241846</longlatitude>
+        <address>山口県宇部市大字広瀬184</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階エントランス</aedPlace>
+        <phone>0836-41-6004</phone>
+    </ube_aed>
+    <ube_aed id="7">
+        <label>宇部市保健センター</label>
+        <latitude>33.953764</latitude>
+        <longlatitude>131.253752</longlatitude>
+        <address>山口県宇部市琴芝町2-1-10</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階健診ホール</aedPlace>
+        <phone>0836-31-1777</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>－</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="8">
+        <label>山口合同ガス(株) 宇部支店</label>
+        <latitude>33.944354</latitude>
+        <longlatitude>131.246317</longlatitude>
+        <address>山口県宇部市港町1-14-35</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階受付</aedPlace>
+        <phone>0836-31-0141</phone>
+    </ube_aed>
+    <ube_aed id="9">
+        <label>楠保健センター</label>
+        <latitude>34.045715</latitude>
+        <longlatitude>131.226418</longlatitude>
+        <address>山口県宇部市大字船木442-11</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階受付</aedPlace>
+        <phone>0836-67-1273</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>－</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="10">
+        <label>山口県産業技術センター</label>
+        <latitude>33.983454</latitude>
+        <longlatitude>131.29841</longlatitude>
+        <address>山口県宇部市あすとぴあ4-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>共用棟1階</aedPlace>
+        <phone>0836-53-5061</phone>
+    </ube_aed>
+    <ube_aed id="11">
+        <label>シルバーふれあいセンター</label>
+        <latitude>33.953181</latitude>
+        <longlatitude>131.252708</longlatitude>
+        <address>山口県宇部市琴芝町2-4-25</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階窓口</aedPlace>
+        <phone>0836-38-7000</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>第3水</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="12">
+        <label>宇部市総合福祉会館</label>
+        <latitude>33.953069</latitude>
+        <longlatitude>131.253237</longlatitude>
+        <address>山口県宇部市琴芝町2-4-20</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務所(社会福祉協議会内)</aedPlace>
+        <phone>0836-33-3156</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>第3水</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="13">
+        <label>宇部市役所 東岐波市民センター</label>
+        <latitude>33.980977</latitude>
+        <longlatitude>131.339523</longlatitude>
+        <address>山口県宇部市大字東岐波3829</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>宿直室（1階）</aedPlace>
+        <phone>0836-58-2311</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="14">
+        <label>宇部市役所 西岐波市民センター</label>
+        <latitude>33.954579</latitude>
+        <longlatitude>131.312134</longlatitude>
+        <address>山口県宇部市床波6-5-22</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階カウンター</aedPlace>
+        <phone>0836-51-9001</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="15">
+        <label>宇部市役所 原ふれあいセンター</label>
+        <latitude>33.971478</latitude>
+        <longlatitude>131.202358</longlatitude>
+        <address>山口県宇部市大字妻崎開作1990</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務所(社会福祉協議会内）</aedPlace>
+        <phone>0836-43-1050</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="16">
+        <label>宇部市役所 厚東市民センター</label>
+        <latitude>34.024279</latitude>
+        <longlatitude>131.249017</longlatitude>
+        <address>山口県宇部市大字棚井68-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務室</aedPlace>
+        <phone>0836-62-0001</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="17">
+        <label>宇部市役所 船木ふれあいセンター</label>
+        <latitude>34.045174</latitude>
+        <longlatitude>131.224968</longlatitude>
+        <address>山口県宇部市大字船木179-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所内</aedPlace>
+        <phone>0836-67-1183</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="18">
+        <label>楠総合センター</label>
+        <latitude>34.045715</latitude>
+        <longlatitude>131.226418</longlatitude>
+        <address>山口県宇部市大字船木442-11</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務所</aedPlace>
+        <phone>0836-67-1200</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>第3火</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="19">
+        <label>宇部市役所 常盤ふれあいセンター</label>
+        <latitude>33.944552</latitude>
+        <longlatitude>131.288447</longlatitude>
+        <address>山口県宇部市亀浦1-1-50</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-22-1455</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="20">
+        <label>宇部市役所 川上ふれあいセンター</label>
+        <latitude>33.976454</latitude>
+        <longlatitude>131.27928</longlatitude>
+        <address>山口県宇部市大字川上81-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-35-1150</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="21">
+        <label>宇部市役所 小羽山ふれあいセンター</label>
+        <latitude>33.97852</latitude>
+        <longlatitude>131.259501</longlatitude>
+        <address>山口県宇部市北小羽山町2-6-50</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-3677</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="22">
+        <label>宇部市役所 二俣瀬ふれあいセンター</label>
+        <latitude>34.056559</latitude>
+        <longlatitude>131.29178</longlatitude>
+        <address>山口県宇部市大字車地173</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-62-0068</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="23">
+        <label>宇部市役所 小野ふれあいセンター</label>
+        <latitude>34.11658</latitude>
+        <longlatitude>131.32036</longlatitude>
+        <address>山口県宇部市大字小野8294-4</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-64-2024</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="24">
+        <label>宇部市役所 万倉ふれあいセンター</label>
+        <latitude>34.071213</latitude>
+        <longlatitude>131.242736</longlatitude>
+        <address>山口県宇部市大字西万倉1672</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-67-0201</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="25">
+        <label>宇部市役所 吉部ふれあいセンター</label>
+        <latitude>34.125141</latitude>
+        <longlatitude>131.282468</longlatitude>
+        <address>山口県宇部市大字東吉部3330-7</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-68-0001</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="26">
+        <label>宇部市役所 隣保館厚南会館</label>
+        <latitude>34.00075</latitude>
+        <longlatitude>131.218806</longlatitude>
+        <address>山口県宇部市厚南北1-2-24</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-41-8155</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="27">
+        <label>宇部警察署</label>
+        <latitude>33.949715</latitude>
+        <longlatitude>131.254458</longlatitude>
+        <address>山口県宇部市常藤町3-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>エントランスホール（1階）</aedPlace>
+        <phone>0836-22-0110</phone>
+    </ube_aed>
+    <ube_aed id="28">
+        <label>宇部中央消防署（宇部・山陽小野田消防局）</label>
+        <latitude>33.94254</latitude>
+        <longlatitude>131.249553</longlatitude>
+        <address>山口県宇部市港町2-3-30</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>消防自動車に積載、施設</aedPlace>
+        <phone>0836-21-6111</phone>
+    </ube_aed>
+    <ube_aed id="29">
+        <label>宇部中央消防署東部出張所</label>
+        <latitude>33.968844</latitude>
+        <longlatitude>131.330258</longlatitude>
+        <address>山口県宇部市大字西岐波761-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>消防自動車に積載</aedPlace>
+        <phone>0836-58-5155</phone>
+    </ube_aed>
+    <ube_aed id="30">
+        <label>宇部西消防署</label>
+        <latitude>33.993032</latitude>
+        <longlatitude>131.210187</longlatitude>
+        <address>山口県宇部市厚南中央五丁目6番22号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>消防自動車に積載</aedPlace>
+        <phone>0836-41-9600</phone>
+    </ube_aed>
+    <ube_aed id="31">
+        <label>宇部西消防署北部出張所</label>
+        <latitude>34.062237</latitude>
+        <longlatitude>131.293269</longlatitude>
+        <address>山口県宇部市大字荒瀬11039</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>消防自動車に積載</aedPlace>
+        <phone>0836-62-0119</phone>
+    </ube_aed>
+    <ube_aed id="32">
+        <label>宇部西消防署楠出張所</label>
+        <latitude>34.047657</latitude>
+        <longlatitude>131.227818</longlatitude>
+        <address>山口県宇部市大字船木467-6</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>消防自動車に積載</aedPlace>
+        <phone>0836-67-1260</phone>
+    </ube_aed>
+    <ube_aed id="33">
+        <label>宇部鴻城高等学校附属幼稚園</label>
+        <latitude>34.001585</latitude>
+        <longlatitude>131.209081</longlatitude>
+        <address>山口県宇部市大字際波字的場381</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>玄関ホール</aedPlace>
+        <phone>0836-41-3678</phone>
+    </ube_aed>
+    <ube_aed id="34">
+        <label>原中央幼稚園</label>
+        <latitude>33.971639</latitude>
+        <longlatitude>131.209799</longlatitude>
+        <address>山口県宇部市大字妻崎開作1119-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>玄関</aedPlace>
+        <phone>0836-41-1611</phone>
+    </ube_aed>
+    <ube_aed id="35">
+        <label>明光幼稚園</label>
+        <latitude>33.945507</latitude>
+        <longlatitude>131.295458</longlatitude>
+        <address>山口県宇部市西岐波4428-3</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>エントランスホール（1階入り口）</aedPlace>
+        <phone>0836-51-9223</phone>
+    </ube_aed>
+    <ube_aed id="36">
+        <label>小羽山保育園</label>
+        <latitude>33.975084</latitude>
+        <longlatitude>131.254374</longlatitude>
+        <address>山口県宇部市南小羽山町1-5-6</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-3150</phone>
+    </ube_aed>
+    <ube_aed id="37">
+        <label>宇部市立東岐波小学校</label>
+        <latitude>33.980829</latitude>
+        <longlatitude>131.339037</longlatitude>
+        <address>山口県宇部市大字東岐波3853</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-58-2018</phone>
+    </ube_aed>
+    <ube_aed id="38">
+        <label>宇部市立西岐波小学校</label>
+        <latitude>33.956681</latitude>
+        <longlatitude>131.311709</longlatitude>
+        <address>山口県宇部市床波3-4-10</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-51-9247</phone>
+    </ube_aed>
+    <ube_aed id="39">
+        <label>宇部市立恩田小学校</label>
+        <latitude>33.942185</latitude>
+        <longlatitude>131.262562</longlatitude>
+        <address>山口県宇部市笹山町1-4-10</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-21-7291</phone>
+    </ube_aed>
+    <ube_aed id="40">
+        <label>宇部市立上宇部小学校</label>
+        <latitude>33.966857</latitude>
+        <longlatitude>131.269223</longlatitude>
+        <address>山口県宇部市大小路3-2-17</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-21-3159</phone>
+    </ube_aed>
+    <ube_aed id="41">
+        <label>宇部市立岬小学校</label>
+        <latitude>33.935283</latitude>
+        <longlatitude>131.259758</longlatitude>
+        <address>山口県宇部市松山町5-8-10</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-1260</phone>
+    </ube_aed>
+    <ube_aed id="42">
+        <label>宇部市立見初小学校</label>
+        <latitude>33.942971</latitude>
+        <longlatitude>131.255769</longlatitude>
+        <address>山口県宇部市松山町2-4-42</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-2430</phone>
+    </ube_aed>
+    <ube_aed id="43">
+        <label>宇部市立琴芝小学校</label>
+        <latitude>33.954692</latitude>
+        <longlatitude>131.256638</longlatitude>
+        <address>山口県宇部市東琴芝2-3-48</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-21-9145</phone>
+    </ube_aed>
+    <ube_aed id="44">
+        <label>宇部市立神原小学校</label>
+        <latitude>33.951698</latitude>
+        <longlatitude>131.255955</longlatitude>
+        <address>山口県宇部市神原町1-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-0175</phone>
+    </ube_aed>
+    <ube_aed id="45">
+        <label>宇部市立新川小学校</label>
+        <latitude>33.963188</latitude>
+        <longlatitude>131.248283</longlatitude>
+        <address>山口県宇部市西小串1-4-25</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-1600</phone>
+    </ube_aed>
+    <ube_aed id="46">
+        <label>宇部市立鵜ノ島小学校</label>
+        <latitude>33.963727</latitude>
+        <longlatitude>131.239803</longlatitude>
+        <address>山口県宇部市小松原町2-10-25</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-0808</phone>
+    </ube_aed>
+    <ube_aed id="47">
+        <label>宇部市立藤山小学校</label>
+        <latitude>33.974789</latitude>
+        <longlatitude>131.231547</longlatitude>
+        <address>山口県宇部市上条4-4-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-21-9158</phone>
+    </ube_aed>
+    <ube_aed id="48">
+        <label>宇部市立厚南小学校</label>
+        <latitude>33.99444</latitude>
+        <longlatitude>131.207414</longlatitude>
+        <address>山口県宇部市大字東須恵下岡の上234</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-41-8019</phone>
+    </ube_aed>
+    <ube_aed id="49">
+        <label>宇部市立原小学校</label>
+        <latitude>33.965773</latitude>
+        <longlatitude>131.203016</longlatitude>
+        <address>山口県宇部市大字東須恵4267</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-41-8240</phone>
+    </ube_aed>
+    <ube_aed id="50">
+        <label>宇部市立厚東小学校</label>
+        <latitude>34.026776</latitude>
+        <longlatitude>131.248922</longlatitude>
+        <address>山口県宇部市大字棚井7-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-62-0008</phone>
+    </ube_aed>
+    <ube_aed id="51">
+        <label>宇部市立二俣瀬小学校</label>
+        <latitude>34.058036</latitude>
+        <longlatitude>131.292454</longlatitude>
+        <address>山口県宇部市大字車地36</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-62-0035</phone>
+    </ube_aed>
+    <ube_aed id="52">
+        <label>宇部市立小野小学校</label>
+        <latitude>34.115627</latitude>
+        <longlatitude>131.320454</longlatitude>
+        <address>山口県宇部市大字小野8317-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-64-2008</phone>
+    </ube_aed>
+    <ube_aed id="53">
+        <label>宇部市立常盤小学校</label>
+        <latitude>33.94759</latitude>
+        <longlatitude>131.29365</longlatitude>
+        <address>山口県宇部市大字西岐波1337-12</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-51-4775</phone>
+    </ube_aed>
+    <ube_aed id="54">
+        <label>宇部市立小羽山小学校</label>
+        <latitude>33.979106</latitude>
+        <longlatitude>131.263534</longlatitude>
+        <address>山口県宇部市東小羽山町1-4-13</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-32-1800</phone>
+    </ube_aed>
+    <ube_aed id="55">
+        <label>宇部市立西宇部小学校</label>
+        <latitude>34.0095</latitude>
+        <longlatitude>131.231846</longlatitude>
+        <address>山口県宇部市大字際波527-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-41-0100</phone>
+    </ube_aed>
+    <ube_aed id="56">
+        <label>宇部市立川上小学校</label>
+        <latitude>33.977176</latitude>
+        <longlatitude>131.281564</longlatitude>
+        <address>山口県宇部市大字川上86</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-33-6610</phone>
+    </ube_aed>
+    <ube_aed id="57">
+        <label>宇部市立黒石小学校</label>
+        <latitude>33.984433</latitude>
+        <longlatitude>131.209571</longlatitude>
+        <address>山口県宇部市大字妻崎開作428</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>事務室、事務室</aedPlace>
+        <phone>0836-44-2477</phone>
+    </ube_aed>
+    <ube_aed id="58">
+        <label>宇部市立吉部小学校</label>
+        <latitude>34.124869</latitude>
+        <longlatitude>131.281916</longlatitude>
+        <address>山口県宇部市大字東吉部3425-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-68-0101</phone>
+    </ube_aed>
+    <ube_aed id="59">
+        <label>宇部市立万倉小学校</label>
+        <latitude>34.072493</latitude>
+        <longlatitude>131.239689</longlatitude>
+        <address>山口県宇部市大字西万倉1761-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-67-0206</phone>
+    </ube_aed>
+    <ube_aed id="60">
+        <label>宇部市立船木小学校</label>
+        <latitude>34.046304</latitude>
+        <longlatitude>131.216516</longlatitude>
+        <address>山口県宇部市大字船木4483</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-67-0017</phone>
+    </ube_aed>
+    <ube_aed id="61">
+        <label>宇部市立東岐波中学校</label>
+        <latitude>33.978213</latitude>
+        <longlatitude>131.337401</longlatitude>
+        <address>山口県宇部市大字東岐波3828</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-58-2027</phone>
+    </ube_aed>
+    <ube_aed id="62">
+        <label>宇部市立西岐波中学校</label>
+        <latitude>33.958412</latitude>
+        <longlatitude>131.314159</longlatitude>
+        <address>山口県宇部市床波4-1-40</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-51-9052</phone>
+    </ube_aed>
+    <ube_aed id="63">
+        <label>宇部市立常盤中学校</label>
+        <latitude>33.951567</latitude>
+        <longlatitude>131.272134</longlatitude>
+        <address>山口県宇部市上野中町4-40</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-1313</phone>
+    </ube_aed>
+    <ube_aed id="64">
+        <label>宇部市立上宇部中学校</label>
+        <latitude>33.960821</latitude>
+        <longlatitude>131.265366</longlatitude>
+        <address>山口県宇部市沼2-4-8</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-1369</phone>
+    </ube_aed>
+    <ube_aed id="65">
+        <label>宇部市立神原中学校</label>
+        <latitude>33.949909</latitude>
+        <longlatitude>131.263327</longlatitude>
+        <address>山口県宇部市東梶返4-8-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-1784</phone>
+    </ube_aed>
+    <ube_aed id="66">
+        <label>宇部市立桃山中学校</label>
+        <latitude>33.972187</latitude>
+        <longlatitude>131.250632</longlatitude>
+        <address>山口県宇部市大字小串671</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-21-9141</phone>
+    </ube_aed>
+    <ube_aed id="67">
+        <label>宇部市立藤山中学校</label>
+        <latitude>33.97404</latitude>
+        <longlatitude>131.229181</longlatitude>
+        <address>山口県宇部市文京町10-50</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-31-0075</phone>
+    </ube_aed>
+    <ube_aed id="68">
+        <label>宇部市立厚南中学校</label>
+        <latitude>33.995487</latitude>
+        <longlatitude>131.208901</longlatitude>
+        <address>山口県宇部市大字東須恵222</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-41-8041</phone>
+    </ube_aed>
+    <ube_aed id="69">
+        <label>宇部市立厚東中学校</label>
+        <latitude>34.041856</latitude>
+        <longlatitude>131.264996</longlatitude>
+        <address>山口県宇部市大字吉見1184</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-62-0036</phone>
+    </ube_aed>
+    <ube_aed id="70">
+        <label>宇部市立小野中学校</label>
+        <latitude>34.115271</latitude>
+        <longlatitude>131.321082</longlatitude>
+        <address>山口県宇部市大字小野8345-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-64-2314</phone>
+    </ube_aed>
+    <ube_aed id="71">
+        <label>宇部市立川上中学校</label>
+        <latitude>33.977121</latitude>
+        <longlatitude>131.284983</longlatitude>
+        <address>山口県宇部市大字西岐波6531</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-51-6575</phone>
+    </ube_aed>
+    <ube_aed id="72">
+        <label>宇部市立黒石中学校</label>
+        <latitude>33.985288</latitude>
+        <longlatitude>131.197563</longlatitude>
+        <address>山口県宇部市大字東須恵476-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-44-1690</phone>
+    </ube_aed>
+    <ube_aed id="73">
+        <label>宇部市立楠中学校</label>
+        <latitude>34.045362</latitude>
+        <longlatitude>131.215846</longlatitude>
+        <address>山口県宇部市大字船木4481</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-67-0072</phone>
+    </ube_aed>
+    <ube_aed id="74">
+        <label>慶進中学校</label>
+        <latitude>33.955639</latitude>
+        <longlatitude>131.251727</longlatitude>
+        <address>山口県宇部市西琴芝2-12-18</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>教育相談室（2号館2階）、職員室</aedPlace>
+        <phone>0836-34-1111</phone>
+    </ube_aed>
+    <ube_aed id="75">
+        <label>山口県立宇部高等学校</label>
+        <latitude>33.962541</latitude>
+        <longlatitude>131.268734</longlatitude>
+        <address>山口県宇部市寺の前町3-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>本館棟玄関</aedPlace>
+        <phone>0836-31-1055</phone>
+    </ube_aed>
+    <ube_aed id="76">
+        <label>山口県立宇部中央高等学校</label>
+        <latitude>33.95174</latitude>
+        <longlatitude>131.262074</longlatitude>
+        <address>山口県宇部市東梶返4-10-30</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>玄関（本館棟1階）</aedPlace>
+        <phone>0836-21-7266</phone>
+    </ube_aed>
+    <ube_aed id="77">
+        <label>山口県立宇部西高等学校</label>
+        <latitude>33.991782</latitude>
+        <longlatitude>131.235257</longlatitude>
+        <address>山口県宇部市沖ノ旦</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>玄関、体育教員室</aedPlace>
+        <phone>0836-31-1035</phone>
+    </ube_aed>
+    <ube_aed id="78">
+        <label>山口県立宇部商業高等学校</label>
+        <latitude>34.008483</latitude>
+        <longlatitude>131.220304</longlatitude>
+        <address>山口県宇部市際波220</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>管理棟1階 事務室内</aedPlace>
+        <phone>0836-41-8233</phone>
+    </ube_aed>
+    <ube_aed id="79">
+        <label>山口県立宇部工業高等学校</label>
+        <latitude>33.961241</latitude>
+        <longlatitude>131.255732</longlatitude>
+        <address>山口県宇部市北琴芝1-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>体育館入り口</aedPlace>
+        <phone>0836-31-0258</phone>
+    </ube_aed>
+    <ube_aed id="80">
+        <label>宇部鴻城高等学校</label>
+        <latitude>34.002908</latitude>
+        <longlatitude>131.210305</longlatitude>
+        <address>山口県宇部市大字際波字的場370</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室（本館1階）</aedPlace>
+        <phone>0836-41-8109</phone>
+    </ube_aed>
+    <ube_aed id="81">
+        <label>慶進高等学校</label>
+        <latitude>33.955639</latitude>
+        <longlatitude>131.251727</longlatitude>
+        <address>山口県宇部市西琴芝2-12-18</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>保健室（1階）</aedPlace>
+        <phone>0836-34-1111</phone>
+    </ube_aed>
+    <ube_aed id="82">
+        <label>宇部フロンティア大学付属香川高等学校・付属中学校</label>
+        <latitude>33.973077</latitude>
+        <longlatitude>131.232446</longlatitude>
+        <address>山口県宇部市文京町1-25</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>玄関、4号館1階</aedPlace>
+        <phone>0836-35-9574</phone>
+    </ube_aed>
+    <ube_aed id="83">
+        <label>山口県立宇部総合支援学校</label>
+        <latitude>33.990047</latitude>
+        <longlatitude>131.209817</longlatitude>
+        <address>山口県宇部市東須恵吉信813</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>保健室</aedPlace>
+        <phone>0836-41-4036</phone>
+    </ube_aed>
+    <ube_aed id="84">
+        <label>山口大学医学部</label>
+        <latitude>33.958136</latitude>
+        <longlatitude>131.248602</longlatitude>
+        <address>山口県宇部市南小串1-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>守衛室他</aedPlace>
+        <phone>0836-22-2111</phone>
+    </ube_aed>
+    <ube_aed id="85">
+        <label>山口大学工学部</label>
+        <latitude>33.956417</latitude>
+        <longlatitude>131.272529</longlatitude>
+        <address>山口県宇部市常盤台2-16-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>守衛室他</aedPlace>
+        <phone>0836-85-9005</phone>
+    </ube_aed>
+    <ube_aed id="86">
+        <label>宇部工業高等専門学校</label>
+        <latitude>33.955375</latitude>
+        <longlatitude>131.274867</longlatitude>
+        <address>山口県宇部市常盤台2-14-1</address>
+        <aedNumber>4</aedNumber>
+        <aedPlace>警備員室（管理棟1階）、白鳥寮（管理棟1階）、第1体育館玄関、第2体育館玄関</aedPlace>
+        <phone>0836-31-6111</phone>
+    </ube_aed>
+    <ube_aed id="87">
+        <label>宇部フロンティア大学</label>
+        <latitude>33.980403</latitude>
+        <longlatitude>131.233894</longlatitude>
+        <address>山口県宇部市文京台2-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>A棟1階ホール</aedPlace>
+        <phone>0836-38-0500</phone>
+    </ube_aed>
+    <ube_aed id="88">
+        <label>宇部フロンティア大学短期大学部</label>
+        <latitude>33.972967</latitude>
+        <longlatitude>131.230708</longlatitude>
+        <address>山口県宇部市文京町5-40</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>本館1階（玄関前）</aedPlace>
+        <phone>0836-35-9511</phone>
+    </ube_aed>
+    <ube_aed id="89">
+        <label>専門学校YICリハビリテーション大学校</label>
+        <latitude>34.004019</latitude>
+        <longlatitude>131.218417</longlatitude>
+        <address>山口県宇部市西宇部南4-11-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>エントランスホール</aedPlace>
+        <phone>0836-45-1000</phone>
+    </ube_aed>
+    <ube_aed id="90">
+        <label>山口県宇部自動車学校</label>
+        <latitude>33.957117</latitude>
+        <longlatitude>131.291161</longlatitude>
+        <address>山口県宇部市大字沖宇部1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所</aedPlace>
+        <phone>0836-51-9090</phone>
+    </ube_aed>
+    <ube_aed id="91">
+        <label>西日本自動車学校</label>
+        <latitude>33.976031</latitude>
+        <longlatitude>131.208882</longlatitude>
+        <address>山口県宇部市大字妻崎開作934-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所</aedPlace>
+        <phone>0836-41-6611</phone>
+    </ube_aed>
+    <ube_aed id="92">
+        <label>鴻城自動車学園</label>
+        <latitude>34.001408</latitude>
+        <longlatitude>131.210325</longlatitude>
+        <address>山口県宇部市厚南北三丁目2番12号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-41-8011</phone>
+    </ube_aed>
+    <ube_aed id="93">
+        <label>宇部中央自動車学校</label>
+        <latitude>33.958364</latitude>
+        <longlatitude>131.25393</longlatitude>
+        <address>山口県宇部市西琴芝1-8-31</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>応急救護室</aedPlace>
+        <phone>0836-31-1717</phone>
+    </ube_aed>
+    <ube_aed id="94">
+        <label>山口県立こころの医療センター</label>
+        <latitude>33.975749</latitude>
+        <longlatitude>131.342893</longlatitude>
+        <address>山口県宇部市東岐波4004-2</address>
+        <aedNumber>7</aedNumber>
+        <aedPlace>入院棟4階、外来、入院棟1階、入院棟2階、入院棟3階、入院棟4階、生活訓練棟</aedPlace>
+        <phone>0836-58-2370</phone>
+    </ube_aed>
+    <ube_aed id="95">
+        <label>宇部市休日・夜間救急診療所</label>
+        <latitude>33.953764</latitude>
+        <longlatitude>131.253752</longlatitude>
+        <address>山口県宇部市琴芝町2-1-10</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>受付窓口</aedPlace>
+        <phone>0836-31-1099</phone>
+        <startTime>00:00:00</startTime>
+        <endTime>23:59:59</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>－</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="96">
+        <label>AQUA石井歯科・宇部歯周再生インプラントクリニック</label>
+        <latitude>33.936425</latitude>
+        <longlatitude>131.258336</longlatitude>
+        <address>山口県宇部市松山町4-8-20</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>院内</aedPlace>
+        <phone>0836-37-1717</phone>
+    </ube_aed>
+    <ube_aed id="97">
+        <label>このみ園</label>
+        <latitude>33.988321</latitude>
+        <longlatitude>131.209792</longlatitude>
+        <address>山口県宇部市大字東須恵1079-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>本館事務室</aedPlace>
+        <phone>0836-41-8145</phone>
+    </ube_aed>
+    <ube_aed id="98">
+        <label>サンライフ宇部</label>
+        <latitude>33.951323</latitude>
+        <longlatitude>131.257805</longlatitude>
+        <address>山口県宇部市神原町1-6-20</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務室</aedPlace>
+        <phone>0836-22-0541</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="99">
+        <label>宇部市文化会館</label>
+        <latitude>33.957916</latitude>
+        <longlatitude>131.244361</longlatitude>
+        <address>山口県宇部市朝日町8-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務室</aedPlace>
+        <phone>0836-31-7373</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>第3火</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="100">
+        <label>ときわミュージアム</label>
+        <latitude>33.948562</latitude>
+        <longlatitude>131.281767</longlatitude>
+        <address>山口県宇部市野中3-4-29</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-37-2888</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>17:00:00</endTime>
+        <timeNotes>イベントホール使用時：09:00-22:00</timeNotes>
+        <weekClosureday>火</weekClosureday>
+        <closureday>1229-0101</closureday>
+        <closuredayNotes>火が祝日に当たる場合は開館、キャンペーン中も開館する場合あり</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="101">
+        <label>宇部市立図書館附設資料館</label>
+        <latitude>33.960222</latitude>
+        <longlatitude>131.245497</longlatitude>
+        <address>山口県宇部市島1-4-55</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-29-4725</phone>
+    </ube_aed>
+    <ube_aed id="102">
+        <label>宇部市勤労青少年会館</label>
+        <latitude>33.947948</latitude>
+        <longlatitude>131.252169</longlatitude>
+        <address>山口県宇部市松山町1-12-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-5515</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="103">
+        <label>宇部市立図書館</label>
+        <latitude>33.955828</latitude>
+        <longlatitude>131.249452</longlatitude>
+        <address>山口県宇部市琴芝町1-1-33</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-1966</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>17:00:00</endTime>
+        <timeNotes>火・水・金：09:00-18:00、木：09:00-19:00</timeNotes>
+        <weekClosureday>月 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>特別整理期間、月末（12月は28日）も休み　※月末が土・日にあたるときは開館し、翌月の第1木を振替休館とします。 http://www.city.ube.yamaguchi.jp/kyouyou/toshokan/kaikankyuukan/calendar.html</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="104">
+        <label>宇部市俵田翁記念体育館</label>
+        <latitude>33.946812</latitude>
+        <longlatitude>131.272201</longlatitude>
+        <address>山口県宇部市恩田町4-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階ホール</aedPlace>
+        <phone>0836-31-1506</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="105">
+        <label>ユーピーアールスタジアム</label>
+        <latitude>33.945363</latitude>
+        <longlatitude>131.268512</longlatitude>
+        <address>山口県宇部市恩田町4-1-4</address>
+        <aedNumber>2</aedNumber>
+        <aedPlace>1階入口正面</aedPlace>
+        <phone>0836-29-0089</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="106">
+        <label>宇部市西部体育館</label>
+        <latitude>33.96281</latitude>
+        <longlatitude>131.242297</longlatitude>
+        <address>山口県宇部市島3-9-16</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務室</aedPlace>
+        <phone>0836-21-9246</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="107">
+        <label>宇部市楠若者センター</label>
+        <latitude>34.073406</latitude>
+        <longlatitude>131.239353</longlatitude>
+        <address>山口県宇部市大字西万倉1518-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務室</aedPlace>
+        <phone>0836-67-2150</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="108">
+        <label>宇部マテ“フレッセラ”テニスコート</label>
+        <latitude>33.948961</latitude>
+        <longlatitude>131.25819</longlatitude>
+        <address>山口県宇部市神原町1-6-23</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階ロビー</aedPlace>
+        <phone>0836-32-7759</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="109">
+        <label>パルセンター宇部</label>
+        <latitude>33.973192</latitude>
+        <longlatitude>131.223275</longlatitude>
+        <address>山口県宇部市西平原4-9-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務室</aedPlace>
+        <phone>0836-31-2212</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="110">
+        <label>宇部武道館</label>
+        <latitude>33.962552</latitude>
+        <longlatitude>131.24285</longlatitude>
+        <address>山口県宇部市島3-9-30</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階ホール（管理人室入口）</aedPlace>
+        <phone>0836-35-4080</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="111">
+        <label>ときわ公園多目的広場・サッカー場</label>
+        <latitude>33.961441</latitude>
+        <longlatitude>131.288682</longlatitude>
+        <address>山口県宇部市大字上宇部310</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>管理人室</aedPlace>
+        <phone>0836-22-3360</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="112">
+        <label>恩田運動公園水泳プール</label>
+        <latitude>33.944704</latitude>
+        <longlatitude>131.269301</longlatitude>
+        <address>山口県宇部市恩田町4-1-3</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>監視員室</aedPlace>
+        <phone>0836-32-7770</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>18:00:00</endTime>
+        <timeNotes>13:00-14:00は利用不可</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>0901-0630</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="113">
+        <label>中央公園弓道場</label>
+        <latitude>33.951037</latitude>
+        <longlatitude>131.258308</longlatitude>
+        <address>山口県宇部市神原町1-6-23</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>道場1階</aedPlace>
+        <phone>0836-31-4548</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="114">
+        <label>アクトビレッジおの</label>
+        <latitude>34.103869</latitude>
+        <longlatitude>131.308911</longlatitude>
+        <address>山口県宇部市大字小野7025</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-64-5111</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="115">
+        <label>男女共同参画センター・フォーユー</label>
+        <latitude>33.955158</latitude>
+        <longlatitude>131.251527</longlatitude>
+        <address>山口県宇部市琴芝町1-2-5</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-33-4004</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>日・祝：09:00-17:00</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="116">
+        <label>アイランドゴルフガーデン宇部</label>
+        <latitude>34.125648</latitude>
+        <longlatitude>131.331157</longlatitude>
+        <address>山口県宇部市大字小野1582</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-64-2131</phone>
+    </ube_aed>
+    <ube_aed id="117">
+        <label>SSSスポーツプラザ宇部</label>
+        <latitude>33.931177</latitude>
+        <longlatitude>131.257559</longlatitude>
+        <address>山口県宇部市明神町3-1-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-33-1000</phone>
+    </ube_aed>
+    <ube_aed id="118">
+        <label>SSSフットサルクラブ宇部</label>
+        <latitude>33.934339</latitude>
+        <longlatitude>131.256969</longlatitude>
+        <address>山口県宇部市昭和町4-11-60</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-38-3330</phone>
+    </ube_aed>
+    <ube_aed id="119">
+        <label>はるおかスイミングスクール宇部校</label>
+        <latitude>33.975633</latitude>
+        <longlatitude>131.201661</longlatitude>
+        <address>山口県宇部市大字妻崎開作910-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>1階事務局内</aedPlace>
+        <phone>0836-41-2500</phone>
+    </ube_aed>
+    <ube_aed id="120">
+        <label>防長スイミングサークル</label>
+        <latitude>33.974867</latitude>
+        <longlatitude>131.225853</longlatitude>
+        <address>山口県宇部市西平原2-5-40</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>受付ホール</aedPlace>
+        <phone>0836-22-1133</phone>
+    </ube_aed>
+    <ube_aed id="121">
+        <label>スポーツクラブ ゼオス宇部</label>
+        <latitude>33.98755</latitude>
+        <longlatitude>131.261678</longlatitude>
+        <address>山口県宇部市上宇部471-4</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-35-6789</phone>
+    </ube_aed>
+    <ube_aed id="122">
+        <label>COCOLAND山口・宇部 老人ホーム</label>
+        <latitude>33.966412</latitude>
+        <longlatitude>131.286995</longlatitude>
+        <address>山口県宇部市上宇部75</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所</aedPlace>
+        <phone>0836-33-6116</phone>
+    </ube_aed>
+    <ube_aed id="123">
+        <label>COCOLAND山口・宇部 ホテル</label>
+        <latitude>33.96588</latitude>
+        <longlatitude>131.286508</longlatitude>
+        <address>山口県宇部市上宇部75</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>フロント</aedPlace>
+        <phone>0836-33-6116</phone>
+    </ube_aed>
+    <ube_aed id="124">
+        <label>楠こもれびの郷</label>
+        <latitude>34.069607</latitude>
+        <longlatitude>131.244337</longlatitude>
+        <address>山口県宇部市大字西万倉1662-1</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>温泉玄関</aedPlace>
+        <phone>0836-67-2617</phone>
+        <startTime>10:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <weekClosureday>第3水</weekClosureday>
+        <closureday>－</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="125">
+        <label>山陽自動車道 宇部料金所</label>
+        <latitude>33.990361</latitude>
+        <longlatitude>131.281701</longlatitude>
+        <address>山口県宇部市川上141-2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>事務所窓口</aedPlace>
+        <phone>0836-21-0283</phone>
+    </ube_aed>
+    <ube_aed id="126">
+        <label>山口宇部空港ビル</label>
+        <latitude>33.93305</latitude>
+        <longlatitude>131.274968</longlatitude>
+        <address>山口県宇部市沖宇部625-17</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>国内線ターミナル1階案内所前</aedPlace>
+        <phone>0836-21-5841</phone>
+    </ube_aed>
+    <ube_aed id="127">
+        <label>(株)島田工務店</label>
+        <latitude>33.963044</latitude>
+        <longlatitude>131.240628</longlatitude>
+        <address>山口県宇部市小松原町2-4-18</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-5050</phone>
+    </ube_aed>
+    <ube_aed id="128">
+        <label>(株)NTT西日本 山口支店宇部営業所</label>
+        <latitude>33.968554</latitude>
+        <longlatitude>131.232461</longlatitude>
+        <address>山口県宇部市鍋倉6-14</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>2階事務所</aedPlace>
+        <phone>0836-29-5380</phone>
+    </ube_aed>
+    <ube_aed id="129">
+        <label>福岡銀行宇部支店</label>
+        <latitude>33.949134</latitude>
+        <longlatitude>131.249019</longlatitude>
+        <address>山口県宇部市新天町2-1-6</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>ロビー</aedPlace>
+        <phone>0836-31-5911</phone>
+    </ube_aed>
+    <ube_aed id="130">
+        <label>恩田運動公園陸上競技場</label>
+        <latitude>33.945321</latitude>
+        <longlatitude>131.271272</longlatitude>
+        <address>山口県宇部市恩田町四丁目1番2号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-1507</phone>
+        <startTime>08:00:00</startTime>
+        <endTime>21:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="131">
+        <label>宇部市役所 厚南市民センター</label>
+        <latitude>33.994157</latitude>
+        <longlatitude>131.217852</longlatitude>
+        <address>山口県宇部市厚南中央三丁目1番2号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-41-8320</phone>
+        <startTime>08:30:00</startTime>
+        <endTime>17:15:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>土 日 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="132">
+        <label>宇部市役所 恩田ふれあいセンター</label>
+        <latitude>33.93948</latitude>
+        <longlatitude>131.271748</longlatitude>
+        <address>山口県宇部市草江一丁目6番7号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-0349</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="133">
+        <label>宇部市役所 岬ふれあいセンター</label>
+        <latitude>33.930863</latitude>
+        <longlatitude>131.261227</longlatitude>
+        <address>山口県宇部市明神町一丁目3番16号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-1625</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="134">
+        <label>宇部市役所 見初ふれあいセンター</label>
+        <latitude>33.942699</latitude>
+        <longlatitude>131.2545</longlatitude>
+        <address>山口県宇部市昭和町一丁目3番6号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-0348</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="135">
+        <label>宇部市役所 神原ふれあいセンター</label>
+        <latitude>33.947223</latitude>
+        <longlatitude>131.253783</longlatitude>
+        <address>山口県宇部市松山町一丁目5番16号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-32-6280</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="136">
+        <label>宇部市役所 琴芝ふれあいセンター</label>
+        <latitude>33.952876</latitude>
+        <longlatitude>131.263226</longlatitude>
+        <address>山口県宇部市西梶返二丁目10番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-1534</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="137">
+        <label>宇部市役所 新川ふれあいセンター</label>
+        <latitude>33.958644</latitude>
+        <longlatitude>131.244729</longlatitude>
+        <address>山口県宇部市朝日町8番20号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-2258</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="138">
+        <label>宇部市役所 鵜の島ふれあいセンター</label>
+        <latitude>33.962094</latitude>
+        <longlatitude>131.238058</longlatitude>
+        <address>山口県宇部市鵜の島町7番6号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-1862</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="139">
+        <label>宇部市役所 藤山ふれあいセンター</label>
+        <latitude>33.974798</latitude>
+        <longlatitude>131.227561</longlatitude>
+        <address>山口県宇部市文京町11番13号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-1608</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="140">
+        <label>宇部市役所 西宇部ふれあいセンター</label>
+        <latitude>34.00539</latitude>
+        <longlatitude>131.220316</longlatitude>
+        <address>山口県宇部市西宇部北三丁目9番15号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-44-0878</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="141">
+        <label>宇部市役所 黒石ふれあいセンター</label>
+        <latitude>33.984111</latitude>
+        <longlatitude>131.207674</longlatitude>
+        <address>山口県宇部市大字妻崎開作字崎89ノろ434番地2</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-44-0881</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="142">
+        <label>宇部市役所 隣保館上宇部会館</label>
+        <latitude>33.962919</latitude>
+        <longlatitude>131.262698</longlatitude>
+        <address>山口県宇部市中村二丁目6番15号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-34-2535</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="143">
+        <label>宇部市廃棄物対策課</label>
+        <latitude>33.932638</latitude>
+        <longlatitude>131.242923</longlatitude>
+        <address>山口県宇部市大字沖宇部字沖の山5272番地6</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>車両搭載</aedPlace>
+        <phone>0836-33-7291</phone>
+    </ube_aed>
+    <ube_aed id="144">
+        <label>宇部市火葬場</label>
+        <latitude>33.99766</latitude>
+        <longlatitude>131.280426</longlatitude>
+        <address>山口県宇部市大字川上字上白石1010番地</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-0260</phone>
+    </ube_aed>
+    <ube_aed id="145">
+        <label>宇部市立西岐波保育園</label>
+        <latitude>33.955934</latitude>
+        <longlatitude>131.313567</longlatitude>
+        <address>山口県宇部市床波4丁目11番40号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-51-9214</phone>
+    </ube_aed>
+    <ube_aed id="146">
+        <label>宇部市立神原保育園</label>
+        <latitude>33.952075</latitude>
+        <longlatitude>131.254437</longlatitude>
+        <address>山口県宇部市琴芝町二丁目3番30号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-4311</phone>
+    </ube_aed>
+    <ube_aed id="147">
+        <label>宇部市立新川保育園</label>
+        <latitude>33.957239</latitude>
+        <longlatitude>131.246813</longlatitude>
+        <address>山口県宇部市朝日町6番25号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-21-3271</phone>
+    </ube_aed>
+    <ube_aed id="148">
+        <label>宇部市立原保育園</label>
+        <latitude>33.970982</latitude>
+        <longlatitude>131.202875</longlatitude>
+        <address>山口県宇部市大字妻崎開作1982番地</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-41-8517</phone>
+    </ube_aed>
+    <ube_aed id="149">
+        <label>宇部市立第二乳児保育園</label>
+        <latitude>33.963898</latitude>
+        <longlatitude>131.233501</longlatitude>
+        <address>山口県宇部市南浜町二丁目2番15号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-33-2770</phone>
+    </ube_aed>
+    <ube_aed id="150">
+        <label>ときわ湖水ホール</label>
+        <latitude>33.948037</latitude>
+        <longlatitude>131.287994</longlatitude>
+        <address>山口県宇部市大字沖宇部254番地</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-51-7057</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>17:00以降は施設利用予約がある場合のみ</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0101</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="151">
+        <label>ときわ遊園地</label>
+        <latitude>33.945767</latitude>
+        <longlatitude>131.282359</longlatitude>
+        <address>山口県宇部市則貞三丁目4番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>無料休憩所</aedPlace>
+        <phone>0836-21-3541</phone>
+        <startTime>10:00:00</startTime>
+        <endTime>17:00:00</endTime>
+        <timeNotes>3月16日～10月15日は09:30-18:00</timeNotes>
+        <weekClosureday>火</weekClosureday>
+        <closureday>－</closureday>
+        <closuredayNotes>火曜日が祝日の場合は翌日、ゴールデンウィークと春・夏・冬休みは火曜日も営業、1～3月は平日休園あり</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="152">
+        <label>ときわレストハウス</label>
+        <latitude>33.947087</latitude>
+        <longlatitude>131.283693</longlatitude>
+        <address>山口県宇部市野中三丁目5番17号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-51-7057</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>17:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>－</weekClosureday>
+        <closureday>1229-0101</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="153">
+        <label>石炭記念館</label>
+        <latitude>33.945535</latitude>
+        <longlatitude>131.285387</longlatitude>
+        <address>山口県宇部市則貞三丁目4番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-5281</phone>
+    </ube_aed>
+    <ube_aed id="154">
+        <label>宇部市学校給食センター</label>
+        <latitude>33.965318</latitude>
+        <longlatitude>131.2962</longlatitude>
+        <address>山口県宇部市大字西岐波1173番地242</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-54-4646</phone>
+    </ube_aed>
+    <ube_aed id="155">
+        <label>学びの森くすのき</label>
+        <latitude>34.044943</latitude>
+        <longlatitude>131.223649</longlatitude>
+        <address>山口県宇部市大字船木字内番田361番地6</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-67-1277</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>17:00:00</endTime>
+        <timeNotes>火・水・金：09:00-18:00、木：09:00-19:00</timeNotes>
+        <weekClosureday>月 祝</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>特別整理期間、月末（12月は28日）も休み　※月末が土・日にあたるときは開館し、翌月の第1木を振替休館とします</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="156">
+        <label>ヒストリア宇部</label>
+        <latitude>33.95101</latitude>
+        <longlatitude>131.246063</longlatitude>
+        <address>山口県宇部市新天町一丁目1番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-37-1400</phone>
+        <startTime>09:00:00</startTime>
+        <endTime>22:00:00</endTime>
+        <timeNotes>－</timeNotes>
+        <weekClosureday>第2火</weekClosureday>
+        <closureday>1229-0103</closureday>
+        <closuredayNotes>－</closuredayNotes>
+    </ube_aed>
+    <ube_aed id="157">
+        <label>宇部市中央卸売市場</label>
+        <latitude>33.971576</latitude>
+        <longlatitude>131.224203</longlatitude>
+        <address>山口県宇部市西平原四丁目4番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-32-6400</phone>
+    </ube_aed>
+    <ube_aed id="158">
+        <label>宇部市地方卸売市場</label>
+        <latitude>33.943908</latitude>
+        <longlatitude>131.246887</longlatitude>
+        <address>山口県宇部市港町二丁目5番1号</address>
+        <aedNumber>1</aedNumber>
+        <aedPlace>－</aedPlace>
+        <phone>0836-31-3434</phone>
+    </ube_aed>
+</dataroot>
